@@ -169,7 +169,8 @@
                       
                       <!-- Drop-off location start -->
                       <div class="input-group drop-off">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span>
+                        <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span> -->
+                        <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span></span>
                         <!-- <input type="text" name="drop-off-location" id="drop-off-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport"> -->
                         <select class="form-control autocomplete-location" name="drop-off-location" id="drop-off-location" required = "required">
                                         
