@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} ^rentcarisrael.online [nc]
+rewriterule ^(.*)$ http://www.rentcarisrael.online/$1 [r=301,nc]

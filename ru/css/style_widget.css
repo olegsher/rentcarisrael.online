@@ -1,0 +1,536 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+ol,ul{list-style:none;margin:0px;padding:0px;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+/* start editing from here */
+a{text-decoration:none;}
+.txt-rt{text-align:right;}/* text align right */
+.txt-lt{text-align:left;}/* text align left */
+.txt-center{text-align:center;}/* text align center */
+.float-rt{float:right;}/* float right */
+.float-lt{float:left;}/* float left */
+.clear{clear:both;}/* clear float */
+.pos-relative{position:relative;}/* Position Relative */
+.pos-absolute{position:absolute;}/* Position Absolute */
+.vertical-base{	vertical-align:baseline;}/* vertical align baseline */
+.vertical-top{	vertical-align:top;}/* vertical align top */
+nav.vertical ul li{	display:block;}/* vertical menu */
+nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
+img{max-width:100%;}
+/*end reset*/
+body{
+	font-family: 'Playfair Display SC', serif;
+/*	background:#00a4e4;*/
+}
+/*-- main --*/
+.main {
+    margin-top: 3em;
+  margin: 0 auto;
+    width: 31%;
+/*    background: #fff;*/
+/*	 box-shadow: rgb(5, 137, 188) 1px 1px,
+    rgb(5, 137, 188) 2px 2px,
+    rgb(5, 137, 188) 3px 3px,
+    rgb(5, 137, 188) 4px 4px,
+    rgb(5, 137, 188) 5px 5px,
+    rgb(5, 137, 188) 6px 6px,
+    rgb(5, 137, 188) 7px 7px,
+    rgb(5, 137, 188) 8px 8px,
+    rgb(5, 137, 188) 9px 9px,
+    rgb(5, 137, 188) 10px 10px,
+    rgb(5, 137, 188) 11px 11px,
+    rgb(5, 137, 188) 12px 12px,
+    rgb(5, 137, 188) 13px 13px,
+    rgb(5, 137, 188) 14px 14px,
+    rgb(5, 137, 188) 15px 15px,
+    rgb(5, 137, 188) 16px 16px,
+    rgb(5, 137, 188) 17px 17px,
+    rgb(5, 137, 188) 18px 18px,
+    rgb(5, 137, 188) 19px 19px,
+    rgb(5, 137, 188) 20px 20px,
+    rgb(5, 137, 188) 21px 21px,
+    rgb(5, 137, 188) 22px 22px,
+    rgb(5, 137, 188) 23px 23px,
+    rgb(5, 137, 188) 24px 24px,
+    rgb(5, 137, 188) 25px 25px,
+    rgb(5, 137, 188) 26px 26px,
+    rgb(5, 137, 188) 27px 27px,
+    rgb(5, 137, 188) 28px 28px,
+    rgb(5, 137, 188) 29px 29px,
+    rgb(5, 137, 188) 30px 30px,
+    rgb(5, 137, 188) 31px 31px,
+    rgb(5, 137, 188) 32px 32px,
+    rgb(5, 137, 188) 33px 33px,
+    rgb(5, 137, 188) 34px 34px,
+    rgb(5, 137, 188) 35px 35px,
+    rgb(5, 137, 188) 36px 36px,
+    rgb(5, 137, 188) 37px 37px,
+    rgb(5, 137, 188) 38px 38px,
+    rgb(5, 137, 188) 39px 39px,
+    rgb(5, 137, 188) 40px 40px,
+    rgb(5, 137, 188) 41px 41px,
+    rgb(5, 137, 188) 42px 42px,
+    rgb(5, 137, 188) 43px 43px,
+    rgb(5, 137, 188) 44px 44px,
+    rgb(5, 137, 188) 45px 45px,
+    rgb(5, 137, 188) 46px 46px,
+    rgb(5, 137, 188) 47px 47px,
+    rgb(5, 137, 188) 48px 48px,
+    rgb(5, 137, 188) 49px 49px,
+    rgb(5, 137, 188) 50px 50px,
+    rgb(5, 137, 188) 51px 51px,
+    rgb(5, 137, 188) 52px 52px,
+    rgb(5, 137, 188) 53px 53px,
+    rgb(5, 137, 188) 54px 54px,
+    rgb(5, 137, 188) 55px 55px,
+    rgb(5, 137, 188) 56px 56px,
+    rgb(5, 137, 188) 57px 57px,
+    rgb(5, 137, 188) 58px 58px,
+    rgb(5, 137, 188) 59px 59px,
+    rgb(5, 137, 188) 60px 60px,
+    rgb(5, 137, 188) 61px 61px,
+    rgb(5, 137, 188) 62px 62px,
+    rgb(5, 137, 188) 63px 63px,
+    rgb(5, 137, 188) 64px 64px,
+    rgb(5, 137, 188) 65px 65px,
+    rgb(5, 137, 188) 66px 66px,
+    rgb(5, 137, 188) 67px 67px,
+    rgb(5, 137, 189) 68px 68px,
+    rgb(5, 137, 189) 69px 69px,
+    rgb(5, 138, 189) 70px 70px,
+    rgb(5, 138, 189) 71px 71px,
+    rgb(5, 138, 189) 72px 72px,
+    rgb(5, 138, 190) 73px 73px,
+    rgb(5, 138, 190) 74px 74px,
+    rgb(5, 138, 190) 75px 75px,
+    rgb(5, 139, 190) 76px 76px,
+    rgb(5, 139, 191) 77px 77px,
+    rgb(5, 139, 191) 78px 78px,
+    rgb(5, 139, 191) 79px 79px,
+    rgb(5, 139, 191) 80px 80px,
+    rgb(5, 139, 191) 81px 81px,
+    rgb(5, 139, 192) 82px 82px,
+    rgb(5, 140, 192) 83px 83px,
+    rgb(5, 140, 192) 84px 84px,
+    rgb(5, 140, 192) 85px 85px,
+    rgb(5, 140, 193) 86px 86px,
+    rgb(5, 140, 193) 87px 87px,
+    rgb(5, 140, 193) 88px 88px,
+    rgb(5, 141, 193) 89px 89px,
+    rgb(5, 141, 193) 90px 90px,
+    rgb(5, 141, 194) 91px 91px,
+    rgb(5, 141, 194) 92px 92px,
+    rgb(5, 141, 194) 93px 93px,
+    rgb(5, 141, 194) 94px 94px,
+    rgb(5, 142, 195) 95px 95px,
+    rgb(5, 142, 195) 96px 96px,
+    rgb(5, 142, 195) 97px 97px,
+    rgb(5, 142, 195) 98px 98px,
+    rgb(5, 142, 195) 99px 99px,
+    rgb(5, 142, 196) 100px 100px,
+    rgb(5, 142, 196) 101px 101px,
+    rgb(5, 143, 196) 102px 102px,
+    rgb(5, 143, 196) 103px 103px,
+    rgb(5, 143, 196) 104px 104px,
+    rgb(5, 143, 197) 105px 105px,
+    rgb(5, 143, 197) 106px 106px,
+    rgb(5, 143, 197) 107px 107px,
+    rgb(5, 144, 197) 108px 108px,
+    rgb(5, 144, 198) 109px 109px,
+    rgb(5, 144, 198) 110px 110px,
+    rgb(5, 144, 198) 111px 111px,
+    rgb(5, 144, 198) 112px 112px,
+    rgb(5, 144, 198) 113px 113px,
+    rgb(5, 144, 199) 114px 114px,
+    rgb(5, 145, 199) 115px 115px,
+    rgb(5, 145, 199) 116px 116px,
+    rgb(5, 145, 199) 117px 117px,
+    rgb(5, 145, 200) 118px 118px,
+    rgb(5, 145, 200) 119px 119px,
+    rgb(5, 145, 200) 120px 120px,
+    rgb(5, 146, 200) 121px 121px,
+    rgb(5, 146, 200) 122px 122px,
+    rgb(5, 146, 201) 123px 123px,
+    rgb(5, 146, 201) 124px 124px,
+    rgb(5, 146, 201) 125px 125px,
+    rgb(5, 146, 201) 126px 126px,
+    rgb(5, 147, 202) 127px 127px,
+    rgb(5, 147, 202) 128px 128px,
+    rgb(5, 147, 202) 129px 129px,
+    rgb(5, 147, 202) 130px 130px,
+    rgb(5, 147, 202) 131px 131px,
+    rgb(5, 147, 203) 132px 132px,
+    rgb(5, 147, 203) 133px 133px,
+    rgb(5, 148, 203) 134px 134px,
+    rgb(5, 148, 203) 135px 135px,
+    rgb(5, 148, 203) 136px 136px,
+    rgb(5, 148, 204) 137px 137px,
+    rgb(5, 148, 204) 138px 138px,
+    rgb(5, 148, 204) 139px 139px,
+    rgb(5, 149, 204) 140px 140px,
+    rgb(5, 149, 205) 141px 141px,
+    rgb(5, 149, 205) 142px 142px,
+    rgb(5, 149, 205) 143px 143px,
+    rgb(5, 149, 205) 144px 144px,
+    rgb(5, 149, 205) 145px 145px,
+    rgb(5, 149, 206) 146px 146px,
+    rgb(5, 150, 206) 147px 147px,
+    rgb(5, 150, 206) 148px 148px,
+    rgb(5, 150, 206) 149px 149px,
+    rgb(5, 150, 207) 150px 150px;*/
+}
+body h1{
+    text-align:center;
+/*	color:#fff;*/
+	font-size:3em;
+	margin: 1em 0 0.5em;
+}
+.shoe_text {
+    text-align: center;
+/*    background: #f4f4f4;*/
+    border: 1px solid #ddd;
+       padding: 0.5em 0;
+       margin: 1em;
+	z-index:999;
+	margin-top:0;
+}
+.main-left{
+	  
+        padding: 1em 2em 3em 2em;
+}
+.shoe_text p{
+    font-size:1.1em;
+/*    color: #999;*/
+}
+.shoe_text h6{
+    font-size:1.3em;
+    color: #333;
+	    font-weight: bold;
+}
+.shoe_text h4{
+    font-size:1.5em;
+        color: #00A4E4;
+}
+.copyright {
+    margin: 3em 0 6em 0;
+    text-align: center;
+}
+.copyright p{
+	font-size: 1em;
+	color:#fff;
+	margin:0;
+}
+.copyright p a{
+	color:#fee878;
+}
+.copyright p a:hover{
+	color:#fff;
+}
+/*-- //main --*/
+/*-----start-responsive-design------*/
+@media (max-width:1680px){
+	
+}
+@media (max-width:1660px){
+	
+}
+@media (max-width: 1440px){
+	
+}
+@media (max-width: 1366px){
+	
+}
+@media (max-width: 1280px){
+	.main {
+		margin-top: 3em;
+		margin: 0 auto;
+		width:40%;
+	}
+}
+@media (max-width: 1024px){
+	.main {
+		margin-top: 3em;
+		margin: 0 auto;
+		width:50%;
+	}
+}
+@media (max-width:800px){
+	.main {
+		margin-top: 3em;
+		margin: 0 auto;
+		width: 56%;
+	}
+	.shoe_text h4 {
+		font-size: 1.4em;
+	}
+	body h1 {
+		font-size: 2.5em;
+		margin: 1em 0 0.5em;
+	}
+}
+@media (max-width: 736px){
+	.main {
+		margin-top: 3em;
+		margin: 0 auto;
+		width: 60%;
+	}
+}
+@media (max-width: 667px){
+	.main {
+		margin-top: 3em;
+		margin: 0 auto;
+		width: 65%;
+/*		 box-shadow: rgb(5, 137, 188) 1px 1px,
+    rgb(5, 137, 188) 2px 2px,
+    rgb(5, 137, 188) 3px 3px,
+    rgb(5, 137, 188) 4px 4px,
+    rgb(5, 137, 188) 5px 5px,
+    rgb(5, 137, 188) 6px 6px,
+    rgb(5, 137, 188) 7px 7px,
+    rgb(5, 137, 188) 8px 8px,
+    rgb(5, 137, 188) 9px 9px,
+    rgb(5, 137, 188) 10px 10px,
+    rgb(5, 137, 188) 11px 11px,
+    rgb(5, 137, 188) 12px 12px,
+    rgb(5, 137, 188) 13px 13px,
+    rgb(5, 137, 188) 14px 14px,
+    rgb(5, 137, 188) 15px 15px,
+    rgb(5, 137, 188) 16px 16px,
+    rgb(5, 137, 188) 17px 17px,
+    rgb(5, 137, 188) 18px 18px,
+    rgb(5, 137, 188) 19px 19px,
+    rgb(5, 137, 188) 20px 20px,
+    rgb(5, 137, 188) 21px 21px,
+    rgb(5, 137, 188) 22px 22px,
+    rgb(5, 137, 188) 23px 23px,
+    rgb(5, 137, 188) 24px 24px,
+    rgb(5, 137, 188) 25px 25px,
+    rgb(5, 137, 188) 26px 26px,
+    rgb(5, 137, 188) 27px 27px,
+    rgb(5, 137, 188) 28px 28px,
+    rgb(5, 137, 188) 29px 29px,
+    rgb(5, 137, 188) 30px 30px,
+    rgb(5, 137, 188) 31px 31px,
+    rgb(5, 137, 188) 32px 32px,
+    rgb(5, 137, 188) 33px 33px,
+    rgb(5, 137, 188) 34px 34px,
+    rgb(5, 137, 188) 35px 35px,
+    rgb(5, 137, 188) 36px 36px,
+    rgb(5, 137, 188) 37px 37px,
+    rgb(5, 137, 188) 38px 38px,
+    rgb(5, 137, 188) 39px 39px,
+    rgb(5, 137, 188) 40px 40px,
+    rgb(5, 137, 188) 41px 41px,
+    rgb(5, 137, 188) 42px 42px,
+    rgb(5, 137, 188) 43px 43px,
+    rgb(5, 137, 188) 44px 44px,
+    rgb(5, 137, 188) 45px 45px,
+    rgb(5, 137, 188) 46px 46px,
+    rgb(5, 137, 188) 47px 47px,
+    rgb(5, 137, 188) 48px 48px,
+    rgb(5, 137, 188) 49px 49px,
+    rgb(5, 137, 188) 50px 50px,
+    rgb(5, 137, 188) 51px 51px,
+    rgb(5, 137, 188) 52px 52px,
+    rgb(5, 137, 188) 53px 53px,
+    rgb(5, 137, 188) 54px 54px,
+    rgb(5, 137, 188) 55px 55px,
+    rgb(5, 137, 188) 56px 56px,
+    rgb(5, 137, 188) 57px 57px,
+    rgb(5, 137, 188) 58px 58px,
+    rgb(5, 137, 188) 59px 59px,
+    rgb(5, 137, 188) 60px 60px,
+    rgb(5, 137, 188) 61px 61px,
+    rgb(5, 137, 188) 62px 62px,
+    rgb(5, 137, 188) 63px 63px,
+    rgb(5, 137, 188) 64px 64px,
+    rgb(5, 137, 188) 65px 65px,
+    rgb(5, 137, 188) 66px 66px,
+    rgb(5, 137, 188) 67px 67px,
+    rgb(5, 137, 188) 68px 68px,
+    rgb(5, 137, 188) 69px 69px,
+    rgb(5, 137, 188) 70px 70px,
+    rgb(5, 137, 188) 71px 71px,
+    rgb(5, 137, 188) 72px 72px,
+    rgb(5, 137, 188) 73px 73px,
+    rgb(5, 137, 188) 74px 74px,
+    rgb(5, 137, 188) 75px 75px,
+    rgb(5, 137, 188) 76px 76px,
+    rgb(5, 137, 188) 77px 77px,
+    rgb(5, 137, 188) 78px 78px,
+    rgb(5, 137, 188) 79px 79px,
+    rgb(5, 137, 188) 80px 80px,
+    rgb(5, 137, 188) 81px 81px,
+    rgb(5, 137, 188) 82px 82px,
+    rgb(5, 137, 188) 83px 83px,
+    rgb(5, 137, 188) 84px 84px,
+    rgb(5, 137, 188) 85px 85px,
+    rgb(5, 137, 188) 86px 86px,
+    rgb(5, 137, 188) 87px 87px,
+    rgb(5, 137, 188) 88px 88px,
+    rgb(5, 137, 188) 89px 89px,
+    rgb(5, 137, 189) 90px 90px,
+    rgb(5, 138, 189) 91px 91px,
+    rgb(5, 138, 189) 92px 92px,
+    rgb(5, 138, 190) 93px 93px,
+    rgb(5, 138, 190) 94px 94px,
+    rgb(5, 139, 191) 95px 95px,
+    rgb(5, 139, 191) 96px 96px,
+    rgb(5, 139, 191) 97px 97px,
+    rgb(5, 140, 192) 98px 98px,
+    rgb(5, 140, 192) 99px 99px,
+    rgb(5, 140, 193) 100px 100px,
+    rgb(5, 140, 193) 101px 101px,
+    rgb(5, 141, 193) 102px 102px,
+    rgb(5, 141, 194) 103px 103px,
+    rgb(5, 141, 194) 104px 104px,
+    rgb(5, 142, 195) 105px 105px,
+    rgb(5, 142, 195) 106px 106px,
+    rgb(5, 142, 195) 107px 107px,
+    rgb(5, 142, 196) 108px 108px,
+    rgb(5, 143, 196) 109px 109px,
+    rgb(5, 143, 196) 110px 110px,
+    rgb(5, 143, 197) 111px 111px,
+    rgb(5, 143, 197) 112px 112px,
+    rgb(5, 144, 198) 113px 113px,
+    rgb(5, 144, 198) 114px 114px,
+    rgb(5, 144, 198) 115px 115px,
+    rgb(5, 145, 199) 116px 116px,
+    rgb(5, 145, 199) 117px 117px,
+    rgb(5, 145, 200) 118px 118px,
+    rgb(5, 145, 200) 119px 119px,
+    rgb(5, 146, 200) 120px 120px,
+    rgb(5, 146, 201) 121px 121px,
+    rgb(5, 146, 201) 122px 122px,
+    rgb(5, 147, 202) 123px 123px,
+    rgb(5, 147, 202) 124px 124px,
+    rgb(5, 147, 202) 125px 125px,
+    rgb(5, 147, 203) 126px 126px,
+    rgb(5, 148, 203) 127px 127px,
+    rgb(5, 148, 203) 128px 128px,
+    rgb(5, 148, 204) 129px 129px,
+    rgb(5, 148, 204) 130px 130px,
+    rgb(5, 149, 205) 131px 131px,
+    rgb(5, 149, 205) 132px 132px,
+    rgb(5, 149, 205) 133px 133px,
+    rgb(5, 150, 206) 134px 134px,
+    rgb(5, 150, 206) 135px 135px,
+    rgb(5, 150, 207) 136px 136px,
+    rgb(5, 150, 207) 137px 137px,
+    rgb(5, 151, 207) 138px 138px,
+    rgb(5, 151, 208) 139px 139px,
+    rgb(5, 151, 208) 140px 140px,
+    rgb(6, 152, 209) 141px 141px;*/
+	}
+	.shoe_text h4 {
+		font-size: 1.3em;
+	}
+}
+@media (max-width: 600px){
+	.main {
+    margin-top: 3em;
+    margin: 0 auto;
+    width: 83%;
+    
+	}
+}
+@media (max-width:568px){
+	
+}
+@media (max-width:480px){
+	body h1 {
+		font-size: 2.3em;
+		margin: 1em 0 0.5em;
+	}
+	.copyright {
+      margin: 3em 0 2em 0;
+	}
+	.main {
+    margin-top: 3em;
+    margin: 0 auto;
+    width: 86%;
+    
+	}
+	.shoe_text h4 {
+		font-size: 1.1em;
+	}
+	.shoe_text p {
+      font-size: 1em;
+	}
+}
+@media (max-width: 414px){
+	.main-left {
+		padding: 1em 1em 2em 1em;
+	}
+	body h1 {
+		font-size: 2em;
+		margin: 0.5em 0 0.3em;
+	}
+}
+@media (max-width: 384px){
+	.shoe_text {
+		    padding: 0.3em 0;
+			margin: 0em;
+			margin-top: 0;
+			width: 220px;
+	}
+	.shoe_text h4 {
+		font-size: 0.9em;
+	}
+	.shoe_text p {
+		font-size: 0.8em;
+	}
+	.shoe_text h6 {
+      font-size: 1.1em;
+	}
+	.copyright p {
+      font-size: 0.9em;
+	}
+	.main {
+    margin-top: 3em;
+    margin: 0 0 0 10px;
+    width: 86%;
+    
+
+	}
+	body h1 {
+		font-size: 1.8em;
+	}
+}
+@media (max-width:320px){
+	body h1 {
+		font-size: 1.6em;
+	}
+	.shoe_text h4 {
+		font-size: 0.8em;
+	}
+	.shoe_text p {
+		font-size: 0.78em;
+	}
+	.shoe_text h6 {
+		font-size: 0.9em;
+	}
+		.main {
+    margin-top: 3em;
+       margin: 0 0 0 10px;
+    width: 85%;
+    
+
+
+	}
+	.shoe_text {
+		padding: 0.3em 0;
+		margin: 0em;
+		margin-top: 0;
+		width: 222px;
+	}
+}
