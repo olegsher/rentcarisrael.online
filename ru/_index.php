@@ -6,7 +6,7 @@
                 
                     
     <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
-    <hr /><a  href="http://www.rentcarisrael.online/tours.php">Акция для клиентов - Частный гид за 250$</a>
+    <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a>
     <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a>
     <hr />Отделения во всех крупных городах Израиля
     <hr />Неограниченный километраж при заказе 3-30 дней
