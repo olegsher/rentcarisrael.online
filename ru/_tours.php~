@@ -156,7 +156,13 @@
                      <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="как к вам обращаться?" required = "required">  
+                        <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)" required = "required">  
+                      </div>                                         
+                    </div>
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="text" name="Last_name" class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)" required = "required">  
                       </div>                                         
                     </div>
                     
