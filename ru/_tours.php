@@ -115,6 +115,9 @@
                     </div>
 
                     <!-- Car select start -->
+                    
+                 <div class="input-group pick-up">
+                        <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span></span>
                     <div class="styled-select-car">
                       <select name="tour-select" id="tour-select">
                         <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
@@ -129,6 +132,7 @@
 							<option value="Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
 							<option value="Эксклюзивные экскурсии по Израилю от наших гидов - 250USD" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>
                       </select>
+                    </div>
                     </div>
                     <!-- Car select end -->
                     
