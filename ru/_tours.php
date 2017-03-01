@@ -146,8 +146,8 @@
                       <div class="input-group drop-off">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span>
                         <!-- <input type="text" name="drop-off-location" id="drop-off-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport"> -->
-                        <select class="form-control autocomplete-location" onfocus="this.value = '';"   name="drop-off-location" id="drop-off-location" required = "required">
-                                        <option value="">Отделение</option>
+                        <select class="form-control autocomplete-location" name="drop-off-location" id="drop-off-location" required = "required">
+                                        
                                         <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
