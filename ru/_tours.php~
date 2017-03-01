@@ -93,6 +93,112 @@
   </form>
                 
  
+ 
+	<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
+		<h1>Заполните форму и частный гид свяжется с вами для назначения экскурсии</h1>
+                <p style="color:red;" >Нет скрытых платежей, нет посредников, оплата напрямую гиду. 
+                    <br />Нет предоплаты, нет платы за изменение или отмену заказа 
+                    <br />Профессиональные частные гиды с официальной лицензией</p>
+                <br />
+               
+		
+		<div class="ban-bottom">
+ 			
+				
+<div class="reservation-form-shadow">
+
+                  <form action="#" method="post" name="car-select-form" id="car-select-form">
+
+                    <div class="alert alert-danger hidden" id="car-select-form-msg">
+                      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                      <strong>Note:</strong> All fields required!
+                    </div>
+
+                    <!-- Car select start -->
+                    <div class="styled-select-car">
+                      <select name="tour-select" id="tour-select">
+                        <option value="Иерусалим по вашим заявкам - 250USD" >Иерусалим по вашим заявкам - 250USD</option>							
+							<option value="Израиль Иудейский  - 250USD" >Израиль Иудейский  - 250USD</option>
+							<option value="Израиль Христианский - 250USD" >Израиль Христианский - 250USD </option>
+							<option value="Израиль Мусульманский - 250USD" >Израиль Мусульманский - 250USD</option>
+							<option value="Израиль трех религий - 250USD" >Израиль трех религий - 250USD</option>							
+							<option value="Израиль ознакомительный - 250USD" >Израиль ознакомительный - 250USD</option>
+							<option value="Израиль исторический - 250USD" >Израиль исторический - 250USD</option>
+							<option value="Израиль культурный - 250USD" >Израиль культурный - 250USD</option>
+							<option value="Израиль гастрономический - 250USD" >Израиль гастрономический - 250USD</option>							
+							<option value="Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD" >Эксклюзивные экскурсии по Иерусалиму от наших гидов - 250USD</option>
+							<option value="Эксклюзивные экскурсии по Израилю от наших гидов - 250USD" >Эксклюзивные экскурсии по Израилю от наших гидов - 250USD</option>
+                      </select>
+                    </div>
+                    <!-- Car select end -->
+
+                    <!-- Pick-up location start -->
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span></span>
+                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="откуда экскурсия?" required = "required">
+                      </div>                                         
+                    </div>
+                    <!-- Drop-off location end -->
+
+                    <!-- Pick-up date/time start -->
+                    <div class="datetime pick-up">
+                      <div class="date pull-left">
+                        <div class="input-group">
+                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span></span>
+                          <input type="text" name="pick-up-date" id="pick-up-date" class="form-control autocomplete-location" placeholder="желаемая дата" required = "required">
+                        </div>
+                      </div>
+                      
+                      
+                      
+                      
+                     <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="как к вам обращаться?" required = "required">  
+                      </div>                                         
+                    </div>
+                    
+                    
+                    
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
+                        <input type="text" name="email" class="form-control autocomplete-location" placeholder="ваша почта" required = "required">  
+                      </div>                                         
+                    </div>
+                    
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <input type="text" name="phone" class="form-control autocomplete-location" placeholder="ваш телефон-whatsapp-viber включая код страны" required = "required">  
+                      </div>                                         
+                    </div>
+                      
+                      
+                      <div class="clearfix"></div>
+                    </div>               
+
+
+                    <input type="submit" class="submit" name="submit" value="ЗАПРОСИТЬ ИНФОРМАЦИЮ" id="checkoutModalLabel">
+                  </form>
+
+                </div>                        
+		</div>
+          
+  </form>
+    <hr />            
+ * Указанная цена  250USD для заказывающих экскурсию на своей(арендованной ) машине <br />
+ * Оплата напрямую гиду <br />
+
+
+	</div> 
+ 
+ 
+ 
+ 
+ 
 
 <!--		</div>-->
 	</div>
