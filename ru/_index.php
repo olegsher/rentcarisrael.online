@@ -133,10 +133,10 @@
 
                        
                            <hr />
-                        Имя <input type="text" name="First_name" placeholder="на английском" required = "required">
+                        <!--Имя <input type="text" name="First_name" placeholder="на английском" required = "required">
                         Фамилия <input type="text" name="Last_name" placeholder="на английском" required = "required"> <br />
                         Почта <input type="email" name="email" placeholder="на нее придет ваучер" required = "required">
-                        Телефон <input type="text" name="phone" placeholder="включая код страны" required = "required"> <br />
+                        Телефон <input type="text" name="phone" placeholder="включая код страны" required = "required"> <br /> -->
                         
                         
                         <div class="location">
