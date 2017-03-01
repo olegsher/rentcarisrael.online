@@ -131,6 +131,25 @@
                       </select>
                     </div>
                     <!-- Car select end -->
+                    
+                    
+                    <!-- Pick-up location start -->
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
+                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
+                      </div>
+                      <!-- Pick-up location end -->
+
+                      <a class="different-drop-off" href="#">Need a different drop-off location?</a>
+
+                      <!-- Drop-off location start -->
+                      <div class="input-group drop-off">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span>
+                        <input type="text" name="drop-off-location" id="drop-off-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
+                      </div>
+                    </div>
+                    <!-- Drop-off location end -->
 
                    <!-- Pick-up date/time start -->
                     <div class="datetime pick-up">
