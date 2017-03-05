@@ -167,10 +167,18 @@
                         <input type="text" name="phone" class="form-control autocomplete-location" placeholder="ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
+                    
+                    
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года">  
+                      </div>                                         
+                    </div>
                         
                         
                         
-                        Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required"> 
+                       <!--  Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required">  -->
                         Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required"> 
                         
 		</div>
@@ -178,12 +186,13 @@
                             <hr />
                         <input type="checkbox" name="SuperCDW" value="V"> Добавить отмену личного участия при повреждении машины<br>
                         <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br>
-                        <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
-                        <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br>
-<!--                        <input type="checkbox" name="youngDriver" value="youngDriver"> Молодой водитель, менее года<br>-->
+                        
+                        <!-- <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
+                        <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br> -->
+<!--                        <input type="checkbox" name="youngDriver" value="youngDriver"> Молодой водитель, менее года<br>->
                         <input type="checkbox" name="addDriver" value="V"> Дополнительный водитель 2$ в день (бесплатно при заказе 7+ дней)<br>
                         <input type="checkbox" name="RoadSafe" value="V"> Быстрая помощь на дороге 4$ в день(максимум 100$)<br>
-                        <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br>
+                        <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br> -->
 <!--                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
                         <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>-->
                         <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br />
