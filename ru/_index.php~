@@ -24,10 +24,10 @@
 		<div class="ban-top">
 			<div class="bnr-left">
 				<label class="inputLabel">Выбирайте класс автомобиля</label>
-                                <!-- Car select start -->
+                               
                         
 						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Выбирайте машину';}" name="car-select" id="car-select" required = "required" autofocus>
-                            <option value="" >Категории автомобилей</option>							
+                     <option value="" >Категории автомобилей</option>							
 							<option value="Category Q" >Fiat 500(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
 							<option value="Category B" >Kia Picanto(механика) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
 							<option value="Category C" >Toyota Aygo(робот) или похожая в категории C - от 25$ в сутки(франшиза - 475$)</option>
@@ -37,18 +37,16 @@
 							<option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ сутки(франшиза - 475$)</option>
 							<option value="Category H" >Honda Civic(автомат) или похожая в категории H - от 41$ в сутки(франшиза - 715$)</option>
 							<option value="Category M" >Mazda 6(автомат) или похожая в категории M - от 47$ в сутки(франшиза - 715$)</option>
-<!--                                                    <option value="Category FH" >Honda Insight Hybrid или похожая в категории - от 17$ в сутки</option>-->
 							<option value="Category MH" >Honda Accord Hybrid(автомат) или похожая в категории MH - от 57$ в сутки(франшиза - 715$)</option>
 							<option value="Category T" >Fiat Doblo(механика, 5 мест) или похожая в категории T - от 60$ в сутки(франшиза - 475$)</option>
 							<option value="Category J" >Hyundai Tucson(автомат, 5 мест) или похожая в категории J - от 63$ в сутки(франшиза - 715$)</option>
 							<option value="Category U" >Mazda 5(автомат, 7 мест) или похожая в категории U - от 60$ в сутки(франшиза - 715$)</option>
-                            <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
-                            <option value="Category S" >Hyundai i800(механика, 8 мест) или похожая в категории S - от 104$ в сутки(франшиза - 960$)</option>
-                            <option value="Category V8" >Toyota Sienna(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
-                            <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
+                     <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
+                     <option value="Category S" >Hyundai i800(механика, 8 мест) или похожая в категории S - от 104$ в сутки(франшиза - 960$)</option>
+                     <option value="Category V8" >Toyota Sienna(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
+                     <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
 							<option value="Category Z" >Hyundai i800(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
-<!--                                                        <option value="Category R" >Chevrolet Malibu или похожая в категории R - от 52$ в сутки</option>-->
-                            <option value="Category P" >Volvo S80(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
+                     <option value="Category P" >Volvo S80(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
 							<option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
 							<option value="Category W" >BMW i535(автомат) или похожая в категории W - от 155$ в сутки(франшиза - 960$)</option>
 							<option value="Category O" >Toyota Highlander(автомат) или похожая в категории O - от 174$ в сутки(франшиза - 960$)</option>
@@ -125,60 +123,10 @@
                                 
                                
                                 
-                              <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required"> 
-                        <!-- 
-											<div class="form-group">
-  												<label for="dropoff-time">Время возврата машины</label>
-  												<select class="form-control" id="dropoff-time" name="dropoff-time">	
-  												<option value="12:00 AM">12:00 AM</option>
-                            <option value="12:30 AM">12:30 AM</option>
-                            <option value="01:00 AM">01:00 AM</option>
-                            <option value="01:30 AM">01:30 AM</option>
-                            <option value="02:00 AM">02:00 AM</option>
-                            <option value="02:30 AM">02:30 AM</option>
-                            <option value="03:00 AM">03:00 AM</option>
-                            <option value="03:30 AM">03:30 AM</option>
-                            <option value="04:00 AM">04:00 AM</option>
-                            <option value="04:30 AM">04:30 AM</option>
-                            <option value="05:00 AM">05:00 AM</option>
-                            <option value="05:30 AM">05:30 AM</option>
-                            <option value="06:00 AM">06:00 AM</option>
-                            <option value="06:30 AM">06:30 AM</option>
-                            <option value="07:00 AM">07:00 AM</option>
-                            <option value="07:30 AM">07:30 AM</option>
-                            <option value="08:00 AM">08:00 AM</option>
-                            <option value="08:30 AM">08:30 AM</option>
-                            <option value="09:00 AM">09:00 AM</option>
-                            <option value="09:30 AM">09:30 AM</option>
-                            <option value="10:00 AM">10:00 AM</option>
-                            <option value="10:30 AM">10:30 AM</option>
-                            <option value="11:00 AM">11:00 AM</option>
-                            <option value="11:30 AM">11:30 AM</option>
-                            <option value="12:00 PM">12:00 PM</option>
-                            <option value="12:30 PM">12:30 PM</option>
-                            <option value="01:00 PM">01:00 PM</option>
-                            <option value="01:30 PM">01:30 PM</option>
-                            <option value="02:00 PM">02:00 PM</option>
-                            <option value="02:30 PM">02:30 PM</option>
-                            <option value="03:00 PM">03:00 PM</option>
-                            <option value="03:30 PM">03:30 PM</option>
-                            <option value="04:00 PM">04:00 PM</option>
-                            <option value="04:30 PM">04:30 PM</option>
-                            <option value="05:00 PM">05:00 PM</option>
-                            <option value="05:30 PM">05:30 PM</option>
-                            <option value="06:00 PM">06:00 PM</option>
-                            <option value="06:30 PM">06:30 PM</option>
-                            <option value="07:00 PM">07:00 PM</option>
-                            <option value="07:30 PM">07:30 PM</option>
-                            <option value="08:00 PM">08:00 PM</option>
-                            <option value="08:30 PM">08:30 PM</option>
-                            <option value="09:00 PM">09:00 PM</option>
-                            <option value="09:30 PM">09:30 PM</option>
-                            <option value="10:00 PM">10:00 PM</option>
-                            <option value="10:30 PM">10:30 PM</option>
-                            <option value="11:00 PM">11:00 PM</option>
-                            <option value="11:30 PM">11:30 PM</option>			
-									</div> -->
+                                <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required">
+                        
+			
+			</div>
 <!--				<div class="clearfix"></div>-->
 		</div>
 		<div class="ban-bottom">
