@@ -58,9 +58,9 @@
                       <hr />  
                     
                         <div class="bnr-left">
-				<label class="inputLabel">Аренда</label>
-<!--				<input class="city" type="text" value="Отделение" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter a city';}" required=>-->
-                                <select class="city" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Отделение';}"  name="pickup-location" id="pickup-location" required = "required">
+				<label for="pickup-location">Аренда</label>
+				
+                                <select class="form-control" name="pickup-location" id="pickup-location" required = "required">
                                         <option value="">Отделение</option>
                                         <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
