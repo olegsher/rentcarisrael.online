@@ -157,14 +157,14 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                        <input type="text" name="email" class="form-control autocomplete-location" placeholder="ваша почта" required = "required">  
+                        <input type="text" name="email" class="form-control autocomplete-location" placeholder="Ваша почта" required = "required">  
                       </div>                                         
                     </div>
                     
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
-                        <input type="text" name="phone" class="form-control autocomplete-location" placeholder="ваш телефон-whatsapp-viber включая код страны" required = "required">  
+                        <input type="text" name="phone" class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
                     
