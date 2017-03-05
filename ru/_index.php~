@@ -92,9 +92,9 @@
 				
                     
                         <div class="bnr-right">
-				<label class="inputLabel">Возврат</label>				
-<!--				<input class="city" type="text" value="Отделение" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter a city';}" required=>-->
-                                <select class="city" onfocus="this.value = '';"   name="dropoff-location" id="dropoff-location" required = "required">
+				<label for="dropoff-location">Возврат</label>				
+
+                                <select class="form-control" name="dropoff-location" id="dropoff-location" required = "required">
                                         <option value="">Отделение</option>
                                         <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
