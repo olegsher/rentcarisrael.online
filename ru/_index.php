@@ -195,6 +195,16 @@
                       </div>                                         
                     </div>
                     
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
+                        Стаж вождения
+                        <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
+                        <label class="radio-inline"><input type="radio" name="DriverExperience">1-2</label>
+							   <label class="radio-inline"><input type="radio" name="DriverExperience">3+</label>							  
+                      </div>                                         
+                    </div>
+                    
                     
 							
                         
