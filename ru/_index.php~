@@ -125,7 +125,7 @@
                                 
                                
                                 
-                                <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required">
+                               <!--  <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required"> -->
                         
 											<div class="form-group">
   												<label for="dropoff-time">Время возврата машины</label>
