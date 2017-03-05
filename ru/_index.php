@@ -217,8 +217,7 @@
                         
   </form>
                 
- <a href="http://www.israeltour.online/ru/">
- <img class="wp-image-95 size-full" src="http://www.privateisrael.com/wp-content/uploads/2016/12/zakaz2.gif" alt="заказать частного гида всего за 250$ за экскурсию" width="250" height="76" /></a>
+ 
 
 
 	</div>
