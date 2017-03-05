@@ -171,15 +171,21 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
                         <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года">  
+                      </div>                                         
+                    </div>
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="number" name="DriverExperience" min="1" max="50" class="form-control autocomplete-location" placeholder="Стаж вождения от 1 года">  
                       </div>                                         
                     </div>
                         
                         
                         
-                        Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required"> 
-                        Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required"> 
+                       <!--  Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required">  -->
+                       <!--  Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required">  -->
                         
 		</div>
 

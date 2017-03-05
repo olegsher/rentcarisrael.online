@@ -171,15 +171,27 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
                         <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года">  
+                      </div>                                         
+                    </div>
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="number" name="DriverExperience" min="1" max="50" class="form-control autocomplete-location" placeholder="Стаж вождения от 1 года">  
+                      </div>                                         
+                    </div>
+                    <div class="location">
+                      <div class="input-group pick-up">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <input type="text" name="message" class="form-control autocomplete-location" placeholder="Дополнительная информация, вопрос...">  
                       </div>                                         
                     </div>
                         
                         
                         
                        <!--  Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required">  -->
-                        Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required"> 
+                       <!--  Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required">  -->
                         
 		</div>
 
@@ -195,7 +207,7 @@
                         <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br> -->
 <!--                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
                         <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>-->
-                        <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br />
+                        <!-- <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br /> -->
 <!--                        
                         <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
                         <br />
