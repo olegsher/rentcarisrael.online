@@ -122,6 +122,9 @@
                                         <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
                                 </select>
                                 <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
+                                
+                               
+                                
                                 <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required">
                         
 			</div>
@@ -215,8 +218,11 @@
 							<div class="checkbox">
   								<label><input type="checkbox" name="addDriver" value="V">Дополнительный водитель</label>
 							</div>
+							<div class="checkbox">
+  								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
+							</div>
                     
-                    
+                    <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>
                     
                     
 							
