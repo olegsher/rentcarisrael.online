@@ -157,7 +157,7 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                        <input type="text" name="email" class="form-control autocomplete-location" placeholder="Ваша почта" required = "required">  
+                        <input type="email" name="email" id="email" class="form-control autocomplete-location" placeholder="Ваша почта" required = "required">  
                       </div>                                         
                     </div>
                     
