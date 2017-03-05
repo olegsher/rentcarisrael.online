@@ -23,10 +23,10 @@
                 <form id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
-				<label class="inputLabel">Выбирайте класс автомобиля</label>
+				<label  for="car-select">Выбирайте класс автомобиля</label>
                                
                         
-						 <select onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Выбирайте машину';}" name="car-select" id="car-select" required = "required" autofocus>
+						 <select class="form-control" name="car-select" id="car-select" required = "required" >
                      <option value="" >Категории автомобилей</option>							
 							<option value="Category Q" >Fiat 500(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
 							<option value="Category B" >Kia Picanto(механика) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
