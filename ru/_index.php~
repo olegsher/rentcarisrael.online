@@ -163,7 +163,7 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
                         <input type="text" name="phone" class="form-control autocomplete-location" placeholder="ваш телефон-whatsapp-viber включая код страны" required = "required">  
                       </div>                                         
                     </div>
@@ -171,19 +171,19 @@
                     
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span>
                         <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-ok-circle"></span></span>
                         <input type="number" name="DriverExperience" min="1" max="50" class="form-control autocomplete-location" placeholder="Стаж вождения от 1 года">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-exclamation-sign"></span></span>
                         <input type="text" name="message" class="form-control autocomplete-location" placeholder="Дополнительная информация, вопрос...">  
                       </div>                                         
                     </div>
