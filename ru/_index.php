@@ -217,7 +217,8 @@
                         
   </form>
                 
- 
+ <h5><a href="http://www.israeltour.online/ru/"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
+ добавить индивидуальную экскурсию по Израилю с частным гидом</span></a></h5>
 
 
 	</div>
