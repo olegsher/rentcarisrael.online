@@ -124,7 +124,7 @@
                                
                                 
                                <!--  <input type="time" name="dropoff-time" id="dropoff-time" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}" required = "required"> -->
-                                <label for="dropoff-location">Возврат</label>				
+                               <!--  <label for="dropoff-location">Возврат</label> -->				
 
                                 <select class="form-control" name="dropoff-time" id="dropoff-time" required = "required">
                                         <option value="12:00 AM">12:00 AM</option>
