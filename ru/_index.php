@@ -213,7 +213,7 @@
   								<label><input type="checkbox" name="SuperTP" value="V">отмена личного участия при угоне машины</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="addDriver" value="V" disabled>Дополнительный водитель</label>
+  								<label><input type="checkbox" name="addDriver" value="V">Дополнительный водитель</label>
 							</div>
                     
                     
