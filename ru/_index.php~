@@ -119,8 +119,7 @@
                                         <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
                                         <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
                                 </select>
-                                <!-- <input name="dropoff-date" type="date"  min="2016-10-02" required = "required"> -->
-                                <input class="datepicker" data-date-format="mm/dd/yyyy" name="dropoff-date">
+                                <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
                                 
                                
                                 
