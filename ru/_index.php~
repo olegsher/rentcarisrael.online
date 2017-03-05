@@ -205,9 +205,9 @@
                       </div>                                         
                     </div>
                     
-                    <label class="checkbox-inline"><input type="SuperCDW" value="">отмена личного участия при повреждении машины</label>
-							<label class="checkbox-inline"><input type="SuperTP" value="">отмена личного участия при угоне машины</label>
-							<label class="checkbox-inline"><input type="addDriver" value="">Дополнительный водитель</label>
+                    <label class="checkbox-inline"><input type="SuperCDW" value="V">отмена личного участия при повреждении машины</label>
+							<label class="checkbox-inline"><input type="SuperTP" value="V">отмена личного участия при угоне машины</label>
+							<label class="checkbox-inline"><input type="addDriver" value="V">Дополнительный водитель</label>
                     
                     
                     
