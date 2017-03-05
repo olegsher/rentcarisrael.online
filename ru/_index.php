@@ -305,7 +305,9 @@
  <br /><img src="images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
  <br />говорим по русски
  <hr />
- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
- <hr />
+ 
+ 
 
 </div>
+<div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<hr />

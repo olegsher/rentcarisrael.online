@@ -306,5 +306,6 @@
  <br />говорим по русски
  <hr />
  <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+ <hr />
 
 </div>
