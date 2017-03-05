@@ -170,12 +170,12 @@
                     
                     
                     
-                    <div class="location">
+                    <!-- <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-ok-circle"></span></span>
                         <input type="number" name="DriverExperience" min="1" max="50" class="form-control autocomplete-location" placeholder="Стаж вождения от 1 года">  
                       </div>                                         
-                    </div>
+                    </div> -->
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-exclamation-sign"></span></span>
@@ -205,6 +205,12 @@
                       </div>                                         
                     </div>
                     
+                    <label class="checkbox-inline"><input type="SuperCDW" value="">отмена личного участия при повреждении машины</label>
+							<label class="checkbox-inline"><input type="SuperTP" value="">отмена личного участия при угоне машины</label>
+							<label class="checkbox-inline"><input type="addDriver" value="">Дополнительный водитель</label>
+                    
+                    
+                    
                     
 							
                         
@@ -215,9 +221,9 @@
                         
 		</div>
 
-                            <hr />
+                           <!--  <hr />
                         <input type="checkbox" name="SuperCDW" value="V"> Добавить отмену личного участия при повреждении машины<br>
-                        <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br>
+                        <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br> -->
                         
                         <!-- <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
                         <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br> -->
