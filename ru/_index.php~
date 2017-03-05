@@ -172,7 +172,11 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span>
-                        <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года">  
+                        <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> 
+                        <label class="radio-inline"><input type="radio" name="optradio">21-22</label>
+							   <label class="radio-inline"><input type="radio" name="optradio">23+</label>
+							   <label class="radio-inline"><input type="radio" name="optradio">25+</label>
+							   <label class="radio-inline"><input type="radio" name="optradio">28+</label> 
                       </div>                                         
                     </div>
                     <div class="location">
@@ -187,6 +191,12 @@
                         <input type="text" name="message" class="form-control autocomplete-location" placeholder="Дополнительная информация, вопрос...">  
                       </div>                                         
                     </div>
+                    
+                    
+							<label class="radio-inline"><input type="radio" name="optradio">21-22</label>
+							<label class="radio-inline"><input type="radio" name="optradio">23+</label>
+							<label class="radio-inline"><input type="radio" name="optradio">25+</label>
+							<label class="radio-inline"><input type="radio" name="optradio">28+</label>
                         
                         
                         
