@@ -188,10 +188,10 @@
                         <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
                         Возраст водителя
                         <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
-                        <label class="radio-inline"><input type="radio" name="age">21-22</label>
-							   <label class="radio-inline"><input type="radio" name="age">23+</label>
-							   <label class="radio-inline"><input type="radio" name="age">25+</label>
-							   <label class="radio-inline"><input type="radio" name="age">28+</label> 
+                        <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
+							   <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
+							   <label class="radio-inline"><input type="radio" name="age" value="25+">25+</label>
+							   <label class="radio-inline"><input type="radio" name="age" value="28+">28+</label> 
                       </div>                                         
                     </div>
                     
@@ -200,8 +200,8 @@
                         <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
                         Стаж вождения
                         <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
-                        <label class="radio-inline"><input type="radio" name="DriverExperience">1-2</label>
-							   <label class="radio-inline"><input type="radio" name="DriverExperience">3+</label>							  
+                        <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
+							   <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
                       </div>                                         
                     </div>
                     
@@ -212,7 +212,7 @@
 							<div class="checkbox">
   								<label><input type="checkbox" name="SuperTP" value="V">отмена личного участия при угоне машины</label>
 							</div>
-							<div class="checkbox disabled">
+							<div class="checkbox">
   								<label><input type="checkbox" name="addDriver" value="V" disabled>Дополнительный водитель</label>
 							</div>
                     
