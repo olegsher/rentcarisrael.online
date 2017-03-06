@@ -448,8 +448,8 @@
  <hr />
  
  
-
-</div>
 <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 <div class="fb-comments" data-href="http://www.rentcarisrael.online/" data-numposts="5"></div>
+</div>
+
 <hr />
