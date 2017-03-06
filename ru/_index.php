@@ -449,7 +449,7 @@
  
  
 <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-<div class="fb-comment-embed" data-href="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783&amp;substory_index=0" data-width="560" data-include-parent="true"></div>
+<div class="fb-comment-embed" data-href="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783" data-width="560" data-include-parent="false"></div>
 </div>
 
 <hr />
