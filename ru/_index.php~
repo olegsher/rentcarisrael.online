@@ -449,7 +449,7 @@
  
  
 <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-<div class="fb-comment-embed" data-href="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783" data-width="560" data-include-parent="false"></div>
+<div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783&amp;substory_index=0" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783&amp;substory_index=0" class="fb-xfbml-parse-ignore"><p>&#x41f;&#x43e;&#x43c;&#x43e;&#x433;&#x43b;&#x438; &#x430;&#x440;&#x435;&#x43d;&#x434;&#x43e;&#x432;&#x430;&#x442;&#x44c; &#x430;&#x432;&#x442;&#x43e;&#x43c;&#x43e;&#x431;&#x438;&#x43b;&#x44c;, &#x434;&#x435;&#x448;&#x435;&#x432;&#x43b;&#x435;, &#x447;&#x435;&#x43c; &#x432; &#x434;&#x440;&#x443;&#x433;&#x438;&#x445; &#x430;&#x433;&#x435;&#x43d;&#x442;&#x441;&#x442;&#x432;&#x430;&#x445;.  &#x41f;&#x440;&#x435;&#x434;&#x43e;&#x441;&#x442;&#x430;&#x432;&#x438;&#x43b;&#x438; &#x430;&#x432;&#x442;&#x43e;&#x43c;&#x43e;&#x431;&#x438;&#x43b;&#x44c; &#x43d;&#x43e;&#x432;&#x44b;&#x439; &#x438; &#x432;&#x44b;&#x448;&#x435; &#x43a;&#x43b;&#x430;&#x441;&#x441;&#x43e;&#x43c;.</p>Posted by <a href="https://www.facebook.com/people/&#x41e;&#x43b;&#x44c;&#x433;&#x430;-&#x420;&#x44b;&#x431;&#x430;&#x43a;&#x43e;&#x432;&#x430;/1829188783">Ольга Рыбакова</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=10206510895531017&amp;id=1829188783&amp;substory_index=0">Sunday, March 5, 2017</a></blockquote></div>
 </div>
 
 <hr />

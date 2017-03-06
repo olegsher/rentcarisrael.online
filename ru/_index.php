@@ -324,7 +324,7 @@
   								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
 							</div>
                     
-                    <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>
+                   <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
                     
                     
 							
