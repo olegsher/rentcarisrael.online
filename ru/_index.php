@@ -468,11 +468,11 @@
 
 <div class="container">
 <h4>Последние отзывы наших клиентов: </h4>
-<br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /> March 20, 2017 
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /></a> March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
-<br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /> March 16, 2017 
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /></a> March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
-<br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /> March 6, 2017 
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /></a> March 6, 2017 
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
 </div>
 
