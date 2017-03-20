@@ -252,7 +252,7 @@
                         <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" pattern="[A-Za-z]{20}"required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
+                        <input type="text" name="First_name" pattern="[A-Za-z]{20}" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
                       </div>                                         
                     </div>
                     <div class="location">
