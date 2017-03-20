@@ -15,6 +15,9 @@
                 
                 
 	</div>
+	
+	<h4><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
+ Только у нас майские празднике по це низкого сезона</h4>
 	<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 		<h1>Заполните форму и получите ваучер на почту</h1>
                 <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены. 
