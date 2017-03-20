@@ -464,7 +464,7 @@
 
 </div>
 
-<div>
+<div class="container">
 Последние отзывы наших клиентов: 
 <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /> March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
