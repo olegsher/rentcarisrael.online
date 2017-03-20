@@ -328,6 +328,9 @@
 							<div class="checkbox">
   								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
 							</div>
+							<div class="checkbox">
+  								<label><input type="checkbox" name="tour" value="V">Хочу узнать о экскурсии по Израилю</label>
+							</div>
                     
                    <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
                     
