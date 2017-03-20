@@ -252,13 +252,13 @@
                         <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" pattern="[A-Za-z]" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
+                        <input type="text" name="First_name" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="Last_name" pattern="[A-Za-z]" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
+                        <input type="text" name="Last_name" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
                       </div>                                         
                     </div>
                     
@@ -267,7 +267,7 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                        <input type="email" name="email" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">  
+                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">  
                       </div>                                         
                     </div>
                     
