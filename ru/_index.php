@@ -9,9 +9,9 @@
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
     <img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="30" height="30" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
-    <img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="30" height="30" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="30" height="30" />Неограниченный километраж при заказе 3-29 дней
-    <img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="30" height="30" />Огромные скидки при бронирование автомобиля на 30+ дней      
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="30" height="30" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="30" height="30" />Неограниченный километраж при заказе 3-29 дней
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="30" height="30" />Огромные скидки при бронирование автомобиля на 30+ дней      
 
                 
                 
