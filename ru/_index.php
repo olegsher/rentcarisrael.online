@@ -8,6 +8,8 @@
     <!-- <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
+    <hr /><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
+ Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
     <hr />Отделения во всех крупных городах Израиля
     <hr />Неограниченный километраж при заказе 3-29 дней
     <hr />Огромные скидки при заказе 30+ дней      
