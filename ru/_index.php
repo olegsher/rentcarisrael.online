@@ -63,7 +63,7 @@
                         <div class="bnr-left">
 				<label for="pickup-location">Аренда</label>
 				
-                                <select class="form-control" name="pickup-location" id="pickup-location" required = "required">
+                                <select class="form-control" name="pickup-location" id="pickup-location" required>
                                         <option value="">Отделение</option>
                                         <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
@@ -91,7 +91,8 @@
                                 <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
                                 <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
                                 <label for="pickup-time"></label>
-                                <select class="form-control" name="pickup-time" id="pickup-time" required = "required">
+                                <select class="form-control" name="pickup-time" id="pickup-time" required>
+                                <option value="">Время</option>
                                         <option value="12:00 AM">12:00 AM</option>
                             <option value="12:30 AM">12:30 AM</option>
                             <option value="01:00 AM">01:00 AM</option>
@@ -148,7 +149,7 @@
                         <div class="bnr-right">
 				<label for="dropoff-location">Возврат</label>				
 
-                                <select class="form-control" name="dropoff-location" id="dropoff-location" required = "required">
+                                <select class="form-control" name="dropoff-location" id="dropoff-location" required>
                                         <option value="">Отделение</option>
                                         <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
