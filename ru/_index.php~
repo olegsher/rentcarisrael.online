@@ -93,8 +93,8 @@
                                 <label for="pickup-time"></label>
                                 <select class="form-control" name="pickup-time" id="pickup-time" required>
                                 <option value="">Время</option>
-                                        <option value="12:00">12:00</option>
-                            <option value="0:30">0:30</option>
+                            <option value="00:00">00:00</option>
+                            <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>
                             <option value="01:30">01:30</option>
                             <option value="02:00">02:00</option>
@@ -183,7 +183,8 @@
 										 <label for="dropoff-time"></label>
                                 <select class="form-control" name="dropoff-time" id="dropoff-time" required>
                                 <option value="">Время</option>
-                                        <option value="0:30">0:30</option>
+                            <option value="00:00">00:00</option>
+                            <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>
                             <option value="01:30">01:30</option>
                             <option value="02:00">02:00</option>

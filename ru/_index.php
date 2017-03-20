@@ -274,7 +274,7 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
-                        <input type="text" name="phone" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
+                        <input type="text" name="phone" pattern="[0-9]{12}" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
                       </div>                                         
                     </div>
                     
