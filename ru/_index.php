@@ -252,13 +252,13 @@
                         <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" pattern="[A-Za-z]{20}" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
+                        <input type="text" name="First_name" pattern="[A-Za-z]" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="Last_name" pattern="[A-Za-z]{20}" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
+                        <input type="text" name="Last_name" pattern="[A-Za-z]" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
                       </div>                                         
                     </div>
                     
@@ -274,7 +274,7 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
-                        <input type="text" name="phone" pattern="[0-9]{12}" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
+                        <input type="text" name="phone" pattern="[0-9]" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
                       </div>                                         
                     </div>
                     
