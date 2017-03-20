@@ -8,10 +8,10 @@
     <!-- <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="30" height="30" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="30" height="30" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="30" height="30" />Неограниченный километраж при заказе 3-29 дней
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="30" height="30" />Огромные скидки при бронирование автомобиля на 30+ дней      
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
 
                 
                 
@@ -29,7 +29,7 @@
 				<label  for="car-select">Выбирайте класс автомобиля</label>
                                
                         
-						 <select class="form-control" name="car-select" id="car-select" required = "required" >
+						 <select class="form-control" name="car-select" id="car-select" required >
                      <option value="" >Категории автомобилей</option>							
 							<option value="Category Q" >Fiat 500(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
 							<option value="Category B" >Kia Picanto(механика) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
@@ -453,7 +453,7 @@
  <hr />
  
  
-<div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<!-- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> -->
 
 <br>Последние отзывы наших клиентов: 
 <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/five-star-review-facebook.png" alt="отзывы наших клиентов пять звезд" height="20" /> March 16, 2017 
