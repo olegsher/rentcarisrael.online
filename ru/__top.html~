@@ -49,7 +49,7 @@
                                                     <li><a href="terms.php">УСЛОВИЯ АРЕНДЫ</a></li>
                                                     <li><a href="faq.php">ЧаВо</a></li>
                                                     <li><a href="minivan.php">МИНИВЭНЫ</a></li>
-                                                    <li><a href="tours.php">ЭКСКУРСИИ</a></li>
+                                                   <!--  <li><a href="tours.php">ЭКСКУРСИИ</a></li> -->
 <!--                                                        <div class="clearfix"></div>-->
 						</ul>
 					</nav>
