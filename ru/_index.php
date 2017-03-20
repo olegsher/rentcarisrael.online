@@ -504,7 +504,9 @@
 <hr />
 <div class="container">
 <h4>Последние заказы на сайте: </h4>
-<img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />Татьяна 21 Mar 28 Mar 2017 категория E (CDAR)‎
+<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория E‎
+<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория D‎
+
 </div>
 
 

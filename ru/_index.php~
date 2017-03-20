@@ -501,10 +501,10 @@
 </div>
 
 
-
+<hr />
 <div class="container">
 <h4>Последние заказы на сайте: </h4>
-
+<img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />Татьяна 21 Mar 28 Mar 2017 категория E (CDAR)‎
 </div>
 
 
