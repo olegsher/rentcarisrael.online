@@ -8,7 +8,7 @@
     <!-- <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
     <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
     <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
-    <img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="30" height="30" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="30" height="30" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="30" height="30" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="30" height="30" />Неограниченный километраж при заказе 3-29 дней
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="30" height="30" />Огромные скидки при бронирование автомобиля на 30+ дней      
@@ -250,13 +250,13 @@
                         <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)" required = "required">  
+                        <input type="text" name="First_name" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)"">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="Last_name" class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)" required = "required">  
+                        <input type="text" name="Last_name" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
                       </div>                                         
                     </div>
                     
@@ -265,14 +265,14 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                        <input type="email" name="email" id="email" class="form-control autocomplete-location" placeholder="Ваша почта" required = "required">  
+                        <input type="email" name="email" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">  
                       </div>                                         
                     </div>
                     
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
-                        <input type="text" name="phone" class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" required = "required">  
+                        <input type="text" name="phone" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
                       </div>                                         
                     </div>
                     
