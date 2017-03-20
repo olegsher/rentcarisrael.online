@@ -12,7 +12,8 @@
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
     <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
-
+	 <br><a href="http://www.israeltour.online/ru/"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="20" height="20" />
+ Индивидуальные экскурсии по Израилю с частным гидом 250$</span></a>
                 
                 
 	</div>
@@ -329,7 +330,7 @@
   								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="tour" value="V">Хочу узнать о экскурсии по Израилю</label>
+  								<label><input type="checkbox" name="tour" value="V">Хочу узнать о индивидуальных экскурсиях по Израилю</label>
 							</div>
                     
                    <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
@@ -376,7 +377,7 @@
     * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
     * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
     Часы работы отделений - аэропорт Бен Гурион 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
-    Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br />
+    <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
     Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
     
@@ -411,8 +412,8 @@
 				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="tours.php">от лицензированного гида</a></h4>
+				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
+				<h4><a href="http://www.israeltour.online/">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
 				<div class="clearfix"></div>
