@@ -812,7 +812,7 @@ Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage
 <tr>
 <td>I SDAR</td>
 <td>
-<p>MAZDA 3  5 мест</p>
+Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus  5 мест
 </td>
 <td>34</td>
 <td>32</td>
