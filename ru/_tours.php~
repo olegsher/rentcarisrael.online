@@ -566,7 +566,7 @@
 <p>  7-29 <span style="font-weight: bold;">дней   </span></p>
 </td>
 <td>  30+ месяц </td>
-<td><br /></td>
+
 </tr>
 
 
@@ -584,7 +584,6 @@
 <td>94</td>
 <td>90</td>
 <td>1520</td>
-<td><a href="/cars-order-65.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 
 <tr>
