@@ -700,16 +700,7 @@
 
 
 
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"><span style="color: #ff0000;">Механическая коробка передач</span> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;"><br /></td>
-</tr>
+
 <tr>
 <td>B EBMR</td>
 <td>
@@ -721,7 +712,7 @@
 <td>37</td>
 <td>36</td>
 <td>790</td>
-<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 
 <tr>
@@ -735,23 +726,8 @@
 <td>94</td>
 <td>90 </td>
 <td>1290 </td>
-<td><a href="/cars-order-50.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
-<tr>
-<td width="108">
-<p> </p>
-</td>
-<td width="230">
-<p><span style="color: #ff0000;">Автоматическая коробка передач</span></p>
-</td>
-<td width="94"> </td>
-<td width="85"> </td>
-<td width="109"> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td><br /></td>
-</tr>
+
 <tr>
 <td width="108">
 <p>Q MBAR</p>
@@ -765,7 +741,7 @@
 <td>38</td>
 <td>37</td>
 <td>800</td>
-<td><a href="/cars-order-51.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td width="108">
@@ -810,7 +786,7 @@
 <td>40</td>
 <td>39</td>
 <td>825</td>
-<td><a href="/cars-order-54.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td>F IDAR</td>
@@ -823,7 +799,7 @@
 <td>44</td>
 <td>42</td>
 <td>930</td>
-<td><a href="/cars-order-55.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td>I SDAR</td>
