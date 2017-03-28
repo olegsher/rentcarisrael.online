@@ -573,7 +573,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 мест</td>
+<td>Toyota Highlander 7 мест</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -670,6 +670,16 @@
 <td>2930</td>
 </tr>
 
+<tr>
+<td>O MVAR</td>
+<td>Toyota Highlander 7 мест</td>
+<td>211</td>
+<td>194</td>
+<td>4390</td>
+<td>241</td>
+<td>224</td>
+<td>4690</td>
+</tr>
 
 
 <tr>
