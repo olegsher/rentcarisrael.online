@@ -637,26 +637,7 @@
 <td>191</td>
 <td>2420</td>
 </tr>
-</tbody>
-</table>    
-</div>
 
-
-
-<div class="table-responsive">     
-<table class="table table-bordered">
-<tbody>
-
-<tr>
-<td></td>
-<td></td>
-<td class="bg-info text-white">1-6 дней</td>
-<td class="bg-info text-white">7-29 дней</td>
-<td class="bg-info text-white">30+ месяц</td>
-<td class="bg-danger text-white">1-6 дней</td>
-<td class="bg-danger text-white">7-29 дней</td>
-<td class="bg-danger text-white">30+ месяц</td>
-</tr>
 
 <tr>
 <td>P XDAR</td>
