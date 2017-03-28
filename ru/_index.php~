@@ -800,6 +800,10 @@ Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage
 <td>F IDAR</td>
 <td>
 Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee 5 мест
+Прокат аренда в отделениях: Аэропорт Бен Гурион, Тель-Авив, <br>
+Эйлат, Иерусалим, Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, Бейт Шемеш, <br>
+Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>32</td>
 <td>30</td>
