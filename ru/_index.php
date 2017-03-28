@@ -565,9 +565,7 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td>
-<p>FORD GALAXY 7 мест</p>
-</td>
+<td>Ford Galaxy, Ssangyong Rodius, Kia Sorento, Seat Alambra, Mitsubishi Outlander  7 мест</td>
 <td>83</td>
 <td>77</td>
 <td>1550</td>
@@ -588,7 +586,7 @@
 
 <tr>
 <td>S PVMR</td>
-<td>HYUNDAY I-800 8 мест (M)</td>
+<td> Hyundai i800 8 мест (M)</td>
 <td>111</td>
 <td>104</td>
 <td>1760</td>
@@ -598,9 +596,7 @@
 </tr>
 <tr>
 <td>V8 SVAR</td>
-<td>
-<p>TOYOTA SIENNA LE 8 мест</p>
-</td>
+<td>Toyota Sienna LE, Kia Carnival 8 мест</td>
 <td>128</td>
 <td>120</td>
 <td>1870</td>
