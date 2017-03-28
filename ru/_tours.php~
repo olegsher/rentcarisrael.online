@@ -547,25 +547,25 @@
 
 
 
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td>
-<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"> </p>
 </td>
 <td><br /></td>
 <td>
-<p>&nbsp; 1-6 дней</p>
+<p>  1-6 дней</p>
 </td>
 <td>
-<p>&nbsp;7-29&nbsp;<span style="font-weight: bold;">дней</span></p>
+<p> 7-29 <span style="font-weight: bold;">дней</span></p>
 </td>
 <td>30+ месяц</td>
-<td>&nbsp; 1-6 дней &nbsp; &nbsp; &nbsp;</td>
+<td>  1-6 дней      </td>
 <td>
-<p>&nbsp; 7-29&nbsp;<span style="font-weight: bold;">дней   </span></p>
+<p>  7-29 <span style="font-weight: bold;">дней   </span></p>
 </td>
-<td>&nbsp; 30+ месяц&nbsp;</td>
+<td>  30+ месяц </td>
 <td><br /></td>
 </tr>
 
@@ -576,7 +576,7 @@
 <tr>
 <td>U PWAR</td>
 <td>
-<p>MAZDA 5 7&nbsp;SEATS</p>
+<p>MAZDA 5 7 мест</p>
 </td>
 <td>64</td>
 <td>60</td>
@@ -590,7 +590,7 @@
 <tr>
 <td>V MVAR</td>
 <td>
-<p>FORD GALAXY 7&nbsp;SEATS</p>
+<p>FORD GALAXY 7 мест</p>
 </td>
 <td>83</td>
 <td>77</td>
@@ -601,7 +601,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 SEATS</td>
+<td>TOYOTA HIGHLANDER 7 мест</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -612,7 +612,7 @@
 <tr>
 <td>V8 SVAR</td>
 <td>
-<p>TOYOTA SIENNA LE 8&nbsp;SEATS</p>
+<p>TOYOTA SIENNA LE 8 мест</p>
 </td>
 <td>128</td>
 <td>120</td>
@@ -625,7 +625,7 @@
 <tr>
 <td>Z PVAR</td>
 <td>
-<p>VW TRANSPORTER 9 SEATS</p>
+<p>VW TRANSPORTER 9 мест</p>
 </td>
 <td>140</td>
 <td>161</td>
@@ -637,7 +637,7 @@
 <tr>
 <td>S PVMR</td>
 <td>
-<p>HYUNDAY I-800 &nbsp; 8 SEATS</p>
+<p>HYUNDAY I-800   8 мест</p>
 </td>
 <td>111</td>
 <td>104</td>
@@ -649,7 +649,7 @@
 <tr>
 <td>Y PVMR</td>
 <td>
-<p>RENAULT TRAFFIC  9 SEATS</p>
+<p>RENAULT TRAFFIC  9 мест</p>
 </td>
 <td>100</td>
 <td>94</td>
@@ -669,19 +669,19 @@
 <tbody>
 
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"><span style="color: #ff0000;">Механическая коробка передач</span> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> </td>
 <td style="text-align: center;"><br /></td>
 </tr>
 <tr>
-<td>B&nbsp;EBMR</td>
+<td>B EBMR</td>
 <td>
-<p>SUZUKI ALTO, KIA PICANTO 4&nbsp;SEATS</p>
+<p>SUZUKI ALTO, KIA PICANTO 4 мест</p>
 </td>
 <td>25</td>
 <td>24</td>
@@ -695,29 +695,29 @@
 <tr>
 <td>T CVMR</td>
 <td>
-<p>FIAT DOBLO ACTIVE 5 SEATS</p>
+<p>FIAT DOBLO ACTIVE 5 мест</p>
 </td>
 <td>64</td>
-<td>60&nbsp;</td>
+<td>60 </td>
 <td>1050</td>
 <td>94</td>
-<td>90&nbsp;</td>
-<td>1290&nbsp;</td>
+<td>90 </td>
+<td>1290 </td>
 <td><a href="/cars-order-50.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td width="108">
-<p>&nbsp;</p>
+<p> </p>
 </td>
 <td width="230">
 <p><span style="color: #ff0000;">Автоматическая коробка передач</span></p>
 </td>
-<td width="94">&nbsp;</td>
-<td width="85">&nbsp;</td>
-<td width="109">&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td width="94"> </td>
+<td width="85"> </td>
+<td width="109"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td><br /></td>
 </tr>
 <tr>
@@ -725,7 +725,7 @@
 <p>Q MBAR</p>
 </td>
 <td width="230">
-<p>FIAT 500 &nbsp;4&nbsp;SEATS</p>
+<p>FIAT 500  4 мест</p>
 </td>
 <td width="94">25</td>
 <td width="85">24</td>
@@ -740,9 +740,9 @@
 <p>C ECAR</p>
 </td>
 <td width="230">
-<p>TOYOTA AYGO 4&nbsp;SEATS</p>
+<p>TOYOTA AYGO 4 мест</p>
 </td>
-<td width="94">&nbsp;26</td>
+<td width="94"> 26</td>
 <td width="85">25</td>
 <td width="109">620</td>
 <td>38</td>
@@ -755,7 +755,7 @@
 <p>D CCAR</p>
 </td>
 <td width="230">
-<p>HYUNDAI I20  4&nbsp;SEATS</p>
+<p>HYUNDAI I20  4 мест</p>
 </td>
 <td width="94">27</td>
 <td width="85">26</td>
@@ -770,7 +770,7 @@
 <p>E CDAR</p>
 </td>
 <td width="230">
-<p>FORD FIESTA  5&nbsp;SEATS</p>
+<p>FORD FIESTA  5 мест</p>
 </td>
 <td width="94">28</td>
 <td width="85">27</td>
@@ -783,7 +783,7 @@
 <tr>
 <td>F IDAR</td>
 <td>
-<p>KIA FORTE&nbsp;5&nbsp;SEATS</p>
+<p>KIA FORTE 5 мест</p>
 </td>
 <td>32</td>
 <td>30</td>
@@ -796,20 +796,20 @@
 <tr>
 <td>I SDAR</td>
 <td>
-<p>MAZDA 3  5&nbsp;SEATS</p>
+<p>MAZDA 3  5 мест</p>
 </td>
 <td>34</td>
 <td>32</td>
 <td>790</td>
 <td>46</td>
 <td>44</td>
-<td>970 &nbsp;</td>
+<td>970  </td>
 <td><a href="/cars-order-57.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td>H FDAR</td>
 <td>
-<p>HONDA CIVIC&nbsp;5&nbsp;SEATS</p>
+<p>HONDA CIVIC 5 мест</p>
 </td>
 <td>40</td>
 <td>38</td>
@@ -822,7 +822,7 @@
 
 <tr>
 <td>J IFAR<em></em></td>
-<td>KIA SPORTAGE&nbsp;5&nbsp;SEATS<em></em></td>
+<td>KIA SPORTAGE 5 мест<em></em></td>
 <td>67<em></em></td>
 <td>63<em></em></td>
 <td>1240<em></em></td>
@@ -837,14 +837,14 @@
 <p>M PDAR</p>
 </td>
 <td width="230">
-<p>MAZDA 6&nbsp;5&nbsp;SEATS</p>
+<p>MAZDA 6 5 мест</p>
 </td>
 <td width="94">50</td>
 <td width="85">47</td>
 <td width="109">1050</td>
 <td>65</td>
 <td>62</td>
-<td>1230&nbsp;</td>
+<td>1230 </td>
 <td><a href="/cars-order-59.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
@@ -852,7 +852,7 @@
 <p>MH SXAH</p>
 </td>
 <td width="230">
-<p>HONDA ACCORD HYBRID&nbsp;5&nbsp;SEATS</p>
+<p>HONDA ACCORD HYBRID 5 мест</p>
 </td>
 <td width="94">61</td>
 <td width="85">57</td>
@@ -865,7 +865,7 @@
 <tr>
 <td>K SXAR</td>
 <td>
-<p class="MsoNormal"><span>BMW i318&nbsp;</span></p>
+<p class="MsoNormal"><span>BMW i318 </span></p>
 </td>
 <td>91</td>
 <td>84</td>
@@ -878,7 +878,7 @@
 <tr>
 <td>P XDAR</td>
 <td>
-<p>BUICK LACROSSE&nbsp;5&nbsp;SEATS</p>
+<p>BUICK LACROSSE 5 мест</p>
 </td>
 <td>124</td>
 <td>116</td>
@@ -891,7 +891,7 @@
 <tr>
 <td>W WXAR</td>
 <td>
-<p>BMW I535&nbsp;5&nbsp;SEATS</p>
+<p>BMW I535 5 мест</p>
 </td>
 <td>167</td>
 <td>155</td>
@@ -903,7 +903,7 @@
 </tr>
 <tr>
 <td width="108">
-<p>        &nbsp;</p>
+<p>         </p>
 </td>
 
 </tbody>
