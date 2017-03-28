@@ -525,10 +525,21 @@
 <div class="container">
 <h4>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h4>
 <br>
-<div class="table-responsive">     
+<td><div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
 
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">Низкий сезон</td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white">Высокий сезон</td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
 <tr>
 <td></td>
 <td></td>
@@ -543,7 +554,7 @@
 <tr>
 <td>U PWAR</td>
 <td>
-<p>MAZDA 5 7 мест (A)</p>
+<p>MAZDA 5 7 мест</p>
 </td>
 <td>64</td>
 <td>60</td>
@@ -555,7 +566,7 @@
 <tr>
 <td>V MVAR</td>
 <td>
-<p>FORD GALAXY 7 мест (A)</p>
+<p>FORD GALAXY 7 мест</p>
 </td>
 <td>83</td>
 <td>77</td>
@@ -566,7 +577,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 мест (A)</td>
+<td>TOYOTA HIGHLANDER 7 мест</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -588,7 +599,7 @@
 <tr>
 <td>V8 SVAR</td>
 <td>
-<p>TOYOTA SIENNA LE 8 мест (A)</p>
+<p>TOYOTA SIENNA LE 8 мест</p>
 </td>
 <td>128</td>
 <td>120</td>
@@ -601,8 +612,7 @@
 
 <tr>
 <td>Y PVMR</td>
-<td>
-<p>RENAULT TRAFFIC 9 мест (M)</p>
+<td>Renault Traffic, Hyundai i800 9 мест (M)
 </td>
 <td>100</td>
 <td>94</td>
@@ -613,9 +623,7 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td>
-<p>VW TRANSPORTER 9 мест (A)</p>
-</td>
+<td>VW Transporter, Citroen Jumpy, Hyundai i800 9 мест</td>
 <td>140</td>
 <td>161</td>
 <td>2120</td>
@@ -623,9 +631,265 @@
 <td>191</td>
 <td>2420</td>
 </tr>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+
+<tr>
+<td>P XDAR</td>
+<td>BUICK LACROSSE</td>
+<td>124</td>
+<td>116</td>
+<td>2170</td>
+<td>154</td>
+<td>146</td>
+<td>2410</td>
+</tr>
+
+<tr>
+<td>K SXAR</td>
+<td>BMW i318</td>
+<td>91</td>
+<td>84</td>
+<td>1590</td>
+<td>106</td>
+<td>99</td>
+<td>1770</td>
+</tr>
+<tr>
+<td>W WXAR</td>
+<td>BMW I535</td>
+<td>167</td>
+<td>155</td>
+<td>2690</td>
+<td>197</td>
+<td>185</td>
+<td>2930</td>
+</tr>
+
+
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td>B EBMR</td>
+<td>
+<p>SUZUKI ALTO, KIA PICANTO 4 мест (M)</p>
+</td>
+<td>25</td>
+<td>24</td>
+<td>610</td>
+<td>37</td>
+<td>36</td>
+<td>790</td>
+
+</tr>
+
+<tr>
+<td>T CVMR</td>
+<td>
+<p>FIAT DOBLO ACTIVE 5 мест (M)</p>
+</td>
+<td>64</td>
+<td>60 </td>
+<td>1050</td>
+<td>94</td>
+<td>90 </td>
+<td>1290 </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+<tr>
+<td>
+<p>Q MBAR</p>
+</td>
+<td>
+<p>FIAT 500  4 мест</p>
+</td>
+<td>25</td>
+<td>24</td>
+<td>610</td>
+<td>38</td>
+<td>37</td>
+<td>800</td>
+
+</tr>
+<tr>
+<td>
+<p>C ECAR</p>
+</td>
+<td>TOYOTA AYGO 4 мест</td>
+<td> 26</td>
+<td>25</td>
+<td>620</td>
+<td>38</td>
+<td>37</td>
+<td>800</td>
+
+</tr>
+<tr>
+<td>
+<p>D CCAR</p>
+</td>
+<td>
+<p>HYUNDAI I20  4 мест</p>
+</td>
+<td>27</td>
+<td>26</td>
+<td>630</td>
+<td>39</td>
+<td>38</td>
+<td>810</td>
+
+</tr>
+<tr>
+<td>
+<p>E CDAR</p>
+</td>
+<td>
+<p>FORD FIESTA  5 мест</p>
+</td>
+<td>28</td>
+<td>27</td>
+<td>645</td>
+<td>40</td>
+<td>39</td>
+<td>825</td>
+
+</tr>
+<tr>
+<td>F IDAR</td>
+<td>
+<p>KIA FORTE 5 мест</p>
+</td>
+<td>32</td>
+<td>30</td>
+<td>750</td>
+<td>44</td>
+<td>42</td>
+<td>930</td>
+
+</tr>
+<tr>
+<td>I SDAR</td>
+<td>
+<p>MAZDA 3  5 мест</p>
+</td>
+<td>34</td>
+<td>32</td>
+<td>790</td>
+<td>46</td>
+<td>44</td>
+<td>970  </td>
+
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+<tr>
+<td>H FDAR</td>
+<td>
+<p>HONDA CIVIC 5 мест</p>
+</td>
+<td>40</td>
+<td>38</td>
+<td>960</td>
+<td>52</td>
+<td>50</td>
+<td>1140</td>
+
+</tr>
+
+<tr>
+<td>J IFAR</td>
+<td>KIA SPORTAGE 5 мест</td>
+<td>67</td>
+<td>63</td>
+<td>1240</td>
+<td>97</td>
+<td>93</td>
+<td>1480</td>
+
+</tr>
+
+<tr>
+<td>
+<p>M PDAR</p>
+</td>
+<td>
+<p>MAZDA 6 5 мест</p>
+</td>
+<td>50</td>
+<td>47</td>
+<td>1050</td>
+<td>65</td>
+<td>62</td>
+<td>1230 </td>
+
+</tr>
+<tr>
+<td>
+<p>MH SXAH</p>
+</td>
+<td>
+<p>HONDA ACCORD HYBRID 5 мест</p>
+</td>
+<td>61</td>
+<td>57</td>
+<td>1450</td>
+<td>76</td>
+<td>72</td>
+<td>1630</td>
+
+</tr>
+
 </tbody>
 </table>    
-</div>
+</div> 
 
 </div>
 

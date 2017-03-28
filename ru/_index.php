@@ -612,8 +612,7 @@
 
 <tr>
 <td>Y PVMR</td>
-<td>
-<p>RENAULT TRAFFIC 9 мест (M)</p>
+<td>Renault Traffic, Hyundai i800 9 мест (M)
 </td>
 <td>100</td>
 <td>94</td>
@@ -624,9 +623,7 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td>
-<p>VW TRANSPORTER 9 мест</p>
-</td>
+<td>VW Transporter, Citroen Jumpy, Hyundai i800 9 мест</td>
 <td>140</td>
 <td>161</td>
 <td>2120</td>
