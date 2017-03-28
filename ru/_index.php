@@ -702,7 +702,7 @@
 <tr>
 <td>B EBMR</td>
 <td>
-<p>SUZUKI ALTO, KIA PICANTO 4 мест (M)</p>
+Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (M)
 </td>
 <td>25</td>
 <td>24</td>
@@ -757,7 +757,7 @@
 <td>
 <p>C ECAR</p>
 </td>
-<td>TOYOTA AYGO 4 мест</td>
+<td>Toyota Aygo 4 мест</td>
 <td> 26</td>
 <td>25</td>
 <td>620</td>
