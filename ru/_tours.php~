@@ -638,6 +638,17 @@
 <td>2420</td>
 </tr>
 
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
 
 <tr>
 <td>P XDAR</td>
