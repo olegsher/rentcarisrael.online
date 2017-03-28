@@ -538,6 +538,390 @@
     
     
     <div class="clearfix"></div>
+    
+    
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Кл<strong>асс</strong></strong></td>
+<td style="text-align: center;">
+<p><strong><strong>Марки машин, входящих в группу</strong></strong></p>
+<p><span class="text_gray"><span style="color: #ff0000;"><strong><strong>Внимание! Подтверждается только класс,</strong></strong></span></span></p>
+<p><span class="text_gray"><span style="color: #ff0000;"><strong><strong>&nbsp;а не конкретная марка автомобиля!</strong></strong></span></span></p>
+</td>
+<td style="text-align: center;" colspan="3"><strong><strong>НИЗКИЙ СЕЗОН</strong></strong>
+<p><span style="font-weight: bold;"><strong>06/01/17-03/04/17</strong></span></p>
+<p><strong><strong>19/04/17-15/07/17</strong></strong></p>
+<p><strong><strong>26/08/17-20/12/17</strong></strong></p>
+</td>
+<td style="text-align: center;" colspan="3">
+<p>&nbsp;</p>
+<p><span style="font-weight: bold;">ВЫСОКИЙ СЕЗОН</span></p>
+<p><strong><strong>03/04/17-19/04/17</strong></strong></p>
+<p><strong><strong>15/07/17- 26/08/17</strong></strong></p>
+<p><strong><strong>20/12/17- 06/01/18</strong></strong></p>
+<p><strong><br /></strong></p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: left;">&nbsp;</p>
+</td>
+<td><strong><strong><br /></strong></strong></td>
+<td>
+<p><strong><strong>&nbsp; 1-6 дней</strong></strong></p>
+</td>
+<td>
+<p><strong><strong>&nbsp;7-29&nbsp;</strong><span style="font-weight: bold;">дней</span></strong></p>
+</td>
+<td><strong><strong>30+ месяц</strong></strong></td>
+<td><strong><strong>&nbsp; 1-6 дней &nbsp; &nbsp; &nbsp;</strong></strong></td>
+<td>
+<p><strong><strong>&nbsp; 7-29</strong>&nbsp;<span style="font-weight: bold;">дней &nbsp;&nbsp;</span></strong></p>
+</td>
+<td><strong><strong>&nbsp; 30+ месяц&nbsp;</strong></strong></td>
+<td><strong><br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><strong><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</strong></strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><br /></strong></td>
+</tr>
+<tr>
+<td><strong><strong>B&nbsp;EBMR</strong></strong></td>
+<td>
+<p><strong><strong>SUZUKI ALTO, KIA PICANTO 4</strong></strong>&nbsp;<strong>SEATS</strong></p>
+</td>
+<td><strong><strong>25</strong></strong></td>
+<td><strong><strong>24</strong></strong></td>
+<td><strong><strong>610</strong></strong></td>
+<td><strong><strong>37</strong></strong></td>
+<td><strong><strong>36</strong></strong></td>
+<td><strong>790</strong></td>
+<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong><strong>S PVMR</strong></strong></td>
+<td>
+<p><strong><strong>HYUNDAY I-800 &nbsp; 8 SEATS</strong></strong></p>
+</td>
+<td><strong><strong>111</strong></strong></td>
+<td><strong><strong>104</strong></strong></td>
+<td><strong><strong>1760</strong></strong></td>
+<td><strong><strong>141</strong></strong></td>
+<td><strong><strong>134</strong></strong></td>
+<td><strong><strong>2060</strong></strong></td>
+<td><a href="/cars-order-48.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>Y PVMR</strong></td>
+<td>
+<p><strong>RENAULT TRAFFIC&nbsp;&nbsp;9 SEATS</strong></p>
+</td>
+<td><strong>100</strong></td>
+<td><strong>94</strong></td>
+<td><strong>1600</strong></td>
+<td><strong>130</strong></td>
+<td><strong>124</strong></td>
+<td><strong>1900</strong></td>
+<td><a href="/cars-order-49.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong><strong>T CVMR</strong></strong></td>
+<td>
+<p><strong><strong>FIAT DOBLO ACTIVE 5 SEATS</strong></strong></p>
+</td>
+<td><strong><strong>64</strong></strong></td>
+<td><strong><strong>60&nbsp;</strong></strong></td>
+<td><strong>1050</strong></td>
+<td><strong>94</strong></td>
+<td><strong><strong>90&nbsp;</strong></strong></td>
+<td><strong><strong>1290&nbsp;</strong></strong></td>
+<td><a href="/cars-order-50.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td width="108">
+<p>&nbsp;</p>
+</td>
+<td width="230">
+<p><span style="color: #ff0000;"><strong><strong>Автоматическая коробка передач</strong></strong></span></p>
+</td>
+<td width="94">&nbsp;</td>
+<td width="85">&nbsp;</td>
+<td width="109">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><strong><br /></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong>Q MBAR</strong></strong></p>
+</td>
+<td width="230">
+<p><strong><strong>FIAT 500 &nbsp;4</strong></strong><strong>&nbsp;SEATS</strong></p>
+</td>
+<td width="94"><strong>25</strong></td>
+<td width="85"><strong>24</strong></td>
+<td width="109"><strong>610</strong></td>
+<td><strong>38</strong></td>
+<td><strong>37</strong></td>
+<td><strong>800</strong></td>
+<td><strong><a href="/cars-order-51.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong><strong>C ECAR</strong></strong></strong></p>
+</td>
+<td width="230">
+<p><strong><strong><strong>TOYOTA AYGO 4</strong></strong></strong><strong>&nbsp;SEATS</strong></p>
+</td>
+<td width="94"><strong>&nbsp;26</strong></td>
+<td width="85"><strong>25</strong></td>
+<td width="109"><strong>620</strong></td>
+<td><strong>38</strong></td>
+<td><strong>37</strong></td>
+<td><strong>800</strong></td>
+<td><strong><a href="/cars-order-52.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong><strong>D CCAR</strong></strong></strong></p>
+</td>
+<td width="230">
+<p><strong><strong><strong>HYUNDAI I20&nbsp;</strong></strong></strong><strong><strong>&nbsp;4</strong><strong>&nbsp;SEATS</strong></strong></p>
+</td>
+<td width="94"><strong>27</strong></td>
+<td width="85"><strong>26</strong></td>
+<td width="109"><strong>630</strong></td>
+<td><strong>39</strong></td>
+<td><strong>38</strong></td>
+<td><strong>810</strong></td>
+<td><strong><a href="/cars-order-53.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong><strong>E CDAR</strong></strong></strong></p>
+</td>
+<td width="230">
+<p><strong><strong><strong>FORD FIESTA&nbsp;</strong></strong></strong><strong><strong>&nbsp;5</strong><strong>&nbsp;SEATS</strong></strong></p>
+</td>
+<td width="94"><strong>28</strong></td>
+<td width="85"><strong>27</strong></td>
+<td width="109"><strong>645</strong></td>
+<td><strong>40</strong></td>
+<td><strong>39</strong></td>
+<td><strong>825</strong></td>
+<td><strong><a href="/cars-order-54.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><strong><strong>F IDAR</strong></strong></strong></td>
+<td>
+<p><strong><strong><strong>KIA FORTE&nbsp;</strong></strong></strong><strong>5<strong>&nbsp;SEATS</strong></strong></p>
+</td>
+<td><strong>32</strong></td>
+<td><strong>30</strong></td>
+<td><strong>750</strong></td>
+<td><strong>44</strong></td>
+<td><strong>42</strong></td>
+<td><strong>930</strong></td>
+<td><strong><a href="/cars-order-55.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><strong>I SDAR</strong></strong></td>
+<td>
+<p><strong>MAZDA 3&nbsp;<strong><strong>&nbsp;</strong><strong>5<strong>&nbsp;SEATS</strong></strong></strong></strong></p>
+</td>
+<td><strong>34</strong></td>
+<td><strong><strong>32</strong></strong></td>
+<td><strong><strong>790</strong></strong></td>
+<td><strong><strong>46</strong></strong></td>
+<td><strong><strong>44</strong></strong></td>
+<td><strong><strong><strong><strong>970 &nbsp;</strong></strong></strong></strong></td>
+<td><strong><strong><a href="/cars-order-57.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></strong></td>
+</tr>
+<tr>
+<td><strong><strong><strong><strong>H FDAR</strong></strong></strong></strong></td>
+<td>
+<p><strong><strong><strong><strong>HONDA CIVIC&nbsp;</strong></strong></strong>5<strong>&nbsp;SEATS</strong></strong></p>
+</td>
+<td><strong><strong>40</strong></strong></td>
+<td><strong><strong>38</strong></strong></td>
+<td><strong><strong>960</strong></strong></td>
+<td><strong><strong>52</strong></strong></td>
+<td><strong><strong>50</strong></strong></td>
+<td><strong><strong>1140</strong></strong></td>
+<td><strong><strong><a href="/cars-order-58.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong><strong><strong>M PDAR</strong></strong></strong></strong></p>
+</td>
+<td width="230">
+<p><strong>MAZDA 6&nbsp;5&nbsp;SEATS</strong></p>
+</td>
+<td width="94"><strong>50</strong></td>
+<td width="85"><strong><strong>47</strong></strong></td>
+<td width="109"><strong><strong>1050</strong></strong></td>
+<td><strong><strong>65</strong></strong></td>
+<td><strong><strong>62</strong></strong></td>
+<td><strong><strong><strong><strong>1230&nbsp;</strong></strong></strong></strong></td>
+<td><strong><strong><a href="/cars-order-59.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></strong></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong><strong><strong>MH SXAH</strong></strong></strong></strong></p>
+</td>
+<td width="230">
+<p><strong><strong><strong><strong>HONDA ACCORD HYBRID&nbsp;</strong></strong></strong>5&nbsp;SEATS</strong></p>
+</td>
+<td width="94"><strong><strong>61</strong></strong></td>
+<td width="85"><strong><strong>57</strong></strong></td>
+<td width="109"><strong><strong>1450</strong></strong></td>
+<td><strong><strong>76</strong></strong></td>
+<td><strong><strong>72</strong></strong></td>
+<td><strong><strong>1630</strong></strong></td>
+<td><strong><strong><a href="/cars-order-60.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></strong></td>
+</tr>
+<tr>
+<td><strong>K SXAR</strong></td>
+<td>
+<p class="MsoNormal"><span><strong>BMW i318&nbsp;</strong></span></p>
+</td>
+<td><strong>91</strong></td>
+<td><strong>84</strong></td>
+<td><strong>1590</strong></td>
+<td><strong>106</strong></td>
+<td><strong>99</strong></td>
+<td><strong>1770</strong></td>
+<td><a href="/cars-order-69.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>P XDAR</strong></td>
+<td>
+<p><strong>BUICK LACROSSE&nbsp;5&nbsp;SEATS</strong></p>
+</td>
+<td><strong>124</strong></td>
+<td><strong>116</strong></td>
+<td><strong>2170</strong></td>
+<td><strong>154</strong></td>
+<td><strong>146</strong></td>
+<td><strong>2410</strong></td>
+<td><a href="/cars-order-63.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>W WXAR</strong></td>
+<td>
+<p><strong>BMW I535&nbsp;5&nbsp;SEATS</strong></p>
+</td>
+<td><strong>167</strong></td>
+<td><strong>155</strong></td>
+<td><strong>2690</strong></td>
+<td><strong>197</strong></td>
+<td><strong>185</strong></td>
+<td><strong>2930</strong></td>
+<td><a href="/cars-order-64.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td width="108">
+<p><strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></strong></p>
+</td>
+<td width="230">
+<p><span style="color: #ff0000;"><strong><strong>Минивэны</strong></strong></span></p>
+</td>
+<td width="94">&nbsp;</td>
+<td width="85">&nbsp;</td>
+<td width="109">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><strong><br /></strong></td>
+</tr>
+<tr>
+<td><strong>U PWAR</strong></td>
+<td>
+<p><strong>MAZDA 5 7&nbsp;SEATS</strong></p>
+</td>
+<td><strong>64</strong></td>
+<td><strong>60</strong></td>
+<td><strong>1220</strong></td>
+<td><strong>94</strong></td>
+<td><strong>90</strong></td>
+<td><strong>1520</strong></td>
+<td><a href="/cars-order-65.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong><strong>J IFAR</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>KIA SPORTAGE&nbsp;5&nbsp;SEATS</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>67</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>63</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>1240</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>97</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>93</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>1480</strong></strong><strong></strong><em></em></td>
+<td><a href="/cars-order-65.html" target="_blank"></a><strong></strong><em><a href="/cars-order-62.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></em></td>
+</tr>
+<tr>
+<td><strong>V MVAR</strong></td>
+<td>
+<p><strong>FORD GALAXY 7&nbsp;SEATS</strong></p>
+</td>
+<td><strong>83</strong></td>
+<td><strong>77</strong></td>
+<td><strong>1550</strong></td>
+<td><strong>113</strong></td>
+<td><strong>107</strong></td>
+<td><strong>1850</strong></td>
+<td><a href="/cars-order-66.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>O MVAR</strong></td>
+<td><strong>TOYOTA HIGHLANDER 7 SEATS</strong></td>
+<td><strong>211</strong></td>
+<td><strong>194</strong></td>
+<td><strong>4390</strong></td>
+<td><strong>241</strong></td>
+<td><strong>224</strong></td>
+<td><strong>4690</strong></td>
+<td><a href="/cars-order-77.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>V8 SVAR</strong></td>
+<td>
+<p><strong>TOYOTA SIENNA LE 8</strong>&nbsp;<strong>SEATS</strong></p>
+</td>
+<td><strong>128</strong></td>
+<td><strong>120</strong></td>
+<td><strong>1870</strong></td>
+<td><strong>158</strong></td>
+<td><strong>150</strong></td>
+<td><strong>2170</strong></td>
+<td><a href="/cars-order-67.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+<tr>
+<td><strong>Z PVAR</strong></td>
+<td>
+<p><strong>VW TRANSPORTER 9 SEATS</strong></p>
+</td>
+<td><strong>140</strong></td>
+<td><strong>161</strong></td>
+<td><strong>2120</strong></td>
+<td><strong>170</strong></td>
+<td><strong>191</strong></td>
+<td><strong>2420</strong></td>
+<td><a href="/cars-order-68.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+</tbody>
+</table>    
+    
+    
+    
         
 <hr />
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">    
