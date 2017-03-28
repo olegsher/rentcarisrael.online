@@ -557,7 +557,7 @@
 <tr>
 <td>U PWAR</td>
 <td>
-<p>MAZDA 5 7 мест (A)</p>
+<p>MAZDA 5 7 мест</p>
 </td>
 <td>64</td>
 <td>60</td>
@@ -569,7 +569,7 @@
 <tr>
 <td>V MVAR</td>
 <td>
-<p>FORD GALAXY 7 мест (A)</p>
+<p>FORD GALAXY 7 мест</p>
 </td>
 <td>83</td>
 <td>77</td>
@@ -580,7 +580,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 мест (A)</td>
+<td>TOYOTA HIGHLANDER 7 мест</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -602,7 +602,7 @@
 <tr>
 <td>V8 SVAR</td>
 <td>
-<p>TOYOTA SIENNA LE 8 мест (A)</p>
+<p>TOYOTA SIENNA LE 8 мест</p>
 </td>
 <td>128</td>
 <td>120</td>
@@ -704,7 +704,7 @@
 <tr>
 <td>B EBMR</td>
 <td>
-<p>SUZUKI ALTO, KIA PICANTO 4 мест</p>
+<p>SUZUKI ALTO, KIA PICANTO 4 мест (M)</p>
 </td>
 <td>25</td>
 <td>24</td>
@@ -718,7 +718,7 @@
 <tr>
 <td>T CVMR</td>
 <td>
-<p>FIAT DOBLO ACTIVE 5 мест</p>
+<p>FIAT DOBLO ACTIVE 5 мест (M)</p>
 </td>
 <td>64</td>
 <td>60 </td>
