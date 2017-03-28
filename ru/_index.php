@@ -1022,7 +1022,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 
 <div class="container">
 <hr />
-<h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОЛКАТЫ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
+<h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
 <br><td>
 
 <div class="table-responsive">     
