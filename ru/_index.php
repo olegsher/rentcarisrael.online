@@ -524,8 +524,9 @@
 <hr />
 <div class="container">
 <h4>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h4>
-<br>
-<td><div class="table-responsive">     
+<br><td>
+
+<div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
 
@@ -1013,6 +1014,265 @@ FIAT DOBLO ACTIVE 5 мест (M)
 </tbody>
 </table>    
 </div> 
+
+
+
+
+
+
+
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
+<tr>
+<td>
+<p><strong>Город</strong></p>
+</td>
+<td>
+<p><strong>Адрес</strong></p>
+</td>
+<td>
+<p><strong>Телефоны</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ашдод-Haorgim</p>
+</td>
+<td>
+<p>7 Haorgim St.</p>
+</td>
+<td>
+<p>+972-8-8534000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>А/п Бен Гурион</p>
+</td>
+<td>
+<p>Terminal 3</p>
+</td>
+<td>
+<p>+972-3-9773200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Афула</p>
+</td>
+<td>
+<p>70 Menachem Begin St.</p>
+</td>
+<td>
+<p>+972-4-6204500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Беэр Шева</p>
+</td>
+<td>
+<p>129 Derech Hebron St.</p>
+</td>
+<td>
+<p>+972-8-6288628</p>
+</td>
+</tr>
+<tr>
+<td>Бней Брак - &nbsp;Каханман</td>
+<td>106 Kahanman St.</td>
+<td>+972-3-6207300</td>
+</tr>
+<tr>
+<td>Бней Брак -Мивца Кадеш</td>
+<td>64 Mivtza Kadesh St.</td>
+<td>+972-3-6160700</td>
+</tr>
+<tr>
+<td>
+<p>Герцлия</p>
+</td>
+<td>
+<p>8 Aba Even St.</p>
+</td>
+<td>
+<p>+972-9-7666800</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Иерусалим</p>
+</td>
+<td>
+<p>19 King David St.</p>
+</td>
+<td>
+<p>+972-2-5001800</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Кирьят Шмоне</p>
+</td>
+<td>
+<p>1 Hayarden St.</p>
+</td>
+<td>
+<p>+972-8-6665959</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Нетания</p>
+</td>
+<td>
+<p>1 Ussishkin st.</p>
+</td>
+<td>
+<p>+972-9-8612000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Бейт Шемеш</p>
+</td>
+<td>
+<p>10 &nbsp;Nahal Zohar St.</p>
+</td>
+<td>
+<p>+972-2-8010047</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Петах Тиква</p>
+</td>
+<td>
+<p>82 Jabotinski St.</p>
+</td>
+<td>
+<p>+972-3-6331440</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nes Tziona</p>
+</td>
+<td>
+<p>10 Hapatish St.</p>
+</td>
+<td>
+<p>+972-8-6991340</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ришон Лецион</p>
+</td>
+<td>
+<p>14 Saharov St.</p>
+</td>
+<td>
+<p>+972-3-5363600</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Рамат Ган</p>
+</td>
+<td>
+<p>6 Hayetzira St.</p>
+</td>
+<td>
+<p>+972-3-5756051</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Реховот</p>
+</td>
+<td>
+<p>96 Herzl St.</p>
+</td>
+<td>
+<p>+972-8-9417980</p>
+</td>
+</tr>
+<tr>
+<td>Холон</td>
+<td>73 Hamerkava St.</td>
+<td>+972-3-6203000</td>
+</tr>
+<tr>
+<td>
+<p>Тель Авив, набережная</p>
+</td>
+<td>
+<p>80 Hayarkon St.</p>
+</td>
+<td>
+<p>+972-3-6335252</p>
+</td>
+</tr>
+<tr>
+<td>Тель Авив- центр</td>
+<td>9 Hamasger St.&nbsp;</td>
+<td>+972-3-7588599</td>
+</tr>
+<tr>
+<td>
+<p>Тверия</p>
+</td>
+<td>71 Hayarden St.</td>
+<td>
+<p>+972-4-6666123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Кфар Саба</p>
+</td>
+<td>
+<p>17 Hata`as St.</p>
+</td>
+<td>
+<p>+972-9-788488</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Хайфа</p>
+</td>
+<td>
+<p>&nbsp;88 Hahistadrut Blvd.</p>
+</td>
+<td>
+<p>+972-4-8409333</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Эйлат</p>
+</td>
+<td>71 Hayarden Street</td>
+<td>
+<p>+972-8-6998877</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
