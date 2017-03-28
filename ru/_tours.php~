@@ -565,7 +565,7 @@
 <td>
 <p>  7-29 <span style="font-weight: bold;">дней   </span></p>
 </td>
-<td>  30+ месяц </td>
+<td class="bg-primary text-white">  30+ месяц </td>
 
 </tr>
 
