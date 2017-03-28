@@ -642,6 +642,63 @@
 </div>
 
 
+
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">1-6 дней</td>
+<td class="bg-info text-white">7-29 дней</td>
+<td class="bg-info text-white">30+ месяц</td>
+<td class="bg-danger text-white">1-6 дней</td>
+<td class="bg-danger text-white">7-29 дней</td>
+<td class="bg-danger text-white">30+ месяц</td>
+</tr>
+
+<tr>
+<td>P XDAR</td>
+<td>BUICK LACROSSE 5 мест</td>
+<td>124</td>
+<td>116</td>
+<td>2170</td>
+<td>154</td>
+<td>146</td>
+<td>2410</td>
+</tr>
+
+<tr>
+<td>K SXAR</td>
+<td>BMW i318</td>
+<td>91</td>
+<td>84</td>
+<td>1590</td>
+<td>106</td>
+<td>99</td>
+<td>1770</td>
+</tr>
+<tr>
+<td>W WXAR</td>
+<td>BMW I535 5 мест</td>
+<td>167</td>
+<td>155</td>
+<td>2690</td>
+<td>197</td>
+<td>185</td>
+<td>2930</td>
+</tr>
+
+
+
+</tbody>
+</table>    
+</div>
+
+
+
+
 <div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
@@ -840,45 +897,9 @@
 <td>1630</td>
 <td><a href="/cars-order-60.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
-<tr>
-<td>K SXAR</td>
-<td>
-<p class="MsoNormal"><span>BMW i318 </span></p>
-</td>
-<td>91</td>
-<td>84</td>
-<td>1590</td>
-<td>106</td>
-<td>99</td>
-<td>1770</td>
-<td><a href="/cars-order-69.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
-</tr>
-<tr>
-<td>P XDAR</td>
-<td>
-<p>BUICK LACROSSE 5 мест</p>
-</td>
-<td>124</td>
-<td>116</td>
-<td>2170</td>
-<td>154</td>
-<td>146</td>
-<td>2410</td>
-<td><a href="/cars-order-63.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
-</tr>
-<tr>
-<td>W WXAR</td>
-<td>
-<p>BMW I535 5 мест</p>
-</td>
-<td>167</td>
-<td>155</td>
-<td>2690</td>
-<td>197</td>
-<td>185</td>
-<td>2930</td>
-<td><a href="/cars-order-64.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
-</tr>
+
+
+
 <tr>
 <td width="108">
 <p>         </p>
