@@ -539,8 +539,8 @@
     
     <div class="clearfix"></div>
     
-    
-<table class="table table-striped">
+<div class="table-responsive">     
+<table class="table table-bordered">
 <tbody>
 <tr>
 <td style="text-align: center;">Класс</td>
@@ -914,7 +914,7 @@
 
 </tbody>
 </table>    
-    
+</div>   
     
     
         
