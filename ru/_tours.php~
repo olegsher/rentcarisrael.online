@@ -628,7 +628,7 @@
 <tr>
 <td>Z PVAR</td>
 <td>
-<p>VW TRANSPORTER 9 мест (A)</p>
+<p>VW TRANSPORTER 9 мест</p>
 </td>
 <td>140</td>
 <td>161</td>
@@ -880,13 +880,6 @@
 <td>1630</td>
 
 </tr>
-
-
-
-<tr>
-<td>
-<p>         </p>
-</td>
 
 </tbody>
 </table>    
