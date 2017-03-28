@@ -553,7 +553,12 @@
 
 <tr>
 <td>U PWAR</td>
-<td>Mazda 5, Nissan Kashkay 7 мест</td>
+<td><strong>Mazda 5, Nissan Kashkay</strong> 7 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>64</td>
 <td>60</td>
 <td>1220</td>
@@ -563,7 +568,12 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander  7 мест</td>
+<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong>  7 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>83</td>
 <td>77</td>
 <td>1550</td>
@@ -573,7 +583,12 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>Toyota Highlander 7 мест</td>
+<td><strong>Toyota Highlander</strong> 7 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -584,7 +599,12 @@
 
 <tr>
 <td>S PVMR</td>
-<td> Hyundai i800 8 мест (M)</td>
+<td><strong>Hyundai i800</strong> 8 мест (M)
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>111</td>
 <td>104</td>
 <td>1760</td>
@@ -594,7 +614,13 @@
 </tr>
 <tr>
 <td>V8 SVAR</td>
-<td>Toyota Sienna LE, Kia Carnival 8 мест</td>
+<td><strong>Toyota Sienna LE, Kia Carnival</strong> 8 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион
+</td>
 <td>128</td>
 <td>120</td>
 <td>1870</td>
@@ -606,7 +632,12 @@
 
 <tr>
 <td>Y PVMR</td>
-<td>Renault Traffic, Hyundai i800 9 мест (M)
+<td><strong>Renault Traffic, Hyundai i800</strong> 9 мест (M)
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион
 </td>
 <td>100</td>
 <td>94</td>
@@ -617,7 +648,12 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td>VW Transporter, Citroen Jumpy, Hyundai i800 9 мест</td>
+<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> 9 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>140</td>
 <td>161</td>
 <td>2120</td>
@@ -640,7 +676,12 @@
 
 <tr>
 <td>P XDAR</td>
-<td>Buick LaCrosse, BMW 318, Audi A4</td>
+<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>124</td>
 <td>116</td>
 <td>2170</td>
@@ -651,7 +692,12 @@
 
 <tr>
 <td>K SXAR</td>
-<td>BMW i318</td>
+<td><strong>BMW i318</strong>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
 <td>91</td>
 <td>84</td>
 <td>1590</td>
@@ -661,7 +707,13 @@
 </tr>
 <tr>
 <td>W WXAR</td>
-<td>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</td>
+<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион
+</td>
 <td>167</td>
 <td>155</td>
 <td>2690</td>
@@ -672,7 +724,13 @@
 
 <tr>
 <td>O MVAR</td>
-<td>Toyota Highlander 7 мест</td>
+<td>Toyota Highlander 7 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион
+</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -702,7 +760,12 @@
 <tr>
 <td>B EBMR</td>
 <td>
-Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (M)
+<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> 4 мест (M)
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>25</td>
 <td>24</td>
@@ -716,7 +779,12 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <tr>
 <td>T CVMR</td>
 <td>
-<p>FIAT DOBLO ACTIVE 5 мест (M)</p>
+FIAT DOBLO ACTIVE 5 мест (M)
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>64</td>
 <td>60 </td>
@@ -743,7 +811,12 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <p>Q MBAR</p>
 </td>
 <td>
-<p>FIAT 500  4 мест</p>
+<p>FIAT 500  4 мест
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>25</td>
 <td>24</td>
@@ -758,7 +831,7 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <p>C ECAR</p>
 </td>
 <td><strong>Toyota Aygo</strong> и другие, 4 мест
-<br><strong>Прокат аренда в отделениях:</strong> <br>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
@@ -798,7 +871,7 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 </td>
 <td>
 <strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> и другие,  5 мест
-<br><strong>Прокат аренда в отделениях:</strong> <br>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
@@ -816,7 +889,7 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <td>F IDAR</td>
 <td>
 <strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> и другие, 5 мест
-<br><strong>Прокат аренда в отделениях:</strong> <br>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
@@ -834,7 +907,7 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <td>I SDAR</td>
 <td>
 <strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> и другие, 5 мест
-<br><strong>Прокат аренда в отделениях:</strong> <br>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
