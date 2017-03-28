@@ -670,33 +670,6 @@
 <td><strong>2420</strong></td>
 <td><a href="/cars-order-68.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
-
-
-
-
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong><strong><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</strong></strong></td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong><br /></strong></td>
-</tr>
-<tr>
-<td><strong><strong>B&nbsp;EBMR</strong></strong></td>
-<td>
-<p><strong><strong>SUZUKI ALTO, KIA PICANTO 4</strong></strong>&nbsp;<strong>SEATS</strong></p>
-</td>
-<td><strong><strong>25</strong></strong></td>
-<td><strong><strong>24</strong></strong></td>
-<td><strong><strong>610</strong></strong></td>
-<td><strong><strong>37</strong></strong></td>
-<td><strong><strong>36</strong></strong></td>
-<td><strong>790</strong></td>
-<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
-</tr>
 <tr>
 <td><strong><strong>S PVMR</strong></strong></td>
 <td>
@@ -723,6 +696,33 @@
 <td><strong>1900</strong></td>
 <td><a href="/cars-order-49.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
+
+
+
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><strong><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</strong></strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><br /></strong></td>
+</tr>
+<tr>
+<td><strong><strong>B&nbsp;EBMR</strong></strong></td>
+<td>
+<p><strong><strong>SUZUKI ALTO, KIA PICANTO 4</strong></strong>&nbsp;<strong>SEATS</strong></p>
+</td>
+<td><strong><strong>25</strong></strong></td>
+<td><strong><strong>24</strong></strong></td>
+<td><strong><strong>610</strong></strong></td>
+<td><strong><strong>37</strong></strong></td>
+<td><strong><strong>36</strong></strong></td>
+<td><strong>790</strong></td>
+<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+
 <tr>
 <td><strong><strong>T CVMR</strong></strong></td>
 <td>
