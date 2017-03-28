@@ -778,7 +778,7 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 </td>
 <td>
 <strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> и другие,  4 мест
-<br><strong>Прокат аренда в отделениях:</strong> <br>
+<hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
