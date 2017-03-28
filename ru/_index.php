@@ -799,7 +799,7 @@ Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage
 <tr>
 <td>F IDAR</td>
 <td>
-<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> 5 мест
+<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> и другие, 5 мест
 <br><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
@@ -817,7 +817,12 @@ Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage
 <tr>
 <td>I SDAR</td>
 <td>
-Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus  5 мест
+<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> и другие, 5 мест
+<br><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>34</td>
 <td>32</td>
