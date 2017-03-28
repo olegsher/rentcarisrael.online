@@ -570,16 +570,8 @@
 </tr>
 
 
-<td width="230">
-<p><span style="color: #ff0000;">Минивэны</span></p>
-</td>
-<td width="94">&nbsp;</td>
-<td width="85">&nbsp;</td>
-<td width="109">&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td><br /></td>
+
+
 </tr>
 <tr>
 <td>U PWAR</td>

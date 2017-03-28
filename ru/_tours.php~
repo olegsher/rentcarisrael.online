@@ -671,8 +671,14 @@
 <td>1900</td>
 <td><a href="/cars-order-49.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
+</tbody>
+</table>    
+</div>
 
 
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
 
 <tr>
 <td style="text-align: center;">&nbsp;</td>
