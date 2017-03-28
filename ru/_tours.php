@@ -540,7 +540,7 @@
     <div class="clearfix"></div>
     
     
-<table style="text-align: center;" border="1" cellspacing="0" cellpadding="0">
+<table class="table table-striped">
 <tbody>
 <tr>
 <td style="text-align: center;">Класс</td>
