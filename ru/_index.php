@@ -640,7 +640,7 @@
 
 <tr>
 <td>P XDAR</td>
-<td>BUICK LACROSSE</td>
+<td>Buick LaCrosse, BMW 318, Audi A4</td>
 <td>124</td>
 <td>116</td>
 <td>2170</td>
@@ -661,7 +661,7 @@
 </tr>
 <tr>
 <td>W WXAR</td>
-<td>BMW I535</td>
+<td>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</td>
 <td>167</td>
 <td>155</td>
 <td>2690</td>
@@ -771,7 +771,7 @@
 <p>D CCAR</p>
 </td>
 <td>
-<p>HYUNDAI I20  4 мест</p>
+Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash  4 мест
 </td>
 <td>27</td>
 <td>26</td>
@@ -786,7 +786,7 @@
 <p>E CDAR</p>
 </td>
 <td>
-<p>FORD FIESTA  5 мест</p>
+Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage  5 мест
 </td>
 <td>28</td>
 <td>27</td>
