@@ -521,7 +521,107 @@
 
 </div>
 
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
 
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">1-6 дней</td>
+<td class="bg-info text-white">7-29 дней</td>
+<td class="bg-info text-white">30+ месяц</td>
+<td class="bg-danger text-white">1-6 дней</td>
+<td class="bg-danger text-white">7-29 дней</td>
+<td class="bg-danger text-white">30+ месяц</td>
+</tr>
+
+<tr>
+<td>U PWAR</td>
+<td>
+<p>MAZDA 5 7 мест (A)</p>
+</td>
+<td>64</td>
+<td>60</td>
+<td>1220</td>
+<td>94</td>
+<td>90</td>
+<td>1520</td>
+</tr>
+<tr>
+<td>V MVAR</td>
+<td>
+<p>FORD GALAXY 7 мест (A)</p>
+</td>
+<td>83</td>
+<td>77</td>
+<td>1550</td>
+<td>113</td>
+<td>107</td>
+<td>1850</td>
+</tr>
+<tr>
+<td>O MVAR</td>
+<td>TOYOTA HIGHLANDER 7 мест (A)</td>
+<td>211</td>
+<td>194</td>
+<td>4390</td>
+<td>241</td>
+<td>224</td>
+<td>4690</td>
+</tr>
+
+<tr>
+<td>S PVMR</td>
+<td>HYUNDAY I-800 8 мест (M)</td>
+<td>111</td>
+<td>104</td>
+<td>1760</td>
+<td>141</td>
+<td>134</td>
+<td>2060</td>
+</tr>
+<tr>
+<td>V8 SVAR</td>
+<td>
+<p>TOYOTA SIENNA LE 8 мест (A)</p>
+</td>
+<td>128</td>
+<td>120</td>
+<td>1870</td>
+<td>158</td>
+<td>150</td>
+<td>2170</td>
+</tr>
+
+
+<tr>
+<td>Y PVMR</td>
+<td>
+<p>RENAULT TRAFFIC 9 мест (M)</p>
+</td>
+<td>100</td>
+<td>94</td>
+<td>1600</td>
+<td>130</td>
+<td>124</td>
+<td>1900</td>
+</tr>
+<tr>
+<td>Z PVAR</td>
+<td>
+<p>VW TRANSPORTER 9 мест (A)</p>
+</td>
+<td>140</td>
+<td>161</td>
+<td>2120</td>
+<td>170</td>
+<td>191</td>
+<td>2420</td>
+</tr>
+</tbody>
+</table>    
+</div>
 
 
 
