@@ -557,7 +557,7 @@
 <tr>
 <td>U PWAR</td>
 <td>
-<p>MAZDA 5 7 мест(автомат)</p>
+<p>MAZDA 5 7 мест(A)</p>
 </td>
 <td>64</td>
 <td>60</td>
@@ -569,7 +569,7 @@
 <tr>
 <td>V MVAR</td>
 <td>
-<p>FORD GALAXY 7 мест(автомат)</p>
+<p>FORD GALAXY 7 мест(A)</p>
 </td>
 <td>83</td>
 <td>77</td>
@@ -580,7 +580,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 мест(автомат)</td>
+<td>TOYOTA HIGHLANDER 7 мест(A)</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -591,7 +591,7 @@
 
 <tr>
 <td>S PVMR</td>
-<td><img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />HYUNDAY I-800 8 мест(механика)></td>
+<td>HYUNDAY I-800 8 мест(M)</td>
 <td>111</td>
 <td>104</td>
 <td>1760</td>
@@ -602,7 +602,7 @@
 <tr>
 <td>V8 SVAR</td>
 <td>
-<p>TOYOTA SIENNA LE 8 мест(автомат)</p>
+<p>TOYOTA SIENNA LE 8 мест(A)</p>
 </td>
 <td>128</td>
 <td>120</td>
@@ -616,7 +616,7 @@
 <tr>
 <td>Y PVMR</td>
 <td>
-<p>RENAULT TRAFFIC 9 мест(механика)</p>
+<p>RENAULT TRAFFIC 9 мест(M)</p>
 </td>
 <td>100</td>
 <td>94</td>
@@ -628,7 +628,7 @@
 <tr>
 <td>Z PVAR</td>
 <td>
-<p>VW TRANSPORTER 9 мест(автомат)</p>
+<p>VW TRANSPORTER 9 мест(A)</p>
 </td>
 <td>140</td>
 <td>161</td>
