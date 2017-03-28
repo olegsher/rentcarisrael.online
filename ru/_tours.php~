@@ -557,7 +557,7 @@
 <tr>
 <td>U PWAR</td>
 <td>
-<p>MAZDA 5 7 мест</p>
+<p>MAZDA 5 7 мест(автомат)</p>
 </td>
 <td>64</td>
 <td>60</td>
@@ -566,11 +566,10 @@
 <td>90</td>
 <td>1520</td>
 </tr>
-
 <tr>
 <td>V MVAR</td>
 <td>
-<p>FORD GALAXY 7 мест</p>
+<p>FORD GALAXY 7 мест(автомат)</p>
 </td>
 <td>83</td>
 <td>77</td>
@@ -581,7 +580,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td>TOYOTA HIGHLANDER 7 мест</td>
+<td>TOYOTA HIGHLANDER 7 мест(автомат)</td>
 <td>211</td>
 <td>194</td>
 <td>4390</td>
@@ -589,35 +588,11 @@
 <td>224</td>
 <td>4690</td>
 </tr>
-<tr>
-<td>V8 SVAR</td>
-<td>
-<p>TOYOTA SIENNA LE 8 мест</p>
-</td>
-<td>128</td>
-<td>120</td>
-<td>1870</td>
-<td>158</td>
-<td>150</td>
-<td>2170</td>
 
-</tr>
-<tr>
-<td>Z PVAR</td>
-<td>
-<p>VW TRANSPORTER 9 мест</p>
-</td>
-<td>140</td>
-<td>161</td>
-<td>2120</td>
-<td>170</td>
-<td>191</td>
-<td>2420</td>
-</tr>
 <tr>
 <td>S PVMR</td>
 <td>
-<p>HYUNDAY I-800   8 мест</p>
+<p>HYUNDAY I-800 8 мест(механика)</p>
 </td>
 <td>111</td>
 <td>104</td>
@@ -627,9 +602,23 @@
 <td>2060</td>
 </tr>
 <tr>
+<td>V8 SVAR</td>
+<td>
+<p>TOYOTA SIENNA LE 8 мест(автомат)</p>
+</td>
+<td>128</td>
+<td>120</td>
+<td>1870</td>
+<td>158</td>
+<td>150</td>
+<td>2170</td>
+</tr>
+
+
+<tr>
 <td>Y PVMR</td>
 <td>
-<p>RENAULT TRAFFIC  9 мест</p>
+<p>RENAULT TRAFFIC 9 мест(механика)</p>
 </td>
 <td>100</td>
 <td>94</td>
@@ -637,7 +626,18 @@
 <td>130</td>
 <td>124</td>
 <td>1900</td>
-
+</tr>
+<tr>
+<td>Z PVAR</td>
+<td>
+<p>VW TRANSPORTER 9 мест(автомат)</p>
+</td>
+<td>140</td>
+<td>161</td>
+<td>2120</td>
+<td>170</td>
+<td>191</td>
+<td>2420</td>
 </tr>
 </tbody>
 </table>    

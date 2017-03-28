@@ -592,7 +592,7 @@
 <tr>
 <td>S PVMR</td>
 <td>
-<p>HYUNDAY I-800 8 мест(механика)</p>
+<p>HYUNDAY I-800 8 мест(механика)<img src="images/full_delek.jpg" width="102" height="102" alt=""></p>
 </td>
 <td>111</td>
 <td>104</td>
