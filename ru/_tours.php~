@@ -563,23 +563,15 @@
 <td>30+ месяц</td>
 <td>&nbsp; 1-6 дней &nbsp; &nbsp; &nbsp;</td>
 <td>
-<p>&nbsp; 7-29&nbsp;<span style="font-weight: bold;">дней &nbsp;&nbsp;</span></p>
+<p>&nbsp; 7-29&nbsp;<span style="font-weight: bold;">дней   </span></p>
 </td>
 <td>&nbsp; 30+ месяц&nbsp;</td>
 <td><br /></td>
 </tr>
 
 
-<td width="230">
-<p><span style="color: #ff0000;">Минивэны</span></p>
-</td>
-<td width="94">&nbsp;</td>
-<td width="85">&nbsp;</td>
-<td width="109">&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td><br /></td>
+
+
 </tr>
 <tr>
 <td>U PWAR</td>
@@ -606,7 +598,6 @@
 <td>113</td>
 <td>107</td>
 <td>1850</td>
-<td><a href="/cars-order-66.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td>O MVAR</td>
@@ -617,7 +608,6 @@
 <td>241</td>
 <td>224</td>
 <td>4690</td>
-<td><a href="/cars-order-77.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td>V8 SVAR</td>
@@ -630,7 +620,7 @@
 <td>158</td>
 <td>150</td>
 <td>2170</td>
-<td><a href="/cars-order-67.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td>Z PVAR</td>
@@ -643,7 +633,6 @@
 <td>170</td>
 <td>191</td>
 <td>2420</td>
-<td><a href="/cars-order-68.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td>S PVMR</td>
@@ -656,12 +645,11 @@
 <td>141</td>
 <td>134</td>
 <td>2060</td>
-<td><a href="/cars-order-48.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
 <tr>
 <td>Y PVMR</td>
 <td>
-<p>RENAULT TRAFFIC&nbsp;&nbsp;9 SEATS</p>
+<p>RENAULT TRAFFIC  9 SEATS</p>
 </td>
 <td>100</td>
 <td>94</td>
@@ -669,7 +657,7 @@
 <td>130</td>
 <td>124</td>
 <td>1900</td>
-<td><a href="/cars-order-49.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 </tbody>
 </table>    
@@ -767,7 +755,7 @@
 <p>D CCAR</p>
 </td>
 <td width="230">
-<p>HYUNDAI I20&nbsp;&nbsp;4&nbsp;SEATS</p>
+<p>HYUNDAI I20  4&nbsp;SEATS</p>
 </td>
 <td width="94">27</td>
 <td width="85">26</td>
@@ -782,7 +770,7 @@
 <p>E CDAR</p>
 </td>
 <td width="230">
-<p>FORD FIESTA&nbsp;&nbsp;5&nbsp;SEATS</p>
+<p>FORD FIESTA  5&nbsp;SEATS</p>
 </td>
 <td width="94">28</td>
 <td width="85">27</td>
@@ -808,7 +796,7 @@
 <tr>
 <td>I SDAR</td>
 <td>
-<p>MAZDA 3&nbsp;&nbsp;5&nbsp;SEATS</p>
+<p>MAZDA 3  5&nbsp;SEATS</p>
 </td>
 <td>34</td>
 <td>32</td>
@@ -915,7 +903,7 @@
 </tr>
 <tr>
 <td width="108">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>        &nbsp;</p>
 </td>
 
 </tbody>
