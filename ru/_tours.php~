@@ -684,16 +684,21 @@
 
 
 
-</tbody>
-</table>    
-</div>
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
 
 
 
 
-<div class="table-responsive">     
-<table class="table table-bordered">
-<tbody>
+
 
 <tr>
 <td style="text-align: center;"> </td>
@@ -775,7 +780,7 @@
 <td>38</td>
 <td>37</td>
 <td>800</td>
-<td><a href="/cars-order-52.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td width="108">
@@ -831,7 +836,7 @@
 <td>46</td>
 <td>44</td>
 <td>970  </td>
-<td><a href="/cars-order-57.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td>H FDAR</td>
@@ -844,19 +849,19 @@
 <td>52</td>
 <td>50</td>
 <td>1140</td>
-<td><a href="/cars-order-58.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 
 <tr>
-<td>J IFAR<em></em></td>
-<td>KIA SPORTAGE 5 мест<em></em></td>
-<td>67<em></em></td>
-<td>63<em></em></td>
-<td>1240<em></em></td>
-<td>97<em></em></td>
-<td>93<em></em></td>
-<td>1480<em></em></td>
-<td><a href="/cars-order-65.html" target="_blank"></a><em><a href="/cars-order-62.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></em></td>
+<td>J IFAR</td>
+<td>KIA SPORTAGE 5 мест</td>
+<td>67</td>
+<td>63</td>
+<td>1240</td>
+<td>97</td>
+<td>93</td>
+<td>1480</td>
+
 </tr>
 
 <tr>
@@ -872,7 +877,7 @@
 <td>65</td>
 <td>62</td>
 <td>1230 </td>
-<td><a href="/cars-order-59.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
 <td width="108">
@@ -887,7 +892,7 @@
 <td>76</td>
 <td>72</td>
 <td>1630</td>
-<td><a href="/cars-order-60.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 
 
