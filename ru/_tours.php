@@ -591,9 +591,7 @@
 
 <tr>
 <td>S PVMR</td>
-<td>
-<p>HYUNDAY I-800 8 мест(механика)<img src="images/full_delek.jpg" width="102" height="102" alt=""></p>
-</td>
+<td><img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />HYUNDAY I-800 8 мест(механика)></td>
 <td>111</td>
 <td>104</td>
 <td>1760</td>
