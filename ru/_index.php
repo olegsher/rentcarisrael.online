@@ -757,7 +757,13 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <td>
 <p>C ECAR</p>
 </td>
-<td>Toyota Aygo 4 мест</td>
+<td><strong>Toyota Aygo</strong> и другие, 4 мест
+<br><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
+</td>
 <td> 26</td>
 <td>25</td>
 <td>620</td>
@@ -771,7 +777,12 @@ Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto 4 мест (
 <p>D CCAR</p>
 </td>
 <td>
-Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash  4 мест
+<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> и другие,  4 мест
+<br><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>27</td>
 <td>26</td>
@@ -786,7 +797,12 @@ Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso
 <p>E CDAR</p>
 </td>
 <td>
-Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage  5 мест
+<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> и другие,  5 мест
+<br><strong>Прокат аренда в отделениях:</strong> <br>
+Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
+Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
 <td>28</td>
 <td>27</td>
