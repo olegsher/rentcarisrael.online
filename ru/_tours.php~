@@ -729,60 +729,58 @@
 </tr>
 
 <tr>
-<td width="108">
+<td>
 <p>Q MBAR</p>
 </td>
-<td width="230">
+<td>
 <p>FIAT 500  4 мест</p>
 </td>
-<td width="94">25</td>
-<td width="85">24</td>
-<td width="109">610</td>
+<td>25</td>
+<td>24</td>
+<td>610</td>
 <td>38</td>
 <td>37</td>
 <td>800</td>
 
 </tr>
 <tr>
-<td width="108">
+<td>
 <p>C ECAR</p>
 </td>
-<td width="230">
-<p>TOYOTA AYGO 4 мест</p>
-</td>
-<td width="94"> 26</td>
-<td width="85">25</td>
-<td width="109">620</td>
+<td>TOYOTA AYGO 4 мест</td>
+<td> 26</td>
+<td>25</td>
+<td>620</td>
 <td>38</td>
 <td>37</td>
 <td>800</td>
 
 </tr>
 <tr>
-<td width="108">
+<td>
 <p>D CCAR</p>
 </td>
-<td width="230">
+<td>
 <p>HYUNDAI I20  4 мест</p>
 </td>
-<td width="94">27</td>
-<td width="85">26</td>
-<td width="109">630</td>
+<td>27</td>
+<td>26</td>
+<td>630</td>
 <td>39</td>
 <td>38</td>
 <td>810</td>
-<td><a href="/cars-order-53.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+
 </tr>
 <tr>
-<td width="108">
+<td>
 <p>E CDAR</p>
 </td>
-<td width="230">
+<td>
 <p>FORD FIESTA  5 мест</p>
 </td>
-<td width="94">28</td>
-<td width="85">27</td>
-<td width="109">645</td>
+<td>28</td>
+<td>27</td>
+<td>645</td>
 <td>40</td>
 <td>39</td>
 <td>825</td>
@@ -841,30 +839,30 @@
 </tr>
 
 <tr>
-<td width="108">
+<td>
 <p>M PDAR</p>
 </td>
-<td width="230">
+<td>
 <p>MAZDA 6 5 мест</p>
 </td>
-<td width="94">50</td>
-<td width="85">47</td>
-<td width="109">1050</td>
+<td>50</td>
+<td>47</td>
+<td>1050</td>
 <td>65</td>
 <td>62</td>
 <td>1230 </td>
 
 </tr>
 <tr>
-<td width="108">
+<td>
 <p>MH SXAH</p>
 </td>
-<td width="230">
+<td>
 <p>HONDA ACCORD HYBRID 5 мест</p>
 </td>
-<td width="94">61</td>
-<td width="85">57</td>
-<td width="109">1450</td>
+<td>61</td>
+<td>57</td>
+<td>1450</td>
 <td>76</td>
 <td>72</td>
 <td>1630</td>
@@ -874,7 +872,7 @@
 
 
 <tr>
-<td width="108">
+<td>
 <p>         </p>
 </td>
 
