@@ -652,7 +652,7 @@
 
 <tr>
 <td>P XDAR</td>
-<td>BUICK LACROSSE 5 мест</td>
+<td>BUICK LACROSSE</td>
 <td>124</td>
 <td>116</td>
 <td>2170</td>
@@ -673,7 +673,7 @@
 </tr>
 <tr>
 <td>W WXAR</td>
-<td>BMW I535 5 мест</td>
+<td>BMW I535</td>
 <td>167</td>
 <td>155</td>
 <td>2690</td>
@@ -726,6 +726,18 @@
 <td>94</td>
 <td>90 </td>
 <td>1290 </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
 </tr>
 
 <tr>
