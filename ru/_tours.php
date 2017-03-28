@@ -543,6 +543,17 @@
 <table class="table table-bordered">
 <tbody>
 
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">Низкий сезон</td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white">Высокий сезон</td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
 <tr>
 <td></td>
 <td></td>

@@ -824,6 +824,18 @@
 <td>970  </td>
 
 </tr>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
 <tr>
 <td>H FDAR</td>
 <td>
