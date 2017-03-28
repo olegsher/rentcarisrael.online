@@ -799,7 +799,7 @@ Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage
 <tr>
 <td>F IDAR</td>
 <td>
-<p>KIA FORTE 5 мест</p>
+Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee 5 мест
 </td>
 <td>32</td>
 <td>30</td>
