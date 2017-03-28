@@ -543,25 +543,10 @@
 <table style="text-align: center;" border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Кл<strong>асс</strong></strong></td>
-<td style="text-align: center;">
-<p><strong><strong>Марки машин, входящих в группу</strong></strong></p>
-<p><span class="text_gray"><span style="color: #ff0000;"><strong><strong>Внимание! Подтверждается только класс,</strong></strong></span></span></p>
-<p><span class="text_gray"><span style="color: #ff0000;"><strong><strong>&nbsp;а не конкретная марка автомобиля!</strong></strong></span></span></p>
-</td>
-<td style="text-align: center;" colspan="3"><strong><strong>НИЗКИЙ СЕЗОН</strong></strong>
-<p><span style="font-weight: bold;"><strong>06/01/17-03/04/17</strong></span></p>
-<p><strong><strong>19/04/17-15/07/17</strong></strong></p>
-<p><strong><strong>26/08/17-20/12/17</strong></strong></p>
-</td>
-<td style="text-align: center;" colspan="3">
-<p>&nbsp;</p>
-<p><span style="font-weight: bold;">ВЫСОКИЙ СЕЗОН</span></p>
-<p><strong><strong>03/04/17-19/04/17</strong></strong></p>
-<p><strong><strong>15/07/17- 26/08/17</strong></strong></p>
-<p><strong><strong>20/12/17- 06/01/18</strong></strong></p>
-<p><strong><br /></strong></p>
-</td>
+<td style="text-align: center;">Класс</td>
+
+
+
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -609,17 +594,7 @@
 <td><strong>1520</strong></td>
 <td><a href="/cars-order-65.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
-<tr>
-<td><strong><strong>J IFAR</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>KIA SPORTAGE&nbsp;5&nbsp;SEATS</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>67</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>63</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>1240</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>97</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>93</strong></strong><strong></strong><em></em></td>
-<td><strong><strong>1480</strong></strong><strong></strong><em></em></td>
-<td><a href="/cars-order-65.html" target="_blank"></a><strong></strong><em><a href="/cars-order-62.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></em></td>
-</tr>
+
 <tr>
 <td><strong>V MVAR</strong></td>
 <td>
@@ -670,33 +645,6 @@
 <td><strong>2420</strong></td>
 <td><a href="/cars-order-68.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
-
-
-
-
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong><strong><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</strong></strong></td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong><br /></strong></td>
-</tr>
-<tr>
-<td><strong><strong>B&nbsp;EBMR</strong></strong></td>
-<td>
-<p><strong><strong>SUZUKI ALTO, KIA PICANTO 4</strong></strong>&nbsp;<strong>SEATS</strong></p>
-</td>
-<td><strong><strong>25</strong></strong></td>
-<td><strong><strong>24</strong></strong></td>
-<td><strong><strong>610</strong></strong></td>
-<td><strong><strong>37</strong></strong></td>
-<td><strong><strong>36</strong></strong></td>
-<td><strong>790</strong></td>
-<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
-</tr>
 <tr>
 <td><strong><strong>S PVMR</strong></strong></td>
 <td>
@@ -723,6 +671,33 @@
 <td><strong>1900</strong></td>
 <td><a href="/cars-order-49.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
 </tr>
+
+
+
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><strong><span style="color: #ff0000;">Механическая коробка передач</span>&nbsp;</strong></strong></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><strong><br /></strong></td>
+</tr>
+<tr>
+<td><strong><strong>B&nbsp;EBMR</strong></strong></td>
+<td>
+<p><strong><strong>SUZUKI ALTO, KIA PICANTO 4</strong></strong>&nbsp;<strong>SEATS</strong></p>
+</td>
+<td><strong><strong>25</strong></strong></td>
+<td><strong><strong>24</strong></strong></td>
+<td><strong><strong>610</strong></strong></td>
+<td><strong><strong>37</strong></strong></td>
+<td><strong><strong>36</strong></strong></td>
+<td><strong>790</strong></td>
+<td><a href="/cars-order-47.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></td>
+</tr>
+
 <tr>
 <td><strong><strong>T CVMR</strong></strong></td>
 <td>
@@ -850,6 +825,19 @@
 <td><strong><strong>1140</strong></strong></td>
 <td><strong><strong><a href="/cars-order-58.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></strong></strong></td>
 </tr>
+
+<tr>
+<td><strong><strong>J IFAR</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>KIA SPORTAGE&nbsp;5&nbsp;SEATS</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>67</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>63</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>1240</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>97</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>93</strong></strong><strong></strong><em></em></td>
+<td><strong><strong>1480</strong></strong><strong></strong><em></em></td>
+<td><a href="/cars-order-65.html" target="_blank"></a><strong></strong><em><a href="/cars-order-62.html" target="_blank"><img src="/images/button_order.jpg" alt="" width="74" height="14" /></a></em></td>
+</tr>
+
 <tr>
 <td width="108">
 <p><strong><strong><strong><strong>M PDAR</strong></strong></strong></strong></p>
