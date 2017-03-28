@@ -553,9 +553,7 @@
 
 <tr>
 <td>U PWAR</td>
-<td>
-<p>MAZDA 5 7 мест</p>
-</td>
+<td>Mazda 5, Nissan Kashkay 7 мест</td>
 <td>64</td>
 <td>60</td>
 <td>1220</td>

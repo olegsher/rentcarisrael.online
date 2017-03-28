@@ -565,7 +565,7 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td>Ford Galaxy, Ssangyong Rodius, Kia Sorento, Seat Alambra, Mitsubishi Outlander  7 мест</td>
+<td>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander  7 мест</td>
 <td>83</td>
 <td>77</td>
 <td>1550</td>
