@@ -521,6 +521,7 @@
 
 </div>
 <div class="container">
+<h4>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h4>
 <div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>

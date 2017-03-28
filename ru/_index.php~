@@ -520,7 +520,8 @@
 
 
 </div>
-
+<div class="container">
+<h4>Расценки: </h4>
 <div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
@@ -623,7 +624,7 @@
 </table>    
 </div>
 
-
+</div>
 
 
 
