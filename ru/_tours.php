@@ -542,31 +542,18 @@
 <div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
+
 <tr>
-<td style="text-align: center;">Класс</td>
-
-
-
-<td style="text-align: center;"> </td>
-</tr>
-<tr>
-<td>
-<p style="text-align: left;"> </p>
-</td>
-<td><br /></td>
+<td></td>
+<td></td>
 <td class="bg-info text-white">1-6 дней</td>
 <td class="bg-info text-white">7-29 дней</td>
 <td class="bg-info text-white">30+ месяц</td>
 <td class="bg-danger text-white">1-6 дней</td>
 <td class="bg-danger text-white">7-29 дней</td>
 <td class="bg-danger text-white">30+ месяц</td>
-
 </tr>
 
-
-
-
-</tr>
 <tr>
 <td>U PWAR</td>
 <td>

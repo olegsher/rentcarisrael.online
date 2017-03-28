@@ -554,18 +554,12 @@
 <p style="text-align: left;"> </p>
 </td>
 <td><br /></td>
-<td>
-<p>  1-6 дней</p>
-</td>
-<td>
-<p> 7-29 <span style="font-weight: bold;">дней</span></p>
-</td>
-<td>30+ месяц</td>
-<td>  1-6 дней      </td>
-<td>
-<p>  7-29 <span style="font-weight: bold;">дней   </span></p>
-</td>
-<td class="bg-primary text-white">  30+ месяц </td>
+<td class="bg-info text-white">1-6 дней</td>
+<td class="bg-info text-white">7-29 дней</td>
+<td class="bg-info text-white">30+ месяц</td>
+<td class="bg-danger text-white">1-6 дней</td>
+<td class="bg-danger text-white">7-29 дней</td>
+<td class="bg-danger text-white">30+ месяц</td>
 
 </tr>
 
