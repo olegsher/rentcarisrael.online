@@ -554,7 +554,7 @@
 
 <tr>
 <td>U PWAR</td>
-<td><strong>Mazda 5, Nissan Kashkay</strong> 7 мест
+<td><strong>Mazda 5, Nissan Kashkay</strong> и другие, 7 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -569,7 +569,7 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong>  7 мест
+<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> и другие,  7 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -584,7 +584,7 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> 7 мест
+<td><strong>Toyota Highlander</strong> и другие, 7 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -600,7 +600,7 @@
 
 <tr>
 <td>S PVMR</td>
-<td><strong>Hyundai i800</strong> 8 мест (M)
+<td><strong>Hyundai i800</strong> и другие, 8 мест (M)
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -615,7 +615,7 @@
 </tr>
 <tr>
 <td>V8 SVAR</td>
-<td><strong>Toyota Sienna LE, Kia Carnival</strong> 8 мест
+<td><strong>Toyota Sienna LE, Kia Carnival</strong> и другие, 8 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -633,7 +633,7 @@
 
 <tr>
 <td>Y PVMR</td>
-<td><strong>Renault Traffic, Hyundai i800</strong> 9 мест (M)
+<td><strong>Renault Traffic, Hyundai i800</strong> и другие, 9 мест (M)
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -649,7 +649,7 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> 9 мест
+<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> и другие, 9 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -677,7 +677,7 @@
 
 <tr>
 <td>P XDAR</td>
-<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong>
+<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> и другие
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -693,7 +693,7 @@
 
 <tr>
 <td>K SXAR</td>
-<td><strong>BMW i318</strong>
+<td><strong>BMW i318</strong> и другие
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -708,7 +708,7 @@
 </tr>
 <tr>
 <td>W WXAR</td>
-<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong>
+<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> и другие
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -725,7 +725,7 @@
 
 <tr>
 <td>O MVAR</td>
-<td>Toyota Highlander 7 мест
+<td><strong>Toyota Highlander</strong> и другие, 7 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Бней Брак, <br>
@@ -761,7 +761,7 @@
 <tr>
 <td>B EBMR</td>
 <td>
-<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> 4 мест (M)
+<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> и другие, 4 мест (M)
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
@@ -780,7 +780,7 @@
 <tr>
 <td>T CVMR</td>
 <td>
-FIAT DOBLO ACTIVE 5 мест (M)
+<strong>FIAT DOBLO ACTIVE</strong> и другие, 5 мест (M)
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
@@ -812,7 +812,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <p>Q MBAR</p>
 </td>
 <td>
-<p>FIAT 500  4 мест
+<strong>FIAT 500</strong> и другие,  4 мест
 <hr /><strong>Прокат аренда в отделениях:</strong> <br>
 Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим, <br>
 Кфар Саба, Нетания, Ашдод, Беэр Шева, Бней Брак, <br>
