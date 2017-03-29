@@ -464,9 +464,7 @@
 
 
 
-</div>
 
-<div class="container">
 <h4>Последние отзывы наших клиентов: </h4>
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
