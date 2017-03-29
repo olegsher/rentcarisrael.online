@@ -67,7 +67,7 @@
 				
                                 <select class="form-control" name="pickup-location" id="pickup-location" required>
                                         <option value="">Отделение</option>
-                                        <option value="<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>"><a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a></option>
+                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
                                         <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
@@ -153,7 +153,7 @@
 
                                 <select class="form-control" name="dropoff-location" id="dropoff-location" required>
                                         <option value="">Отделение</option>
-                                        <option value="<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>"><a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a></option>
+                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
                                         <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
                                         <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
                                         <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
