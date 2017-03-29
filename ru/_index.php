@@ -524,7 +524,7 @@
 <hr />
 <div class="container">
 <h4>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h4>
-<br><td>
+<br>
 
 <div class="table-responsive">     
 <table class="table table-bordered">
@@ -1026,7 +1026,7 @@
 <div class="container">
 <hr />
 <h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
-<br><td>
+<br>
 
 <div class="table-responsive">     
 <table class="table table-bordered">
