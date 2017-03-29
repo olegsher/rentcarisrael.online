@@ -1039,7 +1039,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 </tr>
 <tr>
 <td>
-<p>Ашдод</p>
+<p>Ашдод - центральное отделение аренды проката автомобилей в Израиле</p>
 </td>
 <td>7 Haorgim Street , Ashdod</td>
 </tr>
