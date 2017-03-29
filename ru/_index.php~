@@ -1039,65 +1039,52 @@ FIAT DOBLO ACTIVE 5 мест (M)
 </tr>
 <tr>
 <td>
-<p>Ашдод-Haorgim</p>
+<p>Ашдод</p>
 </td>
-<td>
-<p>7 Haorgim St.</p>
-</td>
-
+<td>7 Haorgim Street , Ashdod</td>
 </tr>
 <tr>
 <td>
-<p>А/п Бен Гурион</p>
+<p>Ben Gurion Int'l Airport</p>
 </td>
-<td>
-<p>Terminal 3</p>
-</td>
+<td>Terminal 3</td>
 
 </tr>
 <tr>
 <td>
 <p>Афула</p>
 </td>
-<td>
-<p>70 Menachem Begin St.</p>
-</td>
+<td>71 Menachem Begin Street , Afula</td>
 
 </tr>
 <tr>
 <td>
 <p>Беэр Шева</p>
 </td>
-<td>
-<p>129 Derech Hebron St.</p>
-</td>
+<td>18 Itzhak Nafha Street , Beer Sheva</td>
 
 </tr>
 <tr>
-<td>Бней Брак - &nbsp;Каханман</td>
-<td>106 Kahanman St.</td>
+<td>Бней Брак</td>
+<td>106 Kahanman Street , Bnei Brak</td>
 
 </tr>
 <tr>
-<td>Бней Брак -Мивца Кадеш</td>
-<td>64 Mivtza Kadesh St.</td>
+<td>Бней Брак</td>
+<td>64 Mivtza Kadesh Street , Bnei Brak</td>
 
 </tr>
 <tr>
 <td>
 <p>Герцлия</p>
 </td>
-<td>
-<p>8 Aba Even St.</p>
-</td>
+<td>8 Aba Even Street , Herzeliya</td>
 
 </tr>
 <tr>
 <td>
 <p>Иерусалим</p>
-</td>
-
-<td>
+</td>19 King David Street , Jerusalem<td>
 
 </td>
 </tr>
@@ -1105,125 +1092,86 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <td>
 <p>Кирьят Шмоне</p>
 </td>
-<td>
-<p>1 Hayarden St.</p>
-</td>
-
+<td>1 Hayarden Street , Kiryat Shmone</td>
 </tr>
 <tr>
 <td>
 <p>Нетания</p>
 </td>
-<td>
-<p>1 Ussishkin st.</p>
-</td>
-
+<td>1 Ussishkin Street , Natanya</td>
 </tr>
 <tr>
 <td>
 <p>Бейт Шемеш</p>
 </td>
-<td>
-<p>10 &nbsp;Nahal Zohar St.</p>
-</td>
+<td>10 Nahal Zohar Street , Beit Shemesh</td>
 
 </tr>
 <tr>
 <td>
 <p>Петах Тиква</p>
 </td>
-<td>
-<p>82 Jabotinski St.</p>
-</td>
-
+<td>82 Jabotinski Street , Petach Tikva</td>
 </tr>
 <tr>
 <td>
 <p>Nes Tziona</p>
 </td>
-<td>
-<p>10 Hapatish St.</p>
-</td>
-
+<td>10 Hapatish Street , Nes Tziona</td>
 </tr>
 <tr>
 <td>
 <p>Ришон Лецион</p>
 </td>
-<td>
-<p>14 Saharov St.</p>
-</td>
-
+<td>14 David Saharov Street , Rishon LeTsiyon</td>
 </tr>
-<tr>
-<td>
-<p>Рамат Ган</p>
-</td>
-<td>
-<p>6 Hayetzira St.</p>
-</td>
 
-</tr>
 <tr>
 <td>
 <p>Реховот</p>
 </td>
-<td>
-<p>96 Herzl St.</p>
-</td>
-<td>
-
-</td>
+<td>96 Herzl Street , Rehovot</td>
 </tr>
 <tr>
 <td>Холон</td>
-<td>73 Hamerkava St.</td>
-
+<td>73 Hamerkava Street , Holon</td>
 </tr>
 <tr>
 <td>
 <p>Тель Авив, набережная</p>
 </td>
-<td>
-<p>80 Hayarkon St.</p>
-</td>
+<td>80 Hayarkon Street , Tel Aviv</td>
 
 </tr>
 <tr>
 <td>Тель Авив- центр</td>
-<td>9 Hamasger St.&nbsp;</td>
-
+<td>9 Hamasger Street , Tel Aviv</td>
 </tr>
 <tr>
 <td>
 <p>Тверия</p>
 </td>
-<td>71 Hayarden St.</td>
-
+<td>71 Hayarden Street , Tiberias</td>
 </tr>
 <tr>
 <td>
 <p>Кфар Саба</p>
 </td>
-<td>
-<p>17 Hata`as St.</p>
-</td>
+<td>17 Ha'Taas Street , Kfar Saba</td>
 
 </tr>
 <tr>
 <td>
 <p>Хайфа</p>
 </td>
-<td>
-<p>&nbsp;88 Hahistadrut Blvd.</p>
-</td>
+<td>88 Hahistadrut Street , Haifa</td>
 
 </tr>
 <tr>
 <td>
 <p>Эйлат</p>
 </td>
-<td>71 Hayarden Street</td>
+<td>3 Sheshet Hayamim Street , Eilat</td>
 
 </tr>
 </tbody>

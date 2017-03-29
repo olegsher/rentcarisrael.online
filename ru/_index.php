@@ -1084,8 +1084,8 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <tr>
 <td>
 <p>Иерусалим</p>
-</td>19 King David Street , Jerusalem<td>
-
+</td><td>
+19 King David Street , Jerusalem
 </td>
 </tr>
 <tr>
