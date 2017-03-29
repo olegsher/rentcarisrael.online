@@ -1098,7 +1098,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 </td>
 
 <td>
-<p>+972-2-5001800</p>
+
 </td>
 </tr>
 <tr>
@@ -1135,9 +1135,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <td>
 <p>82 Jabotinski St.</p>
 </td>
-<td>
-<p>+972-3-6331440</p>
-</td>
+
 </tr>
 <tr>
 <td>
@@ -1155,9 +1153,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <td>
 <p>14 Saharov St.</p>
 </td>
-<td>
-<p>+972-3-5363600</p>
-</td>
+
 </tr>
 <tr>
 <td>
@@ -1166,9 +1162,7 @@ FIAT DOBLO ACTIVE 5 мест (M)
 <td>
 <p>6 Hayetzira St.</p>
 </td>
-<td>
-<p>+972-3-5756051</p>
-</td>
+
 </tr>
 <tr>
 <td>
