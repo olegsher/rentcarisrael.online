@@ -3,3 +3,6 @@ http://www.rentcarisrael.online/index.php
 http://www.rentcarisrael.online/about.php
 http://www.rentcarisrael.online/insurance.php
 http://www.rentcarisrael.online/terms.php
+http://www.rentcarisrael.online/faq.php
+http://www.rentcarisrael.online/minivan.php
+http://www.rentcarisrael.online/tours.php

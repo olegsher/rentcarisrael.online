@@ -7,41 +7,65 @@
 <item>
      <link>http://www.rentcarisrael.online/</link>
      <title>Недорогая аренда прокат автомобиля в Израиле | RentCarIsrael.online</title>
-     <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, семейные машины, класс люкс и джипы звоните +972-58-7710101</description>
-     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentcarisrael.online/index.php</link>
      <title>Недорогая аренда прокат автомобиля в Израиле | RentCarIsrael.online</title>
-     <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, семейные машины, класс люкс и джипы звоните +972-58-7710101</description>
-     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <description>аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест</description>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentcarisrael.online/about.php</link>
-     <title>Недорогая аренда прокат автомобиля в Изр</title>
+     <title>Vastama Lts - Недорогая аренда прокат автомобиля в Израиле</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentcarisrael.online/insurance.php</link>
-     <title>Недорогая аренда прокат автомобиля в Изр</title>
+     <title>Страховки - Недорогая аренда прокат автомобиля в Израиле</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://www.rentcarisrael.online/terms.php</link>
-     <title>Недорогая аренда прокат автомобиля в Изр</title>
+     <title>Условия аренды - Недорогая аренда прокат автомобиля в Израиле</title>
      <description>Аренда прокат автомобиля в Израиле. Бюджетные авто, Миниваны, </description>
-     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentcarisrael.online/faq.php</link>
+     <title>Часто задаваемые вопросы аренда прокат автомобиля в Израиле</title>
+     <description>Часто задаваемые вопросы аренда прокат автомобиля в Израиле, эконом класс и семейные машины, микроавтобусы и минивэны 7-8-9 мест  - аренда прокат автомобиля в Израиле</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentcarisrael.online/minivan.php</link>
+     <title>Микроавтобусы и минивэны аренда прокат автомобиля в Израиле</title>
+     <description>Микроавтобусы и минивэны 7-8-9 мест аренда прокат автомобиля в Израиле</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.rentcarisrael.online/tours.php</link>
+     <title>Индивидуальные экскурсии по Израилю | RentCarIsrael.online</title>
+     <description>Индивидуальные экскурсии по Израилю звоните +972-58-7710101</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>

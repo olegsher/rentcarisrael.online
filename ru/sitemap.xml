@@ -8,22 +8,26 @@
 
 <url>
   <loc>http://www.rentcarisrael.online/</loc>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://www.rentcarisrael.online/index.php</loc>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://www.rentcarisrael.online/about.php</loc>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://www.rentcarisrael.online/insurance.php</loc>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://www.rentcarisrael.online/terms.php</loc>
-  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rentcarisrael.online/faq.php</loc>
+</url>
+<url>
+  <loc>http://www.rentcarisrael.online/minivan.php</loc>
+</url>
+<url>
+  <loc>http://www.rentcarisrael.online/tours.php</loc>
 </url>
 </urlset>
