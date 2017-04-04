@@ -63,17 +63,17 @@
                       <hr />  
                     
                         <div class="bnr-left">
-				<label for="pickup-location">Аренда</label>
+				<label for="pickup-location">Pick-up</label>
 				
                                 <select class="form-control" name="pickup-location" id="pickup-location" required>
-                                        <option value="">Отделение</option>
+                                        <option value="">pickup-location</option>
                                         <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                                         <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
                                         <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
                                         <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
                                         <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
-                                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
+                                        <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                                        <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
                                         <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
                                         <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
                                         <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
@@ -83,18 +83,18 @@
                                         <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
                                         <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
                                         <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
-                                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
-                                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
+                                        <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                                        <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                                        <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                                        <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                                        <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                                        <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
                                 </select>
                                 <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
                                 <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
                                 <label for="pickup-time"></label>
                                 <select class="form-control" name="pickup-time" id="pickup-time" required>
-                                <option value="">Время</option>
+                                <option value="">pickup-time</option>
                             <option value="00:00">00:00</option>
                             <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>
@@ -149,17 +149,17 @@
 				
                     
                         <div class="bnr-right">
-				<label for="dropoff-location">Возврат</label>				
+				<label for="dropoff-location">dropoff-location</label>				
 
                                 <select class="form-control" name="dropoff-location" id="dropoff-location" required>
-                                        <option value="">Отделение</option>
+                                        <option value="">dropoff-location</option>
                                         <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                                         <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
                                         <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
                                         <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
                                         <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
-                                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
+                                        <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                                        <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
                                         <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
                                         <option value="71 Menachem Begin Street , Afula">71 Menachem Begin Street , Afula</option>
                                         <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
@@ -169,12 +169,12 @@
                                         <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
                                         <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
                                         <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
-                                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
-                                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
+                                        <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                                        <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                                        <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                                        <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                                        <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                                        <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
                                 </select>
                                 <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
                                 
@@ -184,7 +184,7 @@
                                <!--  <label for="dropoff-location">Возврат</label> -->				
 										 <label for="dropoff-time"></label>
                                 <select class="form-control" name="dropoff-time" id="dropoff-time" required>
-                                <option value="">Время</option>
+                                <option value="">dropoff-time</option>
                             <option value="00:00">00:00</option>
                             <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>
