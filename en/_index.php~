@@ -63,10 +63,10 @@
                       <hr />  
                     
                         <div class="bnr-left">
-				<label for="pickup-location">Аренда</label>
+				<label for="pickup-location">Pick-up</label>
 				
                                 <select class="form-control" name="pickup-location" id="pickup-location" required>
-                                        <option value="">Отделение</option>
+                                        <option value="">pickup-location</option>
                                         <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                                         <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
                                         <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
@@ -94,7 +94,7 @@
                                 <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
                                 <label for="pickup-time"></label>
                                 <select class="form-control" name="pickup-time" id="pickup-time" required>
-                                <option value="">Время</option>
+                                <option value="">pickup-time</option>
                             <option value="00:00">00:00</option>
                             <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>
@@ -149,10 +149,10 @@
 				
                     
                         <div class="bnr-right">
-				<label for="dropoff-location">Возврат</label>				
+				<label for="dropoff-location">dropoff-location</label>				
 
                                 <select class="form-control" name="dropoff-location" id="dropoff-location" required>
-                                        <option value="">Отделение</option>
+                                        <option value="">dropoff-location</option>
                                         <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                                         <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
                                         <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
@@ -184,7 +184,7 @@
                                <!--  <label for="dropoff-location">Возврат</label> -->				
 										 <label for="dropoff-time"></label>
                                 <select class="form-control" name="dropoff-time" id="dropoff-time" required>
-                                <option value="">Время</option>
+                                <option value="">dropoff-time</option>
                             <option value="00:00">00:00</option>
                             <option value="00:30">00:30</option>
                             <option value="01:00">01:00</option>

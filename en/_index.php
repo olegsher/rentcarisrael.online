@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
+<i> <img src="../images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
                     
@@ -161,9 +161,9 @@
                                         <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
                                         <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
                                         <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
-                                        <option value="71 Menachem Begin Street , Afula">71 Menachem Begin Street , Afula</option>
+                                        <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
                                         <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
-                                        <option value="18 Itzhak Nafha Street , Beer Sheva">18 Itzhak Nafha Street , Beer Sheva</option>
+                                        <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
                                         <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
                                         <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
                                         <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
@@ -387,7 +387,7 @@
 <div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3>Принимаем основные кредитные карты</h3>
@@ -398,7 +398,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			
 			</div>
 			<div class="rup-rgt">
@@ -410,7 +410,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
@@ -424,15 +424,15 @@
     </div>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 <!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
 <script type="text/javascript">
         var flashvars = {};
         flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/images/but/call2_green_ru_error.png";
+        flashvars.img1="https://zadarma.com/../images/but/call3_green_ru_free.png";
+        flashvars.img2="https://zadarma.com/../images/but/call2_green_ru_connecting.png";
+        flashvars.img3="https://zadarma.com/../images/but/call2_green_ru_reset.png";
+        flashvars.img4="https://zadarma.com/../images/but/call2_green_ru_error.png";
         var params = {};
         params.wmode="transparent";
         var attributes = {};
@@ -440,7 +440,7 @@
 </script>
 <div id="myAlternativeContent">
     <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+        <img src="http://www.adobe.com/../images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
     </a>
 </div>-->
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
@@ -449,11 +449,11 @@
 <br />Какой залог будет закрыт на вашей кредитной карточке? 
 <br />Будет ли добавлен НДС к вашему заказу?
 <br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
- <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
-<!--  <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
- <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
- <br /><img src="images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
+ <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
+<!--  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
+ <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
+ <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
+ <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
  <br />говорим по русски
  <hr />
  
@@ -466,33 +466,33 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  
  </a> 
  March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
  March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
  March 6, 2017 
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
@@ -502,11 +502,11 @@
 <hr />
 
 <h4>Последние заказы на сайте: </h4>
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
 
 
 
@@ -514,7 +514,7 @@
 <hr />
 
 <h4>Новости компании: </h4>
-<br><img src="images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
+<br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
 
 
 
@@ -1042,7 +1042,7 @@
 <td>
 <p><strong>Ашдод</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>7 Haorgim Street , Ashdod</td>
+<td>7 Haorgim Street, Ashdod</td>
 </tr>
 <tr>
 <td>
@@ -1055,124 +1055,124 @@
 <td>
 <p><strong>Афула</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>71 Menachem Begin Street , Afula</td>
+<td>71 Menachem Begin Street, Afula</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Беэр Шева</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>18 Itzhak Nafha Street , Beer Sheva</td>
+<td>18 Itzhak Nafha Street, Beer Sheva</td>
 
 </tr>
 <tr>
 <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>106 Kahanman Street , Bnei Brak</td>
+<td>106 Kahanman Street, Bnei Brak</td>
 
 </tr>
 <tr>
 <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>64 Mivtza Kadesh Street , Bnei Brak</td>
+<td>64 Mivtza Kadesh Street, Bnei Brak</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Герцлия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>8 Aba Even Street , Herzeliya</td>
+<td>8 Aba Even Street, Herzeliya</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Иерусалим</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td><td>
-19 King David Street , Jerusalem
+19 King David Street, Jerusalem
 </td>
 </tr>
 <tr>
 <td>
 <p><strong>Кирьят Шмоне</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>1 Hayarden Street , Kiryat Shmone</td>
+<td>1 Hayarden Street, Kiryat Shmone</td>
 </tr>
 <tr>
 <td>
 <p><strong>Нетания</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>1 Ussishkin Street , Natanya</td>
+<td>1 Ussishkin Street, Natanya</td>
 </tr>
 <tr>
 <td>
 <p><strong>Бейт Шемеш</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>10 Nahal Zohar Street , Beit Shemesh</td>
+<td>10 Nahal Zohar Street, Beit Shemesh</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Петах Тиква</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>82 Jabotinski Street , Petach Tikva</td>
+<td>82 Jabotinski Street, Petach Tikva</td>
 </tr>
 <tr>
 <td>
 <p><strong>Nes Tziona</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>10 Hapatish Street , Nes Tziona</td>
+<td>10 Hapatish Street, Nes Tziona</td>
 </tr>
 <tr>
 <td>
 <p><strong>Ришон Лецио</strong>н - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>14 David Saharov Street , Rishon LeTsiyon</td>
+<td>14 David Saharov Street, Rishon LeTsiyon</td>
 </tr>
 
 <tr>
 <td>
 <p><strong>Реховот</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>96 Herzl Street , Rehovot</td>
+<td>96 Herzl Street, Rehovot</td>
 </tr>
 <tr>
 <td><strong>Холон</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>73 Hamerkava Street , Holon</td>
+<td>73 Hamerkava Street, Holon</td>
 </tr>
 <tr>
 <td>
 <p><strong>Тель Авив, набережная</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>80 Hayarkon Street , Tel Aviv</td>
+<td>80 Hayarkon Street, Tel Aviv</td>
 
 </tr>
 <tr>
 <td><strong>Тель Авив</strong> - центральное отделение аренды проката автомобилей в Израиле</td>
-<td>9 Hamasger Street , Tel Aviv</td>
+<td>9 Hamasger Street, Tel Aviv</td>
 </tr>
 <tr>
 <td>
 <p><strong>Тверия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>71 Hayarden Street , Tiberias</td>
+<td>71 Hayarden Street, Tiberias</td>
 </tr>
 <tr>
 <td>
 <p><strong>Кфар Саба</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>17 Ha'Taas Street , Kfar Saba</td>
+<td>17 Ha'Taas Street, Kfar Saba</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Хайфа</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>88 Hahistadrut Street , Haifa</td>
+<td>88 Hahistadrut Street, Haifa</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Эйлат</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>3 Sheshet Hayamim Street , Eilat</td>
+<td>3 Sheshet Hayamim Street, Eilat</td>
 
 </tr>
 </tbody>
