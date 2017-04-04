@@ -33,28 +33,28 @@
                         
 						 <select class="form-control" name="car-select" id="car-select" required >
                      <option value="" >Категории автомобилей</option>							
-							<option value="Category Q" >Fiat 500(два места) or similar in category Q - от 24$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category B" >Kia Picanto(manual) or similar in category B - от 24$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category C" >Toyota Aygo(robotic) or similar in category C - от 25$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category D" >Hyundai i20(automatic) or similar in category D - от 26$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category E" >Ford Fiesta(automatic) or similar in category E - от 27$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category F" >Kia Forte(automatic) or similar in category F - от 30$ per day(renter’s responsibility - 475$)</option>							
-							<option value="Category I" >Mazda 3(automatic) or similar in category I - от 32$ сутки(франшиза - 475$)</option>
-							<option value="Category H" >Honda Civic(automatic) or similar in category H - от 41$ per day(renter’s responsibility - 715$)</option>
-							<option value="Category M" >Mazda 6(automatic) or similar in category M - от 47$ per day(renter’s responsibility - 715$)</option>
-							<option value="Category MH" >Honda Accord Hybrid(automatic) or similar in category MH - от 57$ per day(renter’s responsibility - 715$)</option>
-							<option value="Category T" >Fiat Doblo(manual, 5 мест) or similar in category T - от 60$ per day(renter’s responsibility - 475$)</option>
-							<option value="Category J" >Hyundai Tucson(automatic, 5 мест) or similar in category J - от 63$ per day(renter’s responsibility - 715$)</option>
-							<option value="Category U" >Mazda 5(automatic, 7 мест) or similar in category U - от 60$ per day(renter’s responsibility - 715$)</option>
-                     <option value="Category V" >Mitsubishi Outlander(automatic, 7 мест) or similar in category V - от 77$ per day(renter’s responsibility - 960$)</option>
-                     <option value="Category S" >Hyundai i800(manual, 8 мест) or similar in category S - от 104$ per day(renter’s responsibility - 960$)</option>
-                     <option value="Category V8" >Toyota Sienna(automatic, 8 мест) or similar in category V8 - от 120$ per day(renter’s responsibility - 960$)</option>
-                     <option value="Category Y" >Citroen Jumpy(manual, 9 мест)or similar in category Y - от 94$ per day(renter’s responsibility - 960$)</option>
-							<option value="Category Z" >Hyundai i800(automatic, 9 мест) or similar in category Z - от 131$ per day(renter’s responsibility - 960$)</option>
-                     <option value="Category P" >Volvo S80(automatic) or similar in category P - от 116$ per day(renter’s responsibility - 960$)</option>
-							<option value="Category K" >BMW 318i(automatic) or similar in category K - от 84$ per day(renter’s responsibility - 960$)</option>
-							<option value="Category W" >BMW i535(automatic) or similar in category W - от 155$ per day(renter’s responsibility - 960$)</option>
-							<option value="Category O" >Toyota Highlander(automatic) or similar in category O - от 174$ per day(renter’s responsibility - 960$)</option>
+							<option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category B" >Kia Picanto(manual) or similar in category B - from 24$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category C" >Toyota Aygo(robotic) or similar in category C - from 25$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category D" >Hyundai i20(automatic) or similar in category D - from 26$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category E" >Ford Fiesta(automatic) or similar in category E - from 27$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category F" >Kia Forte(automatic) or similar in category F - from 30$ per day(renter’s responsibility - 475$)</option>							
+							<option value="Category I" >Mazda 3(automatic) or similar in category I - from 32$ сутки(франшиза - 475$)</option>
+							<option value="Category H" >Honda Civic(automatic) or similar in category H - from 41$ per day(renter’s responsibility - 715$)</option>
+							<option value="Category M" >Mazda 6(automatic) or similar in category M - from 47$ per day(renter’s responsibility - 715$)</option>
+							<option value="Category MH" >Honda Accord Hybrid(automatic) or similar in category MH - from 57$ per day(renter’s responsibility - 715$)</option>
+							<option value="Category T" >Fiat Doblo(manual, 5 seats) or similar in category T - from 60$ per day(renter’s responsibility - 475$)</option>
+							<option value="Category J" >Hyundai Tucson(automatic, 5 seats) or similar in category J - from 63$ per day(renter’s responsibility - 715$)</option>
+							<option value="Category U" >Mazda 5(automatic, 7 seats) or similar in category U - from 60$ per day(renter’s responsibility - 715$)</option>
+                     <option value="Category V" >Mitsubishi Outlander(automatic, 7 seats) or similar in category V - from 77$ per day(renter’s responsibility - 960$)</option>
+                     <option value="Category S" >Hyundai i800(manual, 8 seats) or similar in category S - from 104$ per day(renter’s responsibility - 960$)</option>
+                     <option value="Category V8" >Toyota Sienna(automatic, 8 seats) or similar in category V8 - from 120$ per day(renter’s responsibility - 960$)</option>
+                     <option value="Category Y" >Citroen Jumpy(manual, 9 seats)or similar in category Y - from 94$ per day(renter’s responsibility - 960$)</option>
+							<option value="Category Z" >Hyundai i800(automatic, 9 seats) or similar in category Z - from 131$ per day(renter’s responsibility - 960$)</option>
+                     <option value="Category P" >Volvo S80(automatic) or similar in category P - from 116$ per day(renter’s responsibility - 960$)</option>
+							<option value="Category K" >BMW 318i(automatic) or similar in category K - from 84$ per day(renter’s responsibility - 960$)</option>
+							<option value="Category W" >BMW i535(automatic) or similar in category W - from 155$ per day(renter’s responsibility - 960$)</option>
+							<option value="Category O" >Toyota Highlander(automatic) or similar in category O - from 174$ per day(renter’s responsibility - 960$)</option>
 						</select>
                              <br />
                       </div>
@@ -67,22 +67,22 @@
 				
                                 <select class="form-control" name="pickup-location" id="pickup-location" required>
                                         <option value="">Отделение</option>
-                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
-                                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
+                                        <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                                        <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                                        <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                                        <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                                        <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
                                         <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
                                         <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
-                                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
+                                        <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                                        <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
+                                        <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                                        <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
+                                        <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                                        <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                                        <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                                        <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                                        <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
                                         <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
                                         <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
                                         <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
@@ -153,22 +153,22 @@
 
                                 <select class="form-control" name="dropoff-location" id="dropoff-location" required>
                                         <option value="">Отделение</option>
-                                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
-                                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
+                                        <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                                        <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                                        <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                                        <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                                        <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
                                         <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
                                         <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>								
-                                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
+                                        <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                                        <option value="71 Menachem Begin Street , Afula">71 Menachem Begin Street , Afula</option>
+                                        <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                                        <option value="18 Itzhak Nafha Street , Beer Sheva">18 Itzhak Nafha Street , Beer Sheva</option>
+                                        <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                                        <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                                        <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                                        <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                                        <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
                                         <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>								
                                         <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
                                         <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
@@ -377,7 +377,7 @@
     ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
     * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
     * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
-    Часы работы отделений - <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
+    Часы работы отделений - <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a> 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
     <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
     Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
@@ -552,9 +552,9 @@
 
 <tr>
 <td>U PWAR</td>
-<td><strong>Mazda 5, Nissan Kashkay</strong> или похожие в данной категории проката, 7 мест
+<td><strong>Mazda 5, Nissan Kashkay</strong> или похожие в данной категории проката, 7 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -567,9 +567,9 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> или похожие в данной категории проката,  7 мест
+<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> или похожие в данной категории проката,  7 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -582,9 +582,9 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 мест
+<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -598,9 +598,9 @@
 
 <tr>
 <td>S PVMR</td>
-<td><strong>Hyundai i800</strong> или похожие в данной категории проката, 8 мест (M)
+<td><strong>Hyundai i800</strong> или похожие в данной категории проката, 8 seats (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -613,9 +613,9 @@
 </tr>
 <tr>
 <td>V8 SVAR</td>
-<td><strong>Toyota Sienna LE, Kia Carnival</strong> или похожие в данной категории проката, 8 мест
+<td><strong>Toyota Sienna LE, Kia Carnival</strong> или похожие в данной категории проката, 8 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -631,9 +631,9 @@
 
 <tr>
 <td>Y PVMR</td>
-<td><strong>Renault Traffic, Hyundai i800</strong> или похожие в данной категории проката, 9 мест (M)
+<td><strong>Renault Traffic, Hyundai i800</strong> или похожие в данной категории проката, 9 seats (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -647,9 +647,9 @@
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> или похожие в данной категории проката, 9 мест
+<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> или похожие в данной категории проката, 9 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -677,7 +677,7 @@
 <td>P XDAR</td>
 <td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -693,7 +693,7 @@
 <td>K SXAR</td>
 <td><strong>BMW i318</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
@@ -708,7 +708,7 @@
 <td>W WXAR</td>
 <td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -723,9 +723,9 @@
 
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 мест
+<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -759,9 +759,9 @@
 <tr>
 <td>B EBMR</td>
 <td>
-<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> или похожие в данной категории проката, 4 мест (M)
+<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> или похожие в данной категории проката, 4 seats (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -778,9 +778,9 @@
 <tr>
 <td>T CVMR</td>
 <td>
-<strong>FIAT DOBLO ACTIVE</strong> или похожие в данной категории проката, 5 мест (M)
+<strong>FIAT DOBLO ACTIVE</strong> или похожие в данной категории проката, 5 seats (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -810,9 +810,9 @@
 <p>Q MBAR</p>
 </td>
 <td>
-<strong>FIAT 500</strong> или похожие в данной категории проката,  4 мест
+<strong>FIAT 500</strong> или похожие в данной категории проката,  4 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, 
 <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
@@ -830,9 +830,9 @@
 <td>
 <p>C ECAR</p>
 </td>
-<td><strong>Toyota Aygo</strong> или похожие в данной категории проката, 4 мест
+<td><strong>Toyota Aygo</strong> или похожие в данной категории проката, 4 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -850,9 +850,9 @@
 <p>D CCAR</p>
 </td>
 <td>
-<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> или похожие в данной категории проката,  4 мест
+<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> или похожие в данной категории проката,  4 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -870,9 +870,9 @@
 <p>E CDAR</p>
 </td>
 <td>
-<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> или похожие в данной категории проката,  5 мест
+<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> или похожие в данной категории проката,  5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -888,9 +888,9 @@
 <tr>
 <td>F IDAR</td>
 <td>
-<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> или похожие в данной категории проката, 5 мест
+<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -906,9 +906,9 @@
 <tr>
 <td>I SDAR</td>
 <td>
-<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> или похожие в данной категории проката, 5 мест
+<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
@@ -936,9 +936,9 @@
 <tr>
 <td>H FDAR</td>
 <td>
-<strong>HONDA CIVIC</strong> или похожие в данной категории проката, 5 мест
+<strong>HONDA CIVIC</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -954,9 +954,9 @@
 
 <tr>
 <td>J IFAR</td>
-<td><strong>KIA SPORTAGE</strong> или похожие в данной категории проката, 5 мест
+<td><strong>KIA SPORTAGE</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, 
 <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, 
 <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
@@ -976,9 +976,9 @@
 <p>M PDAR</p>
 </td>
 <td>
-<strong>MAZDA 6</strong> или похожие в данной категории проката, 5 мест
+<strong>MAZDA 6</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
@@ -996,9 +996,9 @@
 <p>MH SXAH</p>
 </td>
 <td>
-<strong>HONDA ACCORD HYBRID</strong> или похожие в данной категории проката, 5 мест
+<strong>HONDA ACCORD HYBRID</strong> или похожие в данной категории проката, 5 seats
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
