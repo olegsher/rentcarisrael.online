@@ -1,8 +1,8 @@
 <div class="container">
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
-<i> <img src="images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
-		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
+<i> <img src="../images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
+		<h3>C</h3>
                 
                     
     <!-- <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
@@ -21,25 +21,25 @@
 	
 	
 	<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-		<h1>Заполните форму и получите ваучер на почту</h1>
-                <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены. 
-                    <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
+		<h1></h1>
+                <p style="color:red;" > 
+                    <br /> </p>
                 <br />
                 <form id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
-				<label  for="car-select">Выбирайте класс автомобиля</label>
+				<label  for="car-select"></label>
                                
                         
 						 <select class="form-control" name="car-select" id="car-select" required >
-                     <option value="" >Категории автомобилей</option>							
+                     <option value="" >Car category</option>							
 							<option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category B" >Kia Picanto(manual) or similar in category B - from 24$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category C" >Toyota Aygo(robotic) or similar in category C - from 25$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category D" >Hyundai i20(automatic) or similar in category D - from 26$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category E" >Ford Fiesta(automatic) or similar in category E - from 27$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category F" >Kia Forte(automatic) or similar in category F - from 30$ per day(renter’s responsibility - 475$)</option>							
-							<option value="Category I" >Mazda 3(automatic) or similar in category I - from 32$ сутки(франшиза - 475$)</option>
+							<option value="Category I" >Mazda 3(automatic) or similar in category I - from 32$ per day(renter’s responsibility - 475$)</option>
 							<option value="Category H" >Honda Civic(automatic) or similar in category H - from 41$ per day(renter’s responsibility - 715$)</option>
 							<option value="Category M" >Mazda 6(automatic) or similar in category M - from 47$ per day(renter’s responsibility - 715$)</option>
 							<option value="Category MH" >Honda Accord Hybrid(automatic) or similar in category MH - from 57$ per day(renter’s responsibility - 715$)</option>
@@ -149,7 +149,7 @@
 				
                     
                         <div class="bnr-right">
-				<label for="dropoff-location">dropoff-location</label>				
+				<label for="dropoff-location">Drop-off</label>				
 
                                 <select class="form-control" name="dropoff-location" id="dropoff-location" required>
                                         <option value="">dropoff-location</option>
@@ -161,9 +161,9 @@
                                         <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
                                         <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
                                         <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
-                                        <option value="71 Menachem Begin Street , Afula">71 Menachem Begin Street , Afula</option>
+                                        <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
                                         <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
-                                        <option value="18 Itzhak Nafha Street , Beer Sheva">18 Itzhak Nafha Street , Beer Sheva</option>
+                                        <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
                                         <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
                                         <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
                                         <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
@@ -254,13 +254,13 @@
                         <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="First_name" required class="form-control autocomplete-location" placeholder="Имя на английском(как в правах)">  
+                        <input type="text" name="First_name" required class="form-control autocomplete-location" placeholder="First Name">  
                       </div>                                         
                     </div>
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                        <input type="text" name="Last_name" required class="form-control autocomplete-location" placeholder="Фамилия на английском(как в правах)">  
+                        <input type="text" name="Last_name" required class="form-control autocomplete-location" placeholder="Last Name">  
                       </div>                                         
                     </div>
                     
@@ -269,14 +269,14 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control autocomplete-location" placeholder="Ваша почта">  
+                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control autocomplete-location" placeholder="Email address">  
                       </div>                                         
                     </div>
                     
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>
-                        <input type="text" name="phone" required class="form-control autocomplete-location" placeholder="Ваш телефон-whatsapp-viber включая код страны" >  
+                        <input type="text" name="phone" required class="form-control autocomplete-location" placeholder="Phone/WhatsApp/Viber" >  
                       </div>                                         
                     </div>
                     
@@ -291,14 +291,14 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-exclamation-sign"></span></span>
-                        <input type="text" name="message" class="form-control autocomplete-location" placeholder="Дополнительная информация, вопрос...">  
+                        <input type="text" name="message" class="form-control autocomplete-location" placeholder="message">  
                       </div>                                         
                     </div>
                     
                     <div class="location">
                       <div class="input-group pick-up">
                         <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
-                        Возраст водителя
+                        Driver's age
                         <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
                         <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
 							   <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
@@ -310,7 +310,7 @@
                     <div class="location">
                       <div class="input-group pick-up">
                         <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
-                        Стаж вождения
+                        Drivers License years:
                         <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
                         <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
 							   <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
@@ -319,19 +319,19 @@
                     
                     
 							<div class="checkbox">
-  								<label><input type="checkbox" name="SuperCDW" value="V">Отмена личного участия при повреждении машины</label>
+  								<label><input type="checkbox" name="SuperCDW" value="V">reduce responsibility to Zero in case of damage to the vehicle</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="SuperTP" value="V">Отмена личного участия при угоне машины</label>
+  								<label><input type="checkbox" name="SuperTP" value="V">reduce responsibility to Zero in case of theft of the rental vehicle</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="addDriver" value="V">Дополнительный водитель</label>
+  								<label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="childseat" value="V">Детское сидение</label>
+  								<label><input type="checkbox" name="childseat" value="V">Child Seat</label>
 							</div>
 							<div class="checkbox">
-  								<label><input type="checkbox" name="tour" value="V">Хочу узнать о индивидуальных экскурсиях по Израилю</label>
+  								<label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
 							</div>
                     
                    <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
@@ -387,7 +387,7 @@
 <div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3>Принимаем основные кредитные карты</h3>
@@ -398,7 +398,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			
 			</div>
 			<div class="rup-rgt">
@@ -410,7 +410,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
@@ -424,15 +424,15 @@
     </div>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 <!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
 <script type="text/javascript">
         var flashvars = {};
         flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/images/but/call2_green_ru_error.png";
+        flashvars.img1="https://zadarma.com/../images/but/call3_green_ru_free.png";
+        flashvars.img2="https://zadarma.com/../images/but/call2_green_ru_connecting.png";
+        flashvars.img3="https://zadarma.com/../images/but/call2_green_ru_reset.png";
+        flashvars.img4="https://zadarma.com/../images/but/call2_green_ru_error.png";
         var params = {};
         params.wmode="transparent";
         var attributes = {};
@@ -440,7 +440,7 @@
 </script>
 <div id="myAlternativeContent">
     <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+        <img src="http://www.adobe.com/../images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
     </a>
 </div>-->
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
@@ -449,11 +449,11 @@
 <br />Какой залог будет закрыт на вашей кредитной карточке? 
 <br />Будет ли добавлен НДС к вашему заказу?
 <br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
- <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
-<!--  <br /><img src="images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
- <br /><img src="images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
- <br /><img src="images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
+ <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
+<!--  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
+ <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
+ <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
+ <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
  <br />говорим по русски
  <hr />
  
@@ -466,33 +466,33 @@
 
 
 <h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  
  </a> 
  March 20, 2017 
 <a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
  March 16, 2017 
 <a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
 
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
+ <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
  </a> 
  March 6, 2017 
 <a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
@@ -502,11 +502,11 @@
 <hr />
 
 <h4>Последние заказы на сайте: </h4>
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
+<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
 
 
 
@@ -514,7 +514,7 @@
 <hr />
 
 <h4>Новости компании: </h4>
-<br><img src="images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
+<br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
 
 
 
@@ -1042,7 +1042,7 @@
 <td>
 <p><strong>Ашдод</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>7 Haorgim Street , Ashdod</td>
+<td>7 Haorgim Street, Ashdod</td>
 </tr>
 <tr>
 <td>
@@ -1055,124 +1055,124 @@
 <td>
 <p><strong>Афула</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>71 Menachem Begin Street , Afula</td>
+<td>71 Menachem Begin Street, Afula</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Беэр Шева</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>18 Itzhak Nafha Street , Beer Sheva</td>
+<td>18 Itzhak Nafha Street, Beer Sheva</td>
 
 </tr>
 <tr>
 <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>106 Kahanman Street , Bnei Brak</td>
+<td>106 Kahanman Street, Bnei Brak</td>
 
 </tr>
 <tr>
 <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>64 Mivtza Kadesh Street , Bnei Brak</td>
+<td>64 Mivtza Kadesh Street, Bnei Brak</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Герцлия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>8 Aba Even Street , Herzeliya</td>
+<td>8 Aba Even Street, Herzeliya</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Иерусалим</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td><td>
-19 King David Street , Jerusalem
+19 King David Street, Jerusalem
 </td>
 </tr>
 <tr>
 <td>
 <p><strong>Кирьят Шмоне</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>1 Hayarden Street , Kiryat Shmone</td>
+<td>1 Hayarden Street, Kiryat Shmone</td>
 </tr>
 <tr>
 <td>
 <p><strong>Нетания</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>1 Ussishkin Street , Natanya</td>
+<td>1 Ussishkin Street, Natanya</td>
 </tr>
 <tr>
 <td>
 <p><strong>Бейт Шемеш</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>10 Nahal Zohar Street , Beit Shemesh</td>
+<td>10 Nahal Zohar Street, Beit Shemesh</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Петах Тиква</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>82 Jabotinski Street , Petach Tikva</td>
+<td>82 Jabotinski Street, Petach Tikva</td>
 </tr>
 <tr>
 <td>
 <p><strong>Nes Tziona</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>10 Hapatish Street , Nes Tziona</td>
+<td>10 Hapatish Street, Nes Tziona</td>
 </tr>
 <tr>
 <td>
 <p><strong>Ришон Лецио</strong>н - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>14 David Saharov Street , Rishon LeTsiyon</td>
+<td>14 David Saharov Street, Rishon LeTsiyon</td>
 </tr>
 
 <tr>
 <td>
 <p><strong>Реховот</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>96 Herzl Street , Rehovot</td>
+<td>96 Herzl Street, Rehovot</td>
 </tr>
 <tr>
 <td><strong>Холон</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-<td>73 Hamerkava Street , Holon</td>
+<td>73 Hamerkava Street, Holon</td>
 </tr>
 <tr>
 <td>
 <p><strong>Тель Авив, набережная</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>80 Hayarkon Street , Tel Aviv</td>
+<td>80 Hayarkon Street, Tel Aviv</td>
 
 </tr>
 <tr>
 <td><strong>Тель Авив</strong> - центральное отделение аренды проката автомобилей в Израиле</td>
-<td>9 Hamasger Street , Tel Aviv</td>
+<td>9 Hamasger Street, Tel Aviv</td>
 </tr>
 <tr>
 <td>
 <p><strong>Тверия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>71 Hayarden Street , Tiberias</td>
+<td>71 Hayarden Street, Tiberias</td>
 </tr>
 <tr>
 <td>
 <p><strong>Кфар Саба</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>17 Ha'Taas Street , Kfar Saba</td>
+<td>17 Ha'Taas Street, Kfar Saba</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Хайфа</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>88 Hahistadrut Street , Haifa</td>
+<td>88 Hahistadrut Street, Haifa</td>
 
 </tr>
 <tr>
 <td>
 <p><strong>Эйлат</strong> - городское отделение аренды проката автомобилей в Израиле</p>
 </td>
-<td>3 Sheshet Hayamim Street , Eilat</td>
+<td>3 Sheshet Hayamim Street, Eilat</td>
 
 </tr>
 </tbody>

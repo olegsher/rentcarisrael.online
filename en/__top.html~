@@ -4,8 +4,8 @@
 		<ul class="tp-hd-rgt wow fadeInRight animated" data-wow-delay=".5s"> 
 			<li class="tol">
 <!--                            <img src="images/phone-icon.png" style="float:left;" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />-->
-                            <img src="../images/sprite_phone_viber_whatsapp.png" style="float:left;" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
-                           +972-58-7710101</li>				
+                            <img src="../images/" style="float:left;" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+                           	+447978204454</li>				
                 </ul>
 		<div class="clearfix"></div>
 	</div>
@@ -41,17 +41,17 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-1">
-						<ul class="nav navbar-nav">
+						<!-- <ul class="nav navbar-nav"> -->
 						    <!-- <li><a href="index.php">ЗАКАЗАТЬ</a></li>
                                                     <li><a href="about.php">О КОМПАНИИ</a></li>
 <!--                                                    <li><a href="branches.php">ОТДЕЛЕНИЯ</a></li>-->
-                                                    <li><a href="insurance.php">СТРАХОВКИ</a></li>
+                                                    <!-- <li><a href="insurance.php">СТРАХОВКИ</a></li>
                                                     <li><a href="terms.php">УСЛОВИЯ АРЕНДЫ</a></li>
                                                     <li><a href="faq.php">ЧаВо</a></li>
-                                                    <li><a href="minivan.php">МИНИВЭНЫ</a></li> -->
+                                                    <li><a href="minivan.php">МИНИВЭНЫ</a></li> --> 
                                                    <!--  <li><a href="tours.php">ЭКСКУРСИИ</a></li> -->
 <!--                                                        <div class="clearfix"></div>-->
-						</ul>
+						<!-- </ul> -->
 					</nav>
                                 </div>  	
 			</nav>
