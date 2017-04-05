@@ -552,7 +552,7 @@
 
 <tr>
 <td>U PWAR</td>
-<td><strong>Mazda 5, Nissan Kashkay</strong> or Similar in the same rent category, 7 seats
+<td><strong>Mazda 5, Nissan Kashkay</strong> or an equivalent vehicle in the same car category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -567,7 +567,7 @@ Holon, Rishon LeTsiyon</td>
 </tr>
 <tr>
 <td>V MVAR</td>
-<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> or Similar in the same rent category,  7 seats
+<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> or an equivalent vehicle in the same car category,  7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -582,7 +582,7 @@ Holon, Rishon LeTsiyon</td>
 </tr>
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> or Similar in the same rent category, 7 seats
+<td><strong>Toyota Highlander</strong> or an equivalent vehicle in the same car category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -598,7 +598,7 @@ Holon, Rishon LeTsiyon</td>
 
 <tr>
 <td>S PVMR</td>
-<td><strong>Hyundai i800</strong> or Similar in the same rent category, 8 seats (M)
+<td><strong>Hyundai i800</strong> or an equivalent vehicle in the same car category, 8 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -613,7 +613,7 @@ Holon, Rishon LeTsiyon</td>
 </tr>
 <tr>
 <td>V8 SVAR</td>
-<td><strong>Toyota Sienna LE, Kia Carnival</strong> or Similar in the same rent category, 8 seats
+<td><strong>Toyota Sienna LE, Kia Carnival</strong> or an equivalent vehicle in the same car category, 8 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -631,7 +631,7 @@ Holon, Rishon LeTsiyon
 
 <tr>
 <td>Y PVMR</td>
-<td><strong>Renault Traffic, Hyundai i800</strong> or Similar in the same rent category, 9 seats (M)
+<td><strong>Renault Traffic, Hyundai i800</strong> or an equivalent vehicle in the same car category, 9 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -647,7 +647,7 @@ Holon, Rishon LeTsiyon
 </tr>
 <tr>
 <td>Z PVAR</td>
-<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> or Similar in the same rent category, 9 seats
+<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> or an equivalent vehicle in the same car category, 9 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -675,7 +675,7 @@ Holon, Rishon LeTsiyon</td>
 
 <tr>
 <td>P XDAR</td>
-<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> or Similar in the same rent category
+<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> or an equivalent vehicle in the same car category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -691,7 +691,7 @@ Holon, Rishon LeTsiyon</td>
 
 <tr>
 <td>K SXAR</td>
-<td><strong>BMW i318</strong> or Similar in the same rent category
+<td><strong>BMW i318</strong> or an equivalent vehicle in the same car category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -706,7 +706,7 @@ Holon, Rishon LeTsiyon</td>
 </tr>
 <tr>
 <td>W WXAR</td>
-<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> or Similar in the same rent category
+<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> or an equivalent vehicle in the same car category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -723,7 +723,7 @@ Holon, Rishon LeTsiyon
 
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> or Similar in the same rent category, 7 seats
+<td><strong>Toyota Highlander</strong> or an equivalent vehicle in the same car category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -759,7 +759,7 @@ Holon, Rishon LeTsiyon
 <tr>
 <td>B EBMR</td>
 <td>
-<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> or Similar in the same rent category, 4 seats (M)
+<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> or an equivalent vehicle in the same car category, 4 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -778,7 +778,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <tr>
 <td>T CVMR</td>
 <td>
-<strong>FIAT DOBLO ACTIVE</strong> or Similar in the same rent category, 5 seats (M)
+<strong>FIAT DOBLO ACTIVE</strong> or an equivalent vehicle in the same car category, 5 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -810,7 +810,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <p>Q MBAR</p>
 </td>
 <td>
-<strong>FIAT 500</strong> or Similar in the same rent category,  4 seats
+<strong>FIAT 500</strong> or an equivalent vehicle in the same car category,  4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, 
@@ -830,7 +830,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <td>
 <p>C ECAR</p>
 </td>
-<td><strong>Toyota Aygo</strong> or Similar in the same rent category, 4 seats
+<td><strong>Toyota Aygo</strong> or an equivalent vehicle in the same car category, 4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -850,7 +850,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <p>D CCAR</p>
 </td>
 <td>
-<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> or Similar in the same rent category,  4 seats
+<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> or an equivalent vehicle in the same car category,  4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -870,7 +870,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <p>E CDAR</p>
 </td>
 <td>
-<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> or Similar in the same rent category,  5 seats
+<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> or an equivalent vehicle in the same car category,  5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -888,7 +888,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <tr>
 <td>F IDAR</td>
 <td>
-<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> or Similar in the same rent category, 5 seats
+<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -906,7 +906,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <tr>
 <td>I SDAR</td>
 <td>
-<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> or Similar in the same rent category, 5 seats
+<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
@@ -936,7 +936,7 @@ Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 <tr>
 <td>H FDAR</td>
 <td>
-<strong>HONDA CIVIC</strong> or Similar in the same rent category, 5 seats
+<strong>HONDA CIVIC</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -954,7 +954,7 @@ Holon, Rishon LeTsiyon
 
 <tr>
 <td>J IFAR</td>
-<td><strong>KIA SPORTAGE</strong> or Similar in the same rent category, 5 seats
+<td><strong>KIA SPORTAGE</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, 
 Eilat, Jerusalem, <br>
@@ -976,7 +976,7 @@ Holon, Rishon LeTsiyon</td>
 <p>M PDAR</p>
 </td>
 <td>
-<strong>MAZDA 6</strong> or Similar in the same rent category, 5 seats
+<strong>MAZDA 6</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
@@ -996,7 +996,7 @@ Holon, Rishon LeTsiyon
 <p>MH SXAH</p>
 </td>
 <td>
-<strong>HONDA ACCORD HYBRID</strong> or Similar in the same rent category, 5 seats
+<strong>HONDA ACCORD HYBRID</strong> or an equivalent vehicle in the same car category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
 Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
