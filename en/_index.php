@@ -377,7 +377,7 @@
     ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
     * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
     * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
-    Часы работы отделений - <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a> 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
+    Часы работы отделений - Ben Gurion Int'l Airport 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
     <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
     Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
     <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
@@ -475,7 +475,7 @@
  
  </a> 
  March 20, 2017 
-<a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ашдоде. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
+<a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ashdodе. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
 
 <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
  <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
@@ -554,8 +554,8 @@
 <td>U PWAR</td>
 <td><strong>Mazda 5, Nissan Kashkay</strong> or Similar in the same rent category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>64</td>
@@ -569,8 +569,8 @@ Holon, Rishon LeTsiyon</td>
 <td>V MVAR</td>
 <td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> or Similar in the same rent category,  7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>83</td>
@@ -584,8 +584,8 @@ Holon, Rishon LeTsiyon</td>
 <td>O MVAR</td>
 <td><strong>Toyota Highlander</strong> or Similar in the same rent category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>211</td>
@@ -600,8 +600,8 @@ Holon, Rishon LeTsiyon</td>
 <td>S PVMR</td>
 <td><strong>Hyundai i800</strong> or Similar in the same rent category, 8 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>111</td>
@@ -615,8 +615,8 @@ Holon, Rishon LeTsiyon</td>
 <td>V8 SVAR</td>
 <td><strong>Toyota Sienna LE, Kia Carnival</strong> or Similar in the same rent category, 8 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -633,8 +633,8 @@ Holon, Rishon LeTsiyon
 <td>Y PVMR</td>
 <td><strong>Renault Traffic, Hyundai i800</strong> or Similar in the same rent category, 9 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -649,8 +649,8 @@ Holon, Rishon LeTsiyon
 <td>Z PVAR</td>
 <td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> or Similar in the same rent category, 9 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>140</td>
@@ -677,8 +677,8 @@ Holon, Rishon LeTsiyon</td>
 <td>P XDAR</td>
 <td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> or Similar in the same rent category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>124</td>
@@ -693,8 +693,8 @@ Holon, Rishon LeTsiyon</td>
 <td>K SXAR</td>
 <td><strong>BMW i318</strong> or Similar in the same rent category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>91</td>
@@ -708,8 +708,8 @@ Holon, Rishon LeTsiyon</td>
 <td>W WXAR</td>
 <td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> or Similar in the same rent category
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -725,8 +725,8 @@ Holon, Rishon LeTsiyon
 <td>O MVAR</td>
 <td><strong>Toyota Highlander</strong> or Similar in the same rent category, 7 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -761,10 +761,10 @@ Holon, Rishon LeTsiyon
 <td>
 <strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> or Similar in the same rent category, 4 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>25</td>
 <td>24</td>
@@ -780,10 +780,10 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>FIAT DOBLO ACTIVE</strong> or Similar in the same rent category, 5 seats (M)
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>64</td>
 <td>60 </td>
@@ -812,11 +812,11 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>FIAT 500</strong> or Similar in the same rent category,  4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
 Kfar Saba, 
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>25</td>
 <td>24</td>
@@ -832,10 +832,10 @@ Kfar Saba,
 </td>
 <td><strong>Toyota Aygo</strong> or Similar in the same rent category, 4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td> 26</td>
 <td>25</td>
@@ -852,10 +852,10 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> or Similar in the same rent category,  4 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>27</td>
 <td>26</td>
@@ -872,10 +872,10 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> or Similar in the same rent category,  5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>28</td>
 <td>27</td>
@@ -890,10 +890,10 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>32</td>
 <td>30</td>
@@ -908,10 +908,10 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
-Нес-Циона, Rehovot, Тверия, Herzliya, Афула, Petach Tikva, <br>
-Бейт Шемеш, Holon, Кирьят Шмона, Rishon LeTsiyon
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
 </td>
 <td>34</td>
 <td>32</td>
@@ -938,8 +938,8 @@ Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d
 <td>
 <strong>HONDA CIVIC</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -956,10 +956,10 @@ Holon, Rishon LeTsiyon
 <td>J IFAR</td>
 <td><strong>KIA SPORTAGE</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, 
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
+Ben Gurion Int'l Airport, Tel Aviv, 
+Eilat, Jerusalem, <br>
 Kfar Saba, 
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon</td>
 <td>67</td>
@@ -978,8 +978,8 @@ Holon, Rishon LeTsiyon</td>
 <td>
 <strong>MAZDA 6</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -998,8 +998,8 @@ Holon, Rishon LeTsiyon
 <td>
 <strong>HONDA ACCORD HYBRID</strong> or Similar in the same rent category, 5 seats
 <hr /><strong>Available for rent in following branches in Israel:</strong> <br>
-<a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%b0%d1%8d%d1%80%d0%be%d0%bf%d0%be%d1%80%d1%82-%d0%91%d0%b5%d0%bd-%d0%93%d1%83%d1%80/">Ben Gurion Airport</a>, Тель-Авив, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d1%8d%d0%b9%d0%bb%d0%b0%d1%82/">Эйлат</a>, Иерусалим, <br>
-Kfar Saba, <a href="http://www.privateisrael.com/blog/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d0%bd%d0%b0%d0%bf%d1%80%d0%be%d0%ba%d0%b0%d1%82-%d0%bd%d0%b5%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/">Нетания</a>, Ашдод, Бней Брак, <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
 Rehovot, Herzliya, Petach Tikva, <br>
 Holon, Rishon LeTsiyon
 </td>
@@ -1023,7 +1023,7 @@ Holon, Rishon LeTsiyon
 
 
 <hr />
-<h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
+<h4>OUR RENTAL CAR BRANCHES IN ISRAEL:</h4>
 <br>
 
 <div class="table-responsive">     
@@ -1031,146 +1031,146 @@ Holon, Rishon LeTsiyon
 <tbody>
 <tr>
 <td>
-<p><strong>Город</strong></p>
+<p><strong>City</strong></p>
 </td>
 <td>
-<p><strong>Адрес</strong></p>
+<p><strong>Address</strong></p>
 </td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Ашдод</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Ashdod</strong> - local car rental branch in Israel</p>
 </td>
 <td>7 Haorgim Street, Ashdod</td>
 </tr>
 <tr>
 <td>
-<p><strong>Ben Gurion Int'l Airport</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Ben Gurion Int'l Airport</strong> - central car rental branch in Israel</p>
 </td>
 <td>Terminal 3</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Афула</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Afula</strong> - local car rental branch in Israel</p>
 </td>
 <td>71 Menachem Begin Street, Afula</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Беэр Шева</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Beer Sheva</strong> - local car rental branch in Israel</p>
 </td>
 <td>18 Itzhak Nafha Street, Beer Sheva</td>
 
 </tr>
 <tr>
-<td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
+<td><strong>Bnei Brak</strong> - local car rental branch in Israel</td>
 <td>106 Kahanman Street, Bnei Brak</td>
 
 </tr>
 <tr>
-<td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
+<td><strong>Bnei Brak</strong> - local car rental branch in Israel</td>
 <td>64 Mivtza Kadesh Street, Bnei Brak</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Herzliya</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Herzliya</strong> - local car rental branch in Israel</p>
 </td>
 <td>8 Aba Even Street, Herzeliya</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Иерусалим</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Jerusalem</strong> - local car rental branch in Israel</p>
 </td><td>
 19 King David Street, Jerusalem
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Кирьят Шмоне</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Kiryat Shmone</strong> - local car rental branch in Israel</p>
 </td>
 <td>1 Hayarden Street, Kiryat Shmone</td>
 </tr>
 <tr>
 <td>
-<p><strong>Нетания</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Netania</strong> - local car rental branch in Israel</p>
 </td>
 <td>1 Ussishkin Street, Natanya</td>
 </tr>
 <tr>
 <td>
-<p><strong>Бейт Шемеш</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Beit Shemesh</strong> - local car rental branch in Israel</p>
 </td>
 <td>10 Nahal Zohar Street, Beit Shemesh</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Petach Tikva</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Petach Tikva</strong> - local car rental branch in Israel</p>
 </td>
 <td>82 Jabotinski Street, Petach Tikva</td>
 </tr>
 <tr>
 <td>
-<p><strong>Nes Tziona</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Nes Tziona</strong> - local car rental branch in Israel</p>
 </td>
 <td>10 Hapatish Street, Nes Tziona</td>
 </tr>
 <tr>
 <td>
-<p><strong>Ришон Лецио</strong>н - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Rishon LeTsiyon</strong> - local car rental branch in Israel</p>
 </td>
 <td>14 David Saharov Street, Rishon LeTsiyon</td>
 </tr>
 
 <tr>
 <td>
-<p><strong>Rehovot</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Rehovot</strong> - local car rental branch in Israel</p>
 </td>
 <td>96 Herzl Street, Rehovot</td>
 </tr>
 <tr>
-<td><strong>Holon</strong> - городское отделение аренды проката автомобилей в Израиле</td>
+<td><strong>Holon</strong> - local car rental branch in Israel</td>
 <td>73 Hamerkava Street, Holon</td>
 </tr>
 <tr>
 <td>
-<p><strong>Тель Авив, набережная</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Tel Aviv</strong> - central car rental branch in Israel</p>
 </td>
 <td>80 Hayarkon Street, Tel Aviv</td>
 
 </tr>
 <tr>
-<td><strong>Тель Авив</strong> - центральное отделение аренды проката автомобилей в Израиле</td>
+<td><strong>Tel Aviv</strong> - central car rental branch in Israel</td>
 <td>9 Hamasger Street, Tel Aviv</td>
 </tr>
 <tr>
 <td>
-<p><strong>Тверия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Tiberias</strong> - local car rental branch in Israel</p>
 </td>
 <td>71 Hayarden Street, Tiberias</td>
 </tr>
 <tr>
 <td>
-<p><strong>Kfar Saba</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Kfar Saba</strong> - local car rental branch in Israel</p>
 </td>
 <td>17 Ha'Taas Street, Kfar Saba</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Хайфа</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Haifa</strong> - local car rental branch in Israel</p>
 </td>
 <td>88 Hahistadrut Street, Haifa</td>
 
 </tr>
 <tr>
 <td>
-<p><strong>Эйлат</strong> - городское отделение аренды проката автомобилей в Израиле</p>
+<p><strong>Eilat</strong> - local car rental branch in Israel</p>
 </td>
 <td>3 Sheshet Hayamim Street, Eilat</td>
 
