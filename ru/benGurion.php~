@@ -26,14 +26,10 @@
 <?php include("__top.html"); ?>
 
 
-
-
-
-   
+  
 <div class="container">
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="../images/catW.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль, Аэропорт Бен Гурион" class="img-responsive" />
-<br /><h1>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ - Аэропорт Бен Гурион:</h1>
+<h1>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ - Аэропорт Бен Гурион:</h1>
 </div>
 
 <br clear="all">
@@ -59,8 +55,6 @@
 Мы принимаем кредитные карты: Visa, MasterCard, Amex, Diners
 
 <br>
-
-
 
 
 </div>
