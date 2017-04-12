@@ -29,8 +29,7 @@
   
 <div class="container">
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<h1>Эйлат - городское отделение аренды проката автомобилей в Израиле<br>
-ОТДЕЛЕНИЕ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ</h1>
+<h1>Эйлат - городское отделение аренды проката автомобилей в Израиле</h1>
 </div>
 <div class="clearfix"></div>
 
