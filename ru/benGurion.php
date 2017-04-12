@@ -29,43 +29,6 @@
 
 
 
-
-
-<?php include("__footer.html"); ?>
-
-<script type="text/javascript">
-var ZCallbackWidgetLinkId  = '86c302f105eb53a8f2c43e54f6be69ad';
-var ZCallbackWidgetDomain  = 'my.zadarma.com';
-(function(){
-    var lt = document.createElement('script');
-    lt.type ='text/javascript';
-    lt.charset = 'utf-8';
-    lt.async = true;
-    lt.src = 'https://' + ZCallbackWidgetDomain + '/callbackWidget/js/main.min.js?unq='+Math.floor(Math.random(0,1000)*1000);
-    var sc = document.getElementsByTagName('script')[0];
-    if (sc) sc.parentNode.insertBefore(lt, sc);
-    else document.documentElement.firstChild.appendChild(lt);
-})();
-</script>
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    
 <div class="container">
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
@@ -111,6 +74,25 @@ var ZCallbackWidgetDomain  = 'my.zadarma.com';
 </div>
 </div>
 
+
+
+
+<?php include("__footer.html"); ?>
+
+<script type="text/javascript">
+var ZCallbackWidgetLinkId  = '86c302f105eb53a8f2c43e54f6be69ad';
+var ZCallbackWidgetDomain  = 'my.zadarma.com';
+(function(){
+    var lt = document.createElement('script');
+    lt.type ='text/javascript';
+    lt.charset = 'utf-8';
+    lt.async = true;
+    lt.src = 'https://' + ZCallbackWidgetDomain + '/callbackWidget/js/main.min.js?unq='+Math.floor(Math.random(0,1000)*1000);
+    var sc = document.getElementsByTagName('script')[0];
+    if (sc) sc.parentNode.insertBefore(lt, sc);
+    else document.documentElement.firstChild.appendChild(lt);
+})();
+</script>
 
 
 </body>
