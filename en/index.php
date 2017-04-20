@@ -45,20 +45,18 @@
 	<div class="col-md-5 bann-info1 wow fadeInLeft animated" data-wow-delay=".5s">
 <!--		<i class="fa fa-columns"></i>-->
 <i> <img src="../images/Thrifty-Israel.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
-		<h3>C</h3>
+		<h3>Car Hire Israel</h3>
                 
                     
-    <!-- <hr /><a  href="http://www.rentcarisrael.online/minivan.php">Прокат минивэнов - наш бизнес</a>
-    <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
-    <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
-	 <hr /><a href="http://www.israeltour.online"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="20" height="20" />
- Индивидуальные экскурсии по Израилю с частным гидом 250$</span></a>    
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
-	 <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
-                
+    
+    
+    
+	     
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Included in the Rental Price: Collision Damage Waiver (CDW), Third-Party Liability (TPL), Theft Protection (TP)" width="20" height="20" />
+    Collision Damage Waiver (CDW), Third-Party Liability (TPL) and Theft Protection (TP) are included in the Rental Price, no hidden fees
+    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="kilometres are limited to 250 kilometres per day for rentals of 1 to 2 days; unlimited for rentals of 3 to 29 days; and limited to 4500 kilometres per rental for rentals of 30 days or more" width="20" height="20" />
+Unlimited mileage for rentals of 3 to 29 days
+               
                 
 	</div>
 	
@@ -71,7 +69,7 @@
                 <form id="contactform" method="post">
 		<div class="ban-top">
 			<div class="bnr-left">
-				<label  for="car-select"></label>
+				<label  for="car-select">Select car category</label>
                                
                         
 						 <select class="form-control" name="car-select" id="car-select" required >
@@ -351,215 +349,50 @@
                     </div>
                     
                     <div class="location">
-                      <div class="input-group pick-up">
-                        <!-- <span class="input-group-addon"><span class="glyphicon glyphicon-ok-sign"></span></span> -->
-                        Drivers License years:
-                        <!-- <input type="number" name="age" min="21" max="70" class="form-control autocomplete-location" placeholder="Возраст водителя от 21 года"> --> 
+                      <div class="input-group pick-up">                        
+                        Driver's license years:                         
                         <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
-							   <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
+			<label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
                       </div>                                         
                     </div>
                     
                     
-							<div class="checkbox">
-  								<label><input type="checkbox" name="SuperCDW" value="V">reduce responsibility to Zero in case of damage to the vehicle</label>
-							</div>
-							<div class="checkbox">
-  								<label><input type="checkbox" name="SuperTP" value="V">reduce responsibility to Zero in case of theft of the rental vehicle</label>
-							</div>
-							<div class="checkbox">
-  								<label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
-							</div>
-							<div class="checkbox">
-  								<label><input type="checkbox" name="childseat" value="V">Child Seat</label>
-							</div>
-							<div class="checkbox">
-  								<label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
-							</div>
-                    
-                   <!--  <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div> -->
-                    
-                    
-							
-                        
-                        
-                        
-                       <!--  Возраст водителя <input type="number" name="age" min="21" max="70" placeholder="от 21" required = "required">  -->
-                       <!--  Стаж вождения <input type="number" name="DriverExperience" min="1" max="70" placeholder="" required = "required">  -->
+                    <div class="checkbox">
+                            <label><input type="checkbox" name="SuperCDW" value="V">Reduce responsibility to Zero in case of damage to the vehicle</label>
+                    </div>
+                    <div class="checkbox">
+                            <label><input type="checkbox" name="SuperTP" value="V">Reduce responsibility to Zero in case of theft of the rental vehicle</label>
+                    </div>
+                    <div class="checkbox">
+                            <label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
+                    </div>
+                    <div class="checkbox">
+                            <label><input type="checkbox" name="childseat" value="V">Child Seat</label>
+                    </div>
+                    <div class="checkbox">
+                            <label><input type="checkbox" name="tour" value="V">Interesting in private tour</label>
+                    </div>
                         
 		</div>
 
-                           <!--  <hr />
-                        <input type="checkbox" name="SuperCDW" value="V"> Добавить отмену личного участия при повреждении машины<br>
-                        <input type="checkbox" name="SuperTP" value="V"> Добавить отмену личного участия при угоне машины<br> -->
-                        
-                        <!-- <input type="checkbox" name="childseat" value="V"> Детское сидение 5$ в день(максимум 50$)<br>
-                        <input type="checkbox" name="GPS" value="V"> Навигатор 10$ в день(максимум 75$)<br> -->
-<!--                        <input type="checkbox" name="youngDriver" value="youngDriver"> Молодой водитель, менее года<br>->
-                        <input type="checkbox" name="addDriver" value="V"> Дополнительный водитель 2$ в день (бесплатно при заказе 7+ дней)<br>
-                        <input type="checkbox" name="RoadSafe" value="V"> Быстрая помощь на дороге 4$ в день(максимум 100$)<br>
-                        <input type="checkbox" name="Religious" value="V"> Я соблюдаю шабат. Расчет по прейскуранту для верующих <br> -->
-<!--                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
-                        <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>-->
-                        <!-- <textarea name="message" placeholder="Дополнительная информация, вопрос..."></textarea> <br /> -->
-<!--                        
-                        <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
-                        <br />
+                           
                         <input type="submit" name="submit" value="BOOK">
                         
 
                         
   </form>
                 
- <h5><a href="http://www.israeltour.online/ru/"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
- добавить индивидуальную экскурсию по Израилю с частным гидом</span></a></h5>
-
-
-	</div>
+ 	</div>
     <hr />
-    ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
+<!--    ** Указанные цены соответствуют прейскуранту дилера компаний Thrifty/Dollar/Albar для низкого сезона и значительно отличаются от расценок на сайте\отделении поставщика <br />
     * Указанные цены ВКЛЮЧАЮТ обязательные страховки <br />
     * Указанные цены не включают НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно предоставить при получении машины) <br />
-    Часы работы отделений - Ben Gurion Int'l Airport 24\7, остальные отделения 8-18, пятница 8-13  <br /> 
-    <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
-    Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.
-    <!-- <br />Компания поставщик может изменить цены и конечной считается цена в ваучере. -->
+    Часы работы отделений - Ben Gurion Int'l Airport 24\7, остальные отделения 8-18, пятница 8-13  <br />    
+    Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки. -->
+    
     
     <div class="clearfix"></div>
 
-<div class="rupes">
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3>Принимаем основные кредитные карты</h3>
-				<h4><a href="">Нет предоплаты, возможна оплата наличными</a></h4>
-				<p>при возврате машины</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			
-			</div>
-			<div class="rup-rgt">
-				<h3>Безлимитный километраж</h3>
-				<h4><a href="">На все категории машин</a></h4>
-				<p>при заказе 3-30 дней</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
-			<div class="rup-left">
-				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
-			</div>
-			<div class="rup-rgt">
-				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="http://www.israeltour.online/">от лицензированного гида</a></h4>
-				<p>при заказе аренды машины на нашем сайте</p>
-			</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="clearfix"></div>    
-    
-    </div>
-
-<div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="../images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
-<!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
-<script type="text/javascript">
-        var flashvars = {};
-        flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/../images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/../images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/../images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/../images/but/call2_green_ru_error.png";
-        var params = {};
-        params.wmode="transparent";
-        var attributes = {};
-        swfobject.embedSWF("js/pbutton.swf", "myAlternativeContent", "215", "138", "9.0.0", false, flashvars, params, attributes);
-</script>
-<div id="myAlternativeContent">
-    <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/../images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
-    </a>
-</div>-->
-    <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
-</div> 
-<br />Хотите уточнить нужно ли вам детское кресло?
-<br />Какой залог будет закрыт на вашей кредитной карточке? 
-<br />Будет ли добавлен НДС к вашему заказу?
-<br />Эти все другие вопросы будут разрешены если вы свяжитесь с нами
- <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в Израиле +972-58-7710101
-<!--  <br /><img src="../images/phone.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Телефон в России 7-499-1123-995 -->
- <br /><img src="../images/whatsapp.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> WhatsApp +972-58-7710101
- <br /><img src="../images/viber.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Viber +972-58-7710101
- <br /><img src="../images/mail.gif" alt="Позвоните Vastama по аренде атомобиля в Израиле" /> Почта rentcar@vastama.com
- <br />говорим по русски
- <hr />
- 
- 
-<!-- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> -->
-
-
-
-
-
-<!-- 
-<h4>Последние отзывы наших клиентов: </h4>
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- 
- </a> 
- March 20, 2017 
-<a href="https://www.facebook.com/sasa.sim.7315">Sasa Sim</a> Спасибо за сервис и авто. Арендовал авто в Бен Гурион, сдавал в Ashdodе. Предварительно проконсультировали на русском по всем тонкостям, авто предоставили классом выше чем заказывал, деньги списаны по договоренности. Все доступно , точно и понятно. Буду обращаться еще.
-
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- </a> 
- March 16, 2017 
-<a href="https://www.facebook.com/Dmitry.Tikhonofff">Dmitry Tikhonov</a> Арендовали автомобиль через Шер Олега. В качестве бонуса "получили" отзывчивого человека, всегда готового придти на помощь и дать толковый совет. Причем, оперативно, что в чужой стране бывает актуально. Рекомендую.
-
-<br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../images/facebook-icon-small.png" alt="отзывы наших клиентов пять звезд" height="20" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- <img src="../images/blue_star_20px.png" alt="отзывы наших клиентов пять звезд" />
- </a> 
- March 6, 2017 
-<a href="https://www.facebook.com/profile.php?id=1829188783">Ольга Рыбакова</a> Помогли арендовать автомобиль, дешевле, чем в других агентствах. Предоставили автомобиль новый и выше классом.
-
-
-
-<hr />
-
-<h4>Последние заказы на сайте: </h4>
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александр 22- 26 Марта 2017 категория Mazda3, отделение аренды проката - Тель Авив, Яркон ‎ - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Татьяна 21- 28 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Лариса 22 Мая - 22 Июня 2017 категория Hy‎undai i20, отделение аренды проката - Нетания - подтверждено
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Андрей 16 - 27 Марта 2017 категория Ford Fiesta, ‎отделение аренды проката - Тель Авив, Бен Гурион - в прокате
-<br><img src="../images/blue_star_20px.png" alt="заказы на сайте" /> Александра 13 Марта - 15 Июня 2017 категория Hyundai Tucson‎, отделение аренды проката - Тель Авив, Яркон - в прокате
-
-
-
-
-<hr />
-
-<h4>Новости компании: </h4>
-<br><img src="../images/blue_star_20px.png" alt="Новости компании - аренда прокат автомобилей в Израиле" /> Акция: аренда прокат всех категорий машин на Майские праздники по цене низкого сезона(срок действия ограничен)
-
- -->
 
 
 <hr />
