@@ -265,6 +265,11 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       </div>
                     </div>
                   </div>
+              Contact Us: 
+<br>+44 7978204454(English, phone only)
+<br>+7-499-1123-995(Russian, phone only)
+<br>+972-58-771-0101(WhatsApp/Viber, chat only)
+        <div class="clearfix"></div>
                   <!-- Wrapper for slides end -->
 
                   <!-- Slider Controls start -->
@@ -577,9 +582,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
                 </div>
               </div>
-            Contact Us: 
-+44 7978204454(English, phone only) | +7-499-1123-995(Russian, phone only) | +972-58-771-0101(WhatsApp/Viber, chat only)
-        <div class="clearfix"></div>    
+                
         </div>
           </div>
         </section>
