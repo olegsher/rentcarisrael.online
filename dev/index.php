@@ -296,7 +296,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <div class="styled-select-car">
                       <select name="car-select" id="car-select">
                         <option value="">Select your car type</option>
-                        <option value="img/vehicle1.jpg">VW Golf VII</option>                        						
+                                             						
                         <option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
                         <option value="Category B" >Kia Picanto(manual) or similar in category B - from 24$ per day(renter’s responsibility - 475$)</option>
                         <option value="Category C" >Toyota Aygo(robotic) or similar in category C - from 25$ per day(renter’s responsibility - 475$)</option>
@@ -577,7 +577,8 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
                 </div>
               </div>
-
+            Contact Us: 
++44 7978204454(English, phone only) | +7-499-1123-995(Russian, phone only) | +972-58-771-0101(WhatsApp/Viber, chat only)
             </div>
           </div>
         </section>
