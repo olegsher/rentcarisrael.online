@@ -148,9 +148,7 @@ $message .= "</body></html>";
                       Car Rental Israel
                   </h1>
                   by Vastama Ltd 
-                    <br>+44 7978204454(English, phone only)
-                    <br>+7-499-1123-995(Russian, phone only) 
-                    <br>+972-58-771-0101(WhatsApp/Viber, chat only)
+                    
               </div>
               <!-- Logo end -->
           </div>
