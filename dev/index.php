@@ -6,7 +6,7 @@ $reqemail = "rentcargroup@privateisrael.com";
 #    $reqemail = "admin@sher.biz";
     $from = $_POST['email']; // this is the sender's Email address
     $first_name = $_POST['First_name'];
-    $last_name = $_POST['Last_name'];
+//    $last_name = $_POST['Last_name'];
     $phone = $_POST['phone'];
     
     $car_select = $_POST['car-select'];
@@ -23,10 +23,10 @@ $reqemail = "rentcargroup@privateisrael.com";
     $SuperCDW = $_POST['SuperCDW'];
     $SuperTP = $_POST['SuperTP'];
     $childseat = $_POST['childseat'];
-    $GPS = $_POST['GPS'];
+//    $GPS = $_POST['GPS'];
     $addDriver = $_POST['addDriver'];
-    $RoadSafe = $_POST['RoadSafe'];    
-    $Tour = $_POST['tour'];
+//    $RoadSafe = $_POST['RoadSafe'];    
+//    $Tour = $_POST['tour'];
     
     $message = $_POST['message'];
    
@@ -40,15 +40,15 @@ $reqemail = "rentcargroup@privateisrael.com";
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     
     
-    $subject = $_POST['First_name'] . " " . $_POST['Last_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
-            $message = '<html lang="ru"><body>';
+    $subject = $_POST['First_name'] . " " . $_POST['car-select'] . " " . "rentcarisrael.online";    
+            $message = '<html lang="en"><body>';
             $message .= '<hr />';
-            $message .= 'Бронирование автомобиля в Израиле на http://www.rentcarisrael.online +972-58-7710101';
+            $message .= 'Rent car Israel http://www.rentcarisrael.online +972-58-7710101';
             $message .= '<hr />';
 $message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
-$message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
+//$message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
 $message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_POST['email']) . "</td></tr>";
 $message .= "<tr><td><strong>Phone:</strong> </td><td>" . strip_tags($_POST['phone']) . "</td></tr>";
 $message .= "<tr style='background: #eee;'><td><strong>Car Category:</strong> </td><td>" . strip_tags($_POST['car-select']) . "</td></tr>";
@@ -66,7 +66,7 @@ $message .= "<tr><td><strong>Children seat:</strong> </td><td>" . strip_tags($_P
 // $message .= "<tr><td><strong>GPS:</strong> </td><td>" . strip_tags($_POST['GPS']) . "</td></tr>";
 // $message .= "<tr><td><strong>Roadsafe:</strong> </td><td>" . strip_tags($_POST['RoadSafe']) . "</td></tr>";
 $message .= "<tr><td><strong>Additional driver:</strong> </td><td>" . strip_tags($_POST['addDriver']) . "</td></tr>";
-$message .= "<tr><td><strong>Tour:</strong> </td><td>" . strip_tags($_POST['tour']) . "</td></tr>";
+//$message .= "<tr><td><strong>Tour:</strong> </td><td>" . strip_tags($_POST['tour']) . "</td></tr>";
 $message .= "<tr><td><strong>message:</strong> </td><td>" . strip_tags($_POST['message']) . "</td></tr>";
 $message .= "</table>";
 $message .= "</body></html>";
@@ -74,7 +74,7 @@ $message .= "</body></html>";
 
      mail($to,$subject,$message,$headers);
     
-    $subject2 = "Ваше бронирование автомобиля в Израиле на http://www.rentcarisrael.online +972-58-7710101";
+    $subject2 = "Rent car in Israel http://www.rentcarisrael.online +972-58-7710101";
     $headers2 = "From: " . strip_tags($reqemail) . "\r\n";
     $headers2 .= "Reply-To: ". strip_tags($reqemail) . "\r\n";
     $headers .= "CC: office@vastama.com\r\n";
@@ -83,7 +83,7 @@ $message .= "</body></html>";
     $headers2 .= "Content-Type: text/html; charset=utf-8\r\n";
     // $message2 = "test";
    mail($from,$subject2,$message,$headers2); // sends a copy of the message to the sender  
-header('Location: http://www.rentcarisrael.online/thankyou.php');
+//header('Location: http://www.rentcarisrael.online/thankyou.php');
     }
 ?>
 <!DOCTYPE html>
@@ -336,7 +336,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <span class="glyphicon glyphicon-map-marker"></span> Pick-up
                     </span>
                     <div class="styled-select-car">
-                      <select name="pick-up-location" id="pick-up-location">
+                      <select name="pickup-location" id="pick-up-location">
                           
                             <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                             <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
@@ -368,12 +368,12 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <div class="date pull-left">
                         <div class="input-group">
 <!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Pick-up</span>-->
-                          <input type="text" name="pick-up-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
+                          <input type="text" name="pickup-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
                       <div class="time pull-right">
                         <div class="styled-select-time">
-                          <select name="pick-up-time" id="pick-up-time">
+                          <select name="pickup-time" id="pickup-location-time">
                             <option value="12:00 AM">12:00 AM</option>
                             <option value="12:30 AM">12:30 AM</option>
                             <option value="01:00 AM">01:00 AM</option>
@@ -434,7 +434,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <span class="glyphicon glyphicon-map-marker"></span> Drop-Off
                     </span>
                     <div class="styled-select-car">
-                      <select name="drop-off-location" id="drop-off-location">
+                      <select name="drop-off-location" id="dropoff-location">
                           
                             <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                             <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
@@ -469,12 +469,12 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <div class="date pull-left">
                         <div class="input-group">
 <!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Drop-off</span>-->
-                          <input type="text" name="drop-off-date" id="drop-off-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
+                          <input type="text" name="drop-off-date" id="dropoff-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
                       <div class="time pull-right">
                         <div class="styled-select-time">
-                          <select name="drop-off-time" id="drop-off-time">
+                          <select name="dropoff-time" id="drop-off-time">
                             <option value="12:00 AM">12:00 AM</option>
                             <option value="12:30 AM">12:30 AM</option>
                             <option value="01:00 AM">01:00 AM</option>
