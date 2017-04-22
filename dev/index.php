@@ -301,8 +301,7 @@ $message .= "</body></html>";
                     <!-- Car select start -->
                     <div class="styled-select-car">
                       <select name="car-select" id="car-select" required>
-                        <option value="">Select your car type</option>
-                                             						
+                        <option value="">Select your car type</option>                                             						
                         <option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
                         <option value="Category B" >Kia Picanto(manual) or similar in category B - from 24$ per day(renter’s responsibility - 475$)</option>
                         <option value="Category C" >Toyota Aygo(robotic) or similar in category C - from 25$ per day(renter’s responsibility - 475$)</option>
