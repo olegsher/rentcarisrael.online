@@ -292,19 +292,11 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <!--renter info start --> 
                     
                     
-                        <input type="text" name="First_name" required class="form-control" placeholder="First Name">  
-                    
-                    
-                        <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  
-                      
-                    
-                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
-                    
-                    
-                        <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
-                    
-<!--                        <input type="text" name="country" class="form-control" placeholder="country">  -->
-                        <input type="text" name="message" class="form-control" placeholder="message">  
+                    <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
+<!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
+                    <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
+                      <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
+                      <input type="text" name="message" class="form-control" placeholder="message">  
                         
                         <div >Driver's age:                         
                        <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
@@ -319,7 +311,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <div class="checkbox">
                         Reduce responsibility to Zero in case of: <br>
                         
-                        <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle</label>
+                        <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle | </label>
                         <label><input type="checkbox" name="SuperTP" value="V">theft of the vehicle</label>
               </div>
                 <div class="checkbox">
@@ -328,9 +320,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 <div class="checkbox">
                         <label><input type="checkbox" name="childseat" value="V">Child Seat</label>
                 </div>
-                <div class="checkbox">
+<!--                <div class="checkbox">
                         <label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
-                </div>
+                </div>-->
                        <!--renter info stop -->
                       
 
@@ -587,20 +579,20 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
           </div>
         </section>
      
-<!--        <div class="arrow-down"></div>-->
+      
         <!-- Teaser end -->
 
 
 
         <!-- Services start -->
-        <section id="services" class="container">
+<!--        <section id="services" class="container">
           <div class="row">
             <div class="col-md-12 title">
               <h2>Customer Services</h2>
               <span class="underline">&nbsp;</span>
             </div>
 
-            <!-- Service Box start -->
+             Service Box start 
             <div class="col-md-6">
               <div class="service-box wow fadeInLeft" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -609,9 +601,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-            <!-- Service Box end -->
+             Service Box end 
 
-            <!-- Service Box start -->
+             Service Box start 
             <div class="col-md-6">
               <div class="service-box wow fadeInRight" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -620,9 +612,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-            <!-- Service Box end -->
+             Service Box end 
 
-            <!-- Service Box start -->
+             Service Box start 
             <div class="col-md-6">
               <div class="service-box wow fadeInLeft" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -631,9 +623,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-            <!-- Service Box end -->
+             Service Box end 
 
-            <!-- Service Box start -->
+             Service Box start 
             <div class="col-md-6">
               <div class="service-box wow fadeInRight" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -642,22 +634,22 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-            <!-- Service Box end -->
+             Service Box end 
 
           </div>
-        </section>
+        </section>-->
         <!-- Services end -->
 
 
 
          <!-- Vehicles start -->
-          <section id="vehicles" class="container">
+<!--          <section id="vehicles" class="container">
             <div class="row">
               <div class="col-md-12">
                 <h2 class="title wow fadeInDown" data-wow-offset="200">Vehicle Models - <span class="subtitle">Our rental fleet at a glance</span></h2>
               </div>
 
-              <!-- Vehicle nav start -->
+               Vehicle nav start 
               <div class="col-md-3 vehicle-nav-row wow fadeInUp" data-wow-offset="100">
                 <div id="vehicle-nav-container">
                   <ul class="vehicle-nav">
@@ -694,9 +686,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   </div>
 
               </div>
-              <!-- Vehicle nav end -->
+               Vehicle nav end 
 
-              <!-- Vehicle 1 data start -->
+               Vehicle 1 data start 
               <div class="vehicle-data" id="vehicle-1">
                 <div class="col-md-6 wow fadeIn" data-wow-offset="100">
                   <div class="vehicle-img">
@@ -738,9 +730,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 1 data end -->
+               Vehicle 1 data end 
 
-              <!-- Vehicle 2 data start -->
+               Vehicle 2 data start 
               <div class="vehicle-data" id="vehicle-2">
                 <div class="col-md-6" data-wow-offset="200">
                   <div class="vehicle-img">
@@ -782,9 +774,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 2 data end -->
+               Vehicle 2 data end 
 
-              <!-- Vehicle 3 data start -->
+               Vehicle 3 data start 
               <div class="vehicle-data" id="vehicle-3">
                 <div class="col-md-6" data-wow-offset="200">
                   <div class="vehicle-img">
@@ -826,9 +818,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 3 data end -->
+               Vehicle 3 data end 
 
-              <!-- Vehicle 4 data start -->
+               Vehicle 4 data start 
               <div class="vehicle-data" id="vehicle-4">
                 <div class="col-md-6" data-wow-offset="200">
                   <div class="vehicle-img">
@@ -870,9 +862,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 4 data end -->
+               Vehicle 4 data end 
 
-              <!-- Vehicle 5 data start -->
+               Vehicle 5 data start 
               <div class="vehicle-data" id="vehicle-5">
                 <div class="col-md-6" data-wow-offset="200">
                   <div class="vehicle-img">
@@ -914,9 +906,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 5 data end -->
+               Vehicle 5 data end 
 
-              <!-- Vehicle 6 data start -->
+               Vehicle 6 data start 
               <div class="vehicle-data" id="vehicle-6">
                 <div class="col-md-6" data-wow-offset="200">
                   <div class="vehicle-img">
@@ -958,9 +950,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                   <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                 </div>
               </div>
-              <!-- Vehicle 6 data end -->
+               Vehicle 6 data end 
 
-                <!-- Vehicle 7 data start -->
+                 Vehicle 7 data start 
                 <div class="vehicle-data" id="vehicle-7">
                     <div class="col-md-6" data-wow-offset="200">
                         <div class="vehicle-img">
@@ -1002,9 +994,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                     </div>
                 </div>
-                <!-- Vehicle 7 data end -->
+                 Vehicle 7 data end 
 
-                <!-- Vehicle 8 data start -->
+                 Vehicle 8 data start 
                 <div class="vehicle-data" id="vehicle-8">
                     <div class="col-md-6" data-wow-offset="200">
                         <div class="vehicle-img">
@@ -1046,9 +1038,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                     </div>
                 </div>
-                <!-- Vehicle 8 data end -->
+                 Vehicle 8 data end 
 
-                <!-- Vehicle 9 data start -->
+                 Vehicle 9 data start 
                 <div class="vehicle-data" id="vehicle-9">
                     <div class="col-md-6" data-wow-offset="200">
                         <div class="vehicle-img">
@@ -1090,9 +1082,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                     </div>
                 </div>
-                <!-- Vehicle 9 data end -->
+                 Vehicle 9 data end 
 
-                <!-- Vehicle 10 data start -->
+                 Vehicle 10 data start 
                 <div class="vehicle-data" id="vehicle-10">
                     <div class="col-md-6" data-wow-offset="200">
                         <div class="vehicle-img">
@@ -1134,9 +1126,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                     </div>
                 </div>
-                <!-- Vehicle 10 data end -->
+                 Vehicle 10 data end 
 
-                <!-- Vehicle 11 data start -->
+                 Vehicle 11 data start 
                 <div class="vehicle-data" id="vehicle-11">
                     <div class="col-md-6" data-wow-offset="200">
                         <div class="vehicle-img">
@@ -1178,10 +1170,10 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
                     </div>
                 </div>
-                <!-- Vehicle 11 data end -->
+                 Vehicle 11 data end 
 
             </div>
-          </section>
+          </section>-->
           <!-- Vehicles end -->
 
 
@@ -1190,30 +1182,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
 
 
-        <!-- Locations start -->
-        <!-- <section id="locations">
-          <div class="container location-select-container wow bounceInDown" data-wow-offset="200">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2">
-                <div class="location-select">
-                  <div class="row">
-                    <div class="col-md-6">
-                      <h2>Car Rental Locations</h2>
-                    </div>
-                    <div class="col-md-6">
-                      <div class="styled-select-location">
-                        <select id="location-map-select"></select>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="arrow-down-location">&nbsp;</div>
-          </div>
-          <div class="map wow bounceInUp" data-wow-offset="100"> --><!-- map by gmap3 --></div>
-        </section>
-        <!-- Locations end -->
+              
 
 
 
@@ -1226,7 +1195,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
 
         <!-- Contact start -->
-        <section id="contact" class="container wow bounceInUp" data-wow-offset="50">
+<!--        <section id="contact" class="container wow bounceInUp" data-wow-offset="50">
           <div class="row">
             <div class="col-md-12">
               <h2>Contact Us</h2>
@@ -1296,7 +1265,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
               </div>
 
             </div>
-          </section>
+          </section>-->
           <!-- Contact end -->
 
 
