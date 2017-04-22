@@ -290,14 +290,14 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       
                        
                     <!--renter info start --> 
-                    <div>
+                    
                     <div class="text pull-left">
                         <input type="text" name="First_name" required class="form-control" placeholder="First Name">  
                     </div>
                     <div class="text pull-right">
                         <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  
                     </div> 
-                        </div>
+                    <br>    
                     <div class="text pull-left">
                         <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
                     </div>
