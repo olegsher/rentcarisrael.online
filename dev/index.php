@@ -579,7 +579,8 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
               </div>
             Contact Us: 
 +44 7978204454(English, phone only) | +7-499-1123-995(Russian, phone only) | +972-58-771-0101(WhatsApp/Viber, chat only)
-            </div>
+        <div class="clearfix"></div>    
+        </div>
           </div>
         </section>
      
