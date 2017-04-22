@@ -300,7 +300,7 @@ $message .= "</body></html>";
 
                     <!-- Car select start -->
                     <div class="styled-select-car">
-                      <select name="car-select" id="car-select">
+                      <select name="car-select" id="car-select" required>
                         <option value="">Select your car type</option>
                                              						
                         <option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
@@ -336,7 +336,7 @@ $message .= "</body></html>";
                         <span class="glyphicon glyphicon-map-marker"></span> Pick-up
                     </span>
                     <div class="styled-select-car">
-                      <select name="pickup-location" id="pick-up-location">
+                      <select name="pickup-location" id="pick-up-location" required>
                           
                             <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                             <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
@@ -368,12 +368,12 @@ $message .= "</body></html>";
                       <div class="date pull-left">
                         <div class="input-group">
 <!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Pick-up</span>-->
-                          <input type="text" name="pickup-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
+                          <input required type="text" name="pickup-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
                       <div class="time pull-right">
                         <div class="styled-select-time">
-                          <select name="pickup-time" id="pickup-location-time">
+                          <select required name="pickup-time" id="pickup-location-time">
                             <option value="12:00 AM">12:00 AM</option>
                             <option value="12:30 AM">12:30 AM</option>
                             <option value="01:00 AM">01:00 AM</option>
@@ -434,7 +434,7 @@ $message .= "</body></html>";
                         <span class="glyphicon glyphicon-map-marker"></span> Drop-Off
                     </span>
                     <div class="styled-select-car">
-                      <select name="drop-off-location" id="dropoff-location">
+                      <select required name="dropoff-location" id="drop-off-location">
                           
                             <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                             <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
@@ -469,12 +469,12 @@ $message .= "</body></html>";
                       <div class="date pull-left">
                         <div class="input-group">
 <!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Drop-off</span>-->
-                          <input type="text" name="drop-off-date" id="dropoff-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
+                          <input type="text" required name="dropoff-date" id="drop-off-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
                       <div class="time pull-right">
                         <div class="styled-select-time">
-                          <select name="dropoff-time" id="drop-off-time">
+                          <select name="dropoff-time" id="drop-off-time" required>
                             <option value="12:00 AM">12:00 AM</option>
                             <option value="12:30 AM">12:30 AM</option>
                             <option value="01:00 AM">01:00 AM</option>
