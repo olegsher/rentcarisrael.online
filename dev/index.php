@@ -291,19 +291,18 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                        
                     <!--renter info start --> 
                     
-                    <div class="text pull-left">
+                    
                         <input type="text" name="First_name" required class="form-control" placeholder="First Name">  
-                    </div>
-                    <div class="text pull-right">
+                    
+                    
                         <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  
-                    </div> 
-                    <br>    
-                    <div class="text pull-left">
+                      
+                    
                         <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
-                    </div>
-                    <div class="text pull-right">
+                    
+                    
                         <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
-                    </div>
+                    
 <!--                        <input type="text" name="country" class="form-control" placeholder="country">  -->
                         <input type="text" name="message" class="form-control" placeholder="message">  
                         
@@ -321,7 +320,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         Reduce responsibility to Zero in case of: <br>
                         
                         <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle</label>
-                        <label><input type="checkbox" name="SuperTP" value="V">theft of the rental vehicle</label>
+                        <label><input type="checkbox" name="SuperTP" value="V">theft of the vehicle</label>
               </div>
                 <div class="checkbox">
                         <label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
