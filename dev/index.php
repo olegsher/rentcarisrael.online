@@ -658,7 +658,7 @@ $message .= "</body></html>";
         <h2 class="title wow fadeInDown" data-wow-offset="200">Vehicle Models - <span class="subtitle">Our rental fleet at a glance</span></h2>
       </div>
 
-       Vehicle nav start 
+<!--       Vehicle nav start -->
       <div class="col-md-3 vehicle-nav-row wow fadeInUp" data-wow-offset="100">
         <div id="vehicle-nav-container">
           <ul class="vehicle-nav">
@@ -695,9 +695,9 @@ $message .= "</body></html>";
           </div>
 
       </div>
-       Vehicle nav end 
+<!--       Vehicle nav end -->
 
-       Vehicle 1 data start 
+<!--       Vehicle 1 data start -->
       <div class="vehicle-data" id="vehicle-1">
         <div class="col-md-6 wow fadeIn" data-wow-offset="100">
           <div class="vehicle-img">
@@ -739,9 +739,9 @@ $message .= "</body></html>";
           <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
         </div>
       </div>
-       Vehicle 1 data end 
+<!--       Vehicle 1 data end -->
 
-       Vehicle 2 data start 
+<!--       Vehicle 2 data start -->
       <div class="vehicle-data" id="vehicle-2">
         <div class="col-md-6" data-wow-offset="200">
           <div class="vehicle-img">
@@ -783,9 +783,9 @@ $message .= "</body></html>";
           <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
         </div>
       </div>
-       Vehicle 2 data end 
+<!--       Vehicle 2 data end -->
 
-       Vehicle 3 data start 
+<!--       Vehicle 3 data start -->
       <div class="vehicle-data" id="vehicle-3">
         <div class="col-md-6" data-wow-offset="200">
           <div class="vehicle-img">
@@ -827,9 +827,9 @@ $message .= "</body></html>";
           <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
         </div>
       </div>
-       Vehicle 3 data end 
+<!--       Vehicle 3 data end -->
 
-       Vehicle 4 data start 
+<!--       Vehicle 4 data start -->
       <div class="vehicle-data" id="vehicle-4">
         <div class="col-md-6" data-wow-offset="200">
           <div class="vehicle-img">
@@ -871,9 +871,9 @@ $message .= "</body></html>";
           <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
         </div>
       </div>
-       Vehicle 4 data end 
+<!--       Vehicle 4 data end -->
 
-       Vehicle 5 data start 
+<!--       Vehicle 5 data start -->
       <div class="vehicle-data" id="vehicle-5">
         <div class="col-md-6" data-wow-offset="200">
           <div class="vehicle-img">
@@ -1179,7 +1179,7 @@ $message .= "</body></html>";
                 <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
             </div>
         </div>
-         Vehicle 11 data end 
+<!--         Vehicle 11 data end -->
 
     </div>
   </section>
