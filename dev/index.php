@@ -291,21 +291,182 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <div class="styled-select-car">
                       <select name="car-select" id="car-select">
                         <option value="">Select your car type</option>
-                        <option value="img/vehicle1.jpg">VW Golf VII</option>
-                        <option value="img/vehicle2.jpg">Audi A1 S-LINE</option>
-                        <option value="img/vehicle3.jpg">Toyota Camry</option>
-                        <option value="img/vehicle4.jpg">BMW 320 ModernLine</option>
-                        <option value="img/vehicle5.jpg">Mercedes-Benz GLK</option>
-                        <option value="img/vehicle6.jpg">VW Passat CC</option>
+                        <option value="img/vehicle1.jpg">VW Golf VII</option>                        						
+                        <option value="Category Q" >Fiat 500(two seats) or similar in category Q - from 24$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category B" >Kia Picanto(manual) or similar in category B - from 24$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category C" >Toyota Aygo(robotic) or similar in category C - from 25$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category D" >Hyundai i20(automatic) or similar in category D - from 26$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category E" >Ford Fiesta(automatic) or similar in category E - from 27$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category F" >Kia Forte(automatic) or similar in category F - from 30$ per day(renter’s responsibility - 475$)</option>							
+                        <option value="Category I" >Mazda 3(automatic) or similar in category I - from 32$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category H" >Honda Civic(automatic) or similar in category H - from 41$ per day(renter’s responsibility - 715$)</option>
+                        <option value="Category M" >Mazda 6(automatic) or similar in category M - from 47$ per day(renter’s responsibility - 715$)</option>
+                        <option value="Category MH" >Honda Accord Hybrid(automatic) or similar in category MH - from 57$ per day(renter’s responsibility - 715$)</option>
+                        <option value="Category T" >Fiat Doblo(manual, 5 seats) or similar in category T - from 60$ per day(renter’s responsibility - 475$)</option>
+                        <option value="Category J" >Hyundai Tucson(automatic, 5 seats) or similar in category J - from 63$ per day(renter’s responsibility - 715$)</option>
+                        <option value="Category U" >Mazda 5(automatic, 7 seats) or similar in category U - from 60$ per day(renter’s responsibility - 715$)</option>
+                        <option value="Category V" >Mitsubishi Outlander(automatic, 7 seats) or similar in category V - from 77$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category S" >Hyundai i800(manual, 8 seats) or similar in category S - from 104$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category V8" >Toyota Sienna(automatic, 8 seats) or similar in category V8 - from 120$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category Y" >Citroen Jumpy(manual, 9 seats)or similar in category Y - from 94$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category Z" >Hyundai i800(automatic, 9 seats) or similar in category Z - from 131$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category P" >Volvo S80(automatic) or similar in category P - from 116$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category K" >BMW 318i(automatic) or similar in category K - from 84$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category W" >BMW i535(automatic) or similar in category W - from 155$ per day(renter’s responsibility - 960$)</option>
+                        <option value="Category O" >Toyota Highlander(automatic) or similar in category O - from 174$ per day(renter’s responsibility - 960$)</option>
+						
                       </select>
                     </div>
                     <!-- Car select end -->
 
+                    
+                    
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-map-marker"></span> Pick-up
+                    </span>
+                    <div class="location">
+                      <select name="pick-up-location" id="pick-up-location">
+                          <option value="">Select Location/Branch</option>
+                            <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                            <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                            <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                            <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                            <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
+                            <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                            <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
+                            <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                            <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
+                            <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                            <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
+                            <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                            <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                            <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                            <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                            <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
+                            <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                            <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                            <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                            <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                            <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                            <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
+                                			
+                      </select>
+                    </div>
+                    
+                    
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-map-marker"></span> Drop-Off
+                    </span>
+                    <div class="location">
+                      <select name="drop-off-location" id="drop-off-location">
+                          <option value="">Select Location/Branch</option>
+                            <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                            <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                            <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                            <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                            <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
+                            <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                            <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
+                            <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                            <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
+                            <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                            <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
+                            <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                            <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                            <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                            <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                            <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
+                            <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                            <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                            <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                            <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                            <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                            <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
+                                			
+                      </select>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                     <!-- Pick-up location start -->
                     <div class="location">
                       <div class="input-group pick-up">
                         <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
-                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
+<!--                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">-->
+                        <select name="pick-up-location" id="pick-up-location">
+                        <option value="">pickup-location</option>
+                                        <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                                        <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                                        <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                                        <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                                        <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
+                                        <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                                        <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
+                                        <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                                        <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
+                                        <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                                        <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
+                                        <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                                        <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                                        <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                                        <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                                        <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
+                                        <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                                        <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                                        <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                                        <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                                        <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                                        <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
+                                </select>
                       </div>
                       <!-- Pick-up location end -->
 
@@ -1090,72 +1251,11 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
 
 
-        <!-- Information start -->
-<!--        <section id="information" class="container">-->
-
-<!--           Single photo start 
-          <div class="row wow fadeInLeft" data-wow-offset="100">-->
-            <!-- <div class="col-md-6 col-xs-12 pull-right">
-              <img src="img/info-img.jpg" alt="Info Img" class="img-responsive">
-            </div>
-            <div class="col-md-6 pull-left">
-              <h2 class="title">Quality Guaranteed</h2>
-              <h3 class="subtitle">Here is an example with one single photo displayed on the right.</h3>
-              <p>Here is some dummy text. <span class="my-tooltip" data-toggle="tooltip" title="" data-original-title="This is an demo tooltip!">Hover over me!</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, vero voluptas delectus explicabo maxime ad qui incidunt! Saepe.</p>
-               --><!-- <a href="http://themeforest.net/item/car-rental-landing-page/8245093?ref=themeinjection" class="btn">More information</a>
-              <a href="http://themeforest.net/item/car-rental-landing-page/8245093?ref=themeinjection" class="btn btn-gray">Buy this theme</a> -->
-<!--            </div>
-          </div>-->
-          <!-- Single photo end -->
-
-          <!-- Video start -->
-<!--          <div class="row wow fadeInRight" data-wow-offset="50">
-            <div class="col-md-6">-->
-               <!-- <div class="video"> -->
-                <!-- Youtube iframe start -->
-                <!-- <iframe width="420" height="315" src="//www.youtube.com/embed/9_5pjZlWV3A?rel=0&autoplay=0" allowfullscreen></iframe> -->
-                <!-- Youtube iframe end -->
-<!--               </div>  
-            </div>-->
-            <!-- <div class="col-md-6">
-              <h2 class="title">Watch our info tour</h2>
-              <h3 class="subtitle">You can also show youtube videos in this section!</h3>
-              <p>Here is some dummy text. Lorem ipsum dolor sit amet, <span class="label label-default">This is an labeled text snippet!</span>, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, vero voluptas delectus explicabo maxime ad qui incidunt! no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-            </div> -->
-<!--          </div>-->
-          <!-- Video end -->
-
-<!--        </section>-->
-        <!-- Information end -->
+        
 
 
 
-        <!-- Partners start -->
-        <!-- <section id="partners" class="wow fadeIn" data-wow-offset="50">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12 text-center">
-                <h2>Meet Our Partners</h2>
-                <span class="underline">&nbsp;</span>
-                <p>To contribute to positive change and achieve our sustainability goals, we partner with many extraordinary organizations around the world. Their expertise enables us to do far more than we could alone, and their passion and talent inspire us. It is our pleasure to introduce you to a handful of the organizations whose accomplishments and commitments are representative of all the organizations we are fortunate to call our partners.</p>
-              </div>
-              <div class="col-md-3 col-xs-6 text-center">
-                <img src="img/partner1.png" alt="Partner" class="img-responsive wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="200">
-              </div>
-              <div class="col-md-3 col-xs-6 text-center">
-                <img src="img/partner2.png" alt="Partner" class="img-responsive wow fadeInUp" data-wow-delay="1s" data-wow-offset="200">
-              </div>
-              <div class="col-md-3 col-xs-6 text-center">
-                <img src="img/partner3.png" alt="Partner" class="img-responsive wow fadeInUp" data-wow-delay="1.5s" data-wow-offset="200">
-              </div>
-              <div class="col-md-3 col-xs-6 text-center">
-                <img src="img/partner4.png" alt="Partner" class="img-responsive wow fadeInUp" data-wow-delay="2s" data-wow-offset="200">
-              </div>
-            </div>
-          </div>
-        </section> -->
-        <!-- Partners end -->
+       
 
 
 
