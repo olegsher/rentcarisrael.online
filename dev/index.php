@@ -151,17 +151,17 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
           <div class="col-md-7">
               <div class="pull-right">
                   <div class="header-info pull-right">
-                      <div class="contact pull-left">Russia (499) 1123-995 | Israel (972) 58-771-0101</div>
+                      <div class="contact pull-left">+44 7978204454(English, phone only)<br> +7-499-1123-995(Russian, phone only) <br>+972-58-771-0101(WhatsApp/Viber, chat only)</div>
                       
                       <!-- Language Switch start -->
                       <div class="language-switch pull-right">
                           <div class="dropdown">
-                               <a data-toggle="dropdown" href="#" id="language-switch-dropdown">Select your language </a> 
+   <!--                            <a data-toggle="dropdown" href="#" id="language-switch-dropdown">Select your language </a> 
                                <ul class="dropdown-menu" role="menu" aria-labelledby="language-switch-dropdown">
                                   <li><a href="#"><img src="img/flags/United-States.png" alt="usa"> English</a></li>
                                   <li><a href="#"><img src="img/flags/Germany.png" alt="germany"> German</a></li>
                                   <li><a href="#"><img src="img/flags/France.png" alt="france"> French</a></li>
-                              </ul> 
+                              </ul> -->
                           </div>
                       </div>
                       <!-- Language Switch end -->
@@ -187,19 +187,19 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <!-- Nav-Links start -->
                           <ul class="nav navbar-nav navbar-right">
-                              <li class="active"><a href="#top" class="scroll-to">Home</a></li>
+                              <!-- <li class="active"><a href="#top" class="scroll-to">Home</a></li>
                               <li><a href="#services" class="scroll-to">Services</a></li>
                               <li><a href="#vehicles" class="scroll-to">Vehicle Models</a></li>
-                              <!-- <li class="dropdown">
+                              <li class="dropdown">
                                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Blog <span class="caret"></span></a>
                                   <ul class="dropdown-menu" role="menu">
                                       <li><a href="blog-posts.php">Blog Posts</a></li>
                                       <li><a href="blog-single-post.php">Blog Single Post</a></li>
                                       <li><a href="error404.php">Error 404</a></li>
                                   </ul>
-                              </li> -->
-                              <!-- <li><a href="#locations" class="scroll-to">Locations</a></li> -->
-                              <li><a href="#contact" class="scroll-to">Contact</a></li>
+                              </li> 
+                              <!-- <li><a href="#locations" class="scroll-to">Locations</a></li> 
+                              <li><a href="#contact" class="scroll-to">Contact</a></li>-->
                           </ul>
                           <!-- Nav-Links end -->
                       </div>
@@ -289,41 +289,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       
                       
                        
-                    <!--renter info start --> 
                     
-                    
-                    <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
-<!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
-                    <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
-                      <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
-                      <input type="text" name="message" class="form-control" placeholder="message">  
-                        
-                        <div >Driver's age:                         
-                       <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
-                       <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
-                       <label class="radio-inline"><input type="radio" name="age" value="25+">25+</label>
-                       <label class="radio-inline"><input type="radio" name="age" value="28+">28+</label>
-                       </div>
-                        <div>Drivers License years: 
-                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
-                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
-                      </div>
-                        <div class="checkbox">
-                        Reduce responsibility to Zero in case of: <br>
-                        
-                        <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle | </label>
-                        <label><input type="checkbox" name="SuperTP" value="V">theft of the vehicle</label>
-              </div>
-                <div class="checkbox">
-                        <label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
-                </div>
-                <div class="checkbox">
-                        <label><input type="checkbox" name="childseat" value="V">Child Seat</label>
-                </div>
-<!--                <div class="checkbox">
-                        <label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
-                </div>-->
-                       <!--renter info stop -->
                       
 
                     <!-- Car select start -->
@@ -566,10 +532,47 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     </div>
                     <!-- Drop-off date/time end -->
                     
+                    <!--renter info start --> 
+                    <hr />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-user"></span> Renter info
+                    </span>
                     
-                    
+                    <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
+<!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
+                    <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
+                      <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
+                      <input type="text" name="message" class="form-control" placeholder="message">  
+                        
+                        <div >Driver's age:                         
+                       <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="25+">25+</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="28+">28+</label>
+                       </div>
+                        <div>Drivers License years: 
+                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
+                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
+                      </div>
+                        <div class="checkbox">
+                        Reduce responsibility to Zero in case of: <br>
+                        
+                        <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle | </label>
+                        <label><input type="checkbox" name="SuperTP" value="V">theft of the vehicle</label>
+              </div>
+                <div class="checkbox">
+                        <label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
+                </div>
+                <div class="checkbox">
+                        <label><input type="checkbox" name="childseat" value="V">Child Seat</label>
+                </div>
+<!--                <div class="checkbox">
+                        <label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
+                </div>-->
+                       <!--renter info stop -->
+                    <div class="clearfix"></div>
 
-                    <input type="submit" class="submit" name="submit" value="continue car reservation" id="checkoutModalLabel">
+                    <input type="submit" class="submit" name="submit" value="Book Car" id="checkoutModalLabel">
                   </form>
 
                 </div>
@@ -1269,11 +1272,11 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
           <!-- Contact end -->
 
 
-          <a href="#" class="scrollup">ScrollUp</a>
+<!--          <a href="#" class="scrollup">ScrollUp</a>-->
 
 
           <!-- Footer start -->
-          <footer>
+<!--          <footer>
             <div class="container">
               <div class="row">
                 <div class="col-md-12 text-center">
@@ -1281,8 +1284,8 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <li><a class="scroll-to" href="#top">Home</a></li>
                     <li><a class="scroll-to" href="#services">Service</a></li>
                     <li><a class="scroll-to" href="#vehicles">Vehicle Models</a></li>
-<!--                    <li><a class="scroll-to" href="#reviews">Reviews</a></li>-->
-<!--                    <li><a class="scroll-to" href="#locations">Locations</a></li>-->
+                    <li><a class="scroll-to" href="#reviews">Reviews</a></li>
+                    <li><a class="scroll-to" href="#locations">Locations</a></li>
                     <li><a class="scroll-to" href="#contact">Contact</a></li>
                   </ul>
                   <div class="clearfix"></div>
@@ -1290,36 +1293,36 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                 </div>
               </div>
             </div>
-          </footer>
+          </footer>-->
           <!-- Footer end -->
 
 
 
           <!-- Checkout Modal Start -->
-          <div class="modal fade" id="checkoutModal" tabindex="-1" role="dialog" aria-labelledby="checkoutModalLabel" aria-hidden="true" data-backdrop="static">
+<!--          <div class="modal fade" id="checkoutModal" tabindex="-1" role="dialog" aria-labelledby="checkoutModalLabel" aria-hidden="true" data-backdrop="static">
             <div class="modal-dialog">
               <div class="modal-content">
                 <form action="#" method="post" id="checkout-form" name="checkout-form">
                     <input type="hidden" name="action" value="send_inquiry_form"/>
 
-                  <!-- Modal header start -->
+                   Modal header start 
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                     <h4 class="modal-title" id="myModalLabel">Complete reservation</h4>
                   </div>
-                  <!-- Modal header end -->
+                   Modal header end 
 
-                  <!-- Modal body start -->
+                   Modal body start 
                   <div class="modal-body">
 
-                    <!-- Checkout Info start -->
+                     Checkout Info start 
                     <div class="checkout-info-box">
                       <h3><i class="fa fa-info-circle"></i> Upon completing this reservation enquiry, you will receive::</h3>
                       <p>Your rental voucher to produce on arrival at the rental desk and a toll-free customer support number.</p>
                     </div>
-                    <!-- Checkout Info end -->
+                     Checkout Info end 
 
-                    <!-- Checkout Rental Info start -->
+                     Checkout Rental Info start 
                     <div class="checkout-vehicle-info">
                       <div class="location-date-info">
                         <h3>Location & Date</h3>
@@ -1361,7 +1364,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <div class="clearfix"></div>
 
                     </div>
-                    <!-- Checkout Rental Info end -->
+                     Checkout Rental Info end 
 
                     <hr>
 
@@ -1371,9 +1374,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
 
                   
                 </div>
-                <!-- Modal body end -->
+                 Modal body end 
 
-                <!-- Modal footer start -->
+                 Modal footer start 
                 <div class="modal-footer">
                   <span class="btn-border btn-gray">
                     <button type="button" class="btn btn-default btn-gray" data-dismiss="modal">Cancel</button>
@@ -1382,12 +1385,12 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <button type="submit" class="btn btn-primary btn-yellow">Reserve now</button>
                   </span>
                 </div>
-                <!-- Modal footer end -->
+                 Modal footer end 
 
               </form>
             </div>
           </div>
-        </div>
+        </div>-->
         <!-- Checkout Modal end -->
 
 
