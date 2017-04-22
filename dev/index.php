@@ -218,7 +218,7 @@ $message .= "</body></html>";
 
 
 
-    <!-- Teaser start -->
+<!-- Teaser start -->
     <section id="teaser">
       <div class="container">
         <div class="row">
@@ -288,7 +288,7 @@ $message .= "</body></html>";
                   <!-- Slider Controls end -->
                 </div>
               </div>
-              <div class="col-md-5 col-xs-12 pull-left">
+      <div class="col-md-5 col-xs-12 pull-left">
                 <div class="reservation-form-shadow">
 
                   <form action="#" method="post" name="car-select-form" id="car-select-form">
@@ -296,12 +296,7 @@ $message .= "</body></html>";
                     <div class="alert alert-danger hidden" id="car-select-form-msg">
                       <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                       <strong>Note:</strong> All fields required!
-                    </div>
-                      
-                      
-                       
-                    
-                      
+                    </div> 
 
                     <!-- Car select start -->
                     <div class="styled-select-car">
@@ -586,26 +581,27 @@ $message .= "</body></html>";
                   </form>
 
                 </div>
-              </div>
+      </div>
                 
         </div>
           </div>
         </section>
-     
-      
-        <!-- Teaser end -->
 
+ <!-- Teaser end -->
+        
+        
+      
 
 
         <!-- Services start -->
-<!--        <section id="services" class="container">
+        <section id="services" class="container">
           <div class="row">
             <div class="col-md-12 title">
               <h2>Customer Services</h2>
               <span class="underline">&nbsp;</span>
             </div>
 
-             Service Box start 
+<!--             Service Box start -->
             <div class="col-md-6">
               <div class="service-box wow fadeInLeft" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -614,9 +610,9 @@ $message .= "</body></html>";
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-             Service Box end 
+<!--             Service Box end -->
 
-             Service Box start 
+<!--             Service Box start -->
             <div class="col-md-6">
               <div class="service-box wow fadeInRight" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -625,9 +621,9 @@ $message .= "</body></html>";
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-             Service Box end 
+<!--             Service Box end -->
 
-             Service Box start 
+<!--             Service Box start -->
             <div class="col-md-6">
               <div class="service-box wow fadeInLeft" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -636,9 +632,9 @@ $message .= "</body></html>";
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-             Service Box end 
+<!--             Service Box end -->
 
-             Service Box start 
+<!--             Service Box start -->
             <div class="col-md-6">
               <div class="service-box wow fadeInRight" data-wow-offset="100">
                 <div class="service-icon">+</div>
@@ -647,565 +643,1217 @@ $message .= "</body></html>";
                 <p class="service-content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed  nonumy eirmod tempor invidunt ut labore et dolore magnaed aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
               </div>
             </div>
-             Service Box end 
+<!--             Service Box end -->
 
           </div>
-        </section>-->
+        </section>
         <!-- Services end -->
 
 
 
-         <!-- Vehicles start -->
-<!--          <section id="vehicles" class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <h2 class="title wow fadeInDown" data-wow-offset="200">Vehicle Models - <span class="subtitle">Our rental fleet at a glance</span></h2>
-              </div>
+ <!-- Vehicles start -->
+  <section id="vehicles" class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="title wow fadeInDown" data-wow-offset="200">Vehicle Models - <span class="subtitle">Our rental fleet at a glance</span></h2>
+      </div>
 
-               Vehicle nav start 
-              <div class="col-md-3 vehicle-nav-row wow fadeInUp" data-wow-offset="100">
-                <div id="vehicle-nav-container">
-                  <ul class="vehicle-nav">
-                      <li class="active"><a href="#vehicle-1">VW Golf VII</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-2">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-3">Toyota Camry</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-4">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-5">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-6">VW Passat CC</a><span class="active">&nbsp;</span></li>
+       Vehicle nav start 
+      <div class="col-md-3 vehicle-nav-row wow fadeInUp" data-wow-offset="100">
+        <div id="vehicle-nav-container">
+          <ul class="vehicle-nav">
+              <li class="active"><a href="#vehicle-1">VW Golf VII</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-2">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-3">Toyota Camry</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-4">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-5">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-6">VW Passat CC</a><span class="active">&nbsp;</span></li>
 
-                      <li><a href="#vehicle-7">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-8">Toyota Camry</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-9">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-10">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-11">VW Passat CC</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-7">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-8">Toyota Camry</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-9">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-10">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-11">VW Passat CC</a><span class="active">&nbsp;</span></li>
 
-                      <li><a href="#vehicle-7">Audi A1 S-LINE 12</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-8">Toyota Camry 13</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-9">BMW 320 ModernLine 14</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-10">Mercedes-Benz GLK 15</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-11">VW Passat CC 16</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-7">Audi A1 S-LINE 12</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-8">Toyota Camry 13</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-9">BMW 320 ModernLine 14</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-10">Mercedes-Benz GLK 15</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-11">VW Passat CC 16</a><span class="active">&nbsp;</span></li>
 
-                      <li><a href="#vehicle-7">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-8">Toyota Camry</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-9">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-10">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
-                      <li><a href="#vehicle-11">VW Passat CC</a><span class="active">&nbsp;</span></li>
-                  </ul>
-                </div>
+              <li><a href="#vehicle-7">Audi A1 S-LINE</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-8">Toyota Camry</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-9">BMW 320 ModernLine</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-10">Mercedes-Benz GLK</a><span class="active">&nbsp;</span></li>
+              <li><a href="#vehicle-11">VW Passat CC</a><span class="active">&nbsp;</span></li>
+          </ul>
+        </div>
 
-                  <div class="vehicle-nav-control">
-                      <a class="vehicle-nav-scroll" data-direction="up" href="#"><i class="fa fa-chevron-up"></i></a>
-                      <a class="vehicle-nav-scroll" data-direction="down" href="#"><i class="fa fa-chevron-down"></i></a>
-                  </div>
+          <div class="vehicle-nav-control">
+              <a class="vehicle-nav-scroll" data-direction="up" href="#"><i class="fa fa-chevron-up"></i></a>
+              <a class="vehicle-nav-scroll" data-direction="down" href="#"><i class="fa fa-chevron-down"></i></a>
+          </div>
 
-              </div>
-               Vehicle nav end 
+      </div>
+       Vehicle nav end 
 
-               Vehicle 1 data start 
-              <div class="vehicle-data" id="vehicle-1">
-                <div class="col-md-6 wow fadeIn" data-wow-offset="100">
-                  <div class="vehicle-img">
-                    <img class="img-responsive" src="img/vehicle1.jpg" alt="Vehicle">
-                  </div>
-                </div>
-                <div class="col-md-3 wow fadeInUp" data-wow-offset="200">
-                  <div class="vehicle-price">$ 37.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 1 data end 
+       Vehicle 1 data start 
+      <div class="vehicle-data" id="vehicle-1">
+        <div class="col-md-6 wow fadeIn" data-wow-offset="100">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle1.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3 wow fadeInUp" data-wow-offset="200">
+          <div class="vehicle-price">$ 37.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+       Vehicle 1 data end 
 
-               Vehicle 2 data start 
-              <div class="vehicle-data" id="vehicle-2">
-                <div class="col-md-6" data-wow-offset="200">
-                  <div class="vehicle-img">
+       Vehicle 2 data start 
+      <div class="vehicle-data" id="vehicle-2">
+        <div class="col-md-6" data-wow-offset="200">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle2.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3" data-wow-offset="200">
+          <div class="vehicle-price">$ 70.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+       Vehicle 2 data end 
+
+       Vehicle 3 data start 
+      <div class="vehicle-data" id="vehicle-3">
+        <div class="col-md-6" data-wow-offset="200">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle3.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3" data-wow-offset="200">
+          <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+       Vehicle 3 data end 
+
+       Vehicle 4 data start 
+      <div class="vehicle-data" id="vehicle-4">
+        <div class="col-md-6" data-wow-offset="200">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle4.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3" data-wow-offset="200">
+          <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+       Vehicle 4 data end 
+
+       Vehicle 5 data start 
+      <div class="vehicle-data" id="vehicle-5">
+        <div class="col-md-6" data-wow-offset="200">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle5.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3" data-wow-offset="200">
+          <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+<!--               Vehicle 5 data end -->
+
+<!--               Vehicle 6 data start -->
+      <div class="vehicle-data" id="vehicle-6">
+        <div class="col-md-6" data-wow-offset="200">
+          <div class="vehicle-img">
+            <img class="img-responsive" src="img/vehicle6.jpg" alt="Vehicle">
+          </div>
+        </div>
+        <div class="col-md-3" data-wow-offset="200">
+          <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+          <table class="table vehicle-features">
+            <tr>
+              <td>Model</td>
+              <td>Limousine</td>
+            </tr>
+            <tr>
+              <td>Doors</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>Seats</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>Luggage</td>
+              <td>2 Suitcases / 2 Bags</td>
+            </tr>
+            <tr>
+              <td>Transmission</td>
+              <td>Automatic</td>
+            </tr>
+            <tr>
+              <td>Air conditioning</td>
+              <td>Yes</td>
+            </tr>
+            <tr>
+              <td>Minimum age</td>
+              <td>25 years</td>
+            </tr>
+          </table>
+          <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+        </div>
+      </div>
+<!--               Vehicle 6 data end -->
+
+<!--                 Vehicle 7 data start -->
+        <div class="vehicle-data" id="vehicle-7">
+            <div class="col-md-6" data-wow-offset="200">
+                <div class="vehicle-img">
                     <img class="img-responsive" src="img/vehicle2.jpg" alt="Vehicle">
-                  </div>
                 </div>
-                <div class="col-md-3" data-wow-offset="200">
-                  <div class="vehicle-price">$ 70.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 2 data end 
-
-               Vehicle 3 data start 
-              <div class="vehicle-data" id="vehicle-3">
-                <div class="col-md-6" data-wow-offset="200">
-                  <div class="vehicle-img">
-                    <img class="img-responsive" src="img/vehicle3.jpg" alt="Vehicle">
-                  </div>
-                </div>
-                <div class="col-md-3" data-wow-offset="200">
-                  <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 3 data end 
-
-               Vehicle 4 data start 
-              <div class="vehicle-data" id="vehicle-4">
-                <div class="col-md-6" data-wow-offset="200">
-                  <div class="vehicle-img">
-                    <img class="img-responsive" src="img/vehicle4.jpg" alt="Vehicle">
-                  </div>
-                </div>
-                <div class="col-md-3" data-wow-offset="200">
-                  <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 4 data end 
-
-               Vehicle 5 data start 
-              <div class="vehicle-data" id="vehicle-5">
-                <div class="col-md-6" data-wow-offset="200">
-                  <div class="vehicle-img">
-                    <img class="img-responsive" src="img/vehicle5.jpg" alt="Vehicle">
-                  </div>
-                </div>
-                <div class="col-md-3" data-wow-offset="200">
-                  <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 5 data end 
-
-               Vehicle 6 data start 
-              <div class="vehicle-data" id="vehicle-6">
-                <div class="col-md-6" data-wow-offset="200">
-                  <div class="vehicle-img">
-                    <img class="img-responsive" src="img/vehicle6.jpg" alt="Vehicle">
-                  </div>
-                </div>
-                <div class="col-md-3" data-wow-offset="200">
-                  <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                  <table class="table vehicle-features">
-                    <tr>
-                      <td>Model</td>
-                      <td>Limousine</td>
-                    </tr>
-                    <tr>
-                      <td>Doors</td>
-                      <td>4</td>
-                    </tr>
-                    <tr>
-                      <td>Seats</td>
-                      <td>5</td>
-                    </tr>
-                    <tr>
-                      <td>Luggage</td>
-                      <td>2 Suitcases / 2 Bags</td>
-                    </tr>
-                    <tr>
-                      <td>Transmission</td>
-                      <td>Automatic</td>
-                    </tr>
-                    <tr>
-                      <td>Air conditioning</td>
-                      <td>Yes</td>
-                    </tr>
-                    <tr>
-                      <td>Minimum age</td>
-                      <td>25 years</td>
-                    </tr>
-                  </table>
-                  <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                </div>
-              </div>
-               Vehicle 6 data end 
-
-                 Vehicle 7 data start 
-                <div class="vehicle-data" id="vehicle-7">
-                    <div class="col-md-6" data-wow-offset="200">
-                        <div class="vehicle-img">
-                            <img class="img-responsive" src="img/vehicle2.jpg" alt="Vehicle">
-                        </div>
-                    </div>
-                    <div class="col-md-3" data-wow-offset="200">
-                        <div class="vehicle-price">$ 70.40 <span class="info">rent per day</span></div>
-                        <table class="table vehicle-features">
-                            <tr>
-                                <td>Model</td>
-                                <td>Limousine</td>
-                            </tr>
-                            <tr>
-                                <td>Doors</td>
-                                <td>4</td>
-                            </tr>
-                            <tr>
-                                <td>Seats</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>Luggage</td>
-                                <td>2 Suitcases / 2 Bags</td>
-                            </tr>
-                            <tr>
-                                <td>Transmission</td>
-                                <td>Automatic</td>
-                            </tr>
-                            <tr>
-                                <td>Air conditioning</td>
-                                <td>Yes</td>
-                            </tr>
-                            <tr>
-                                <td>Minimum age</td>
-                                <td>25 years</td>
-                            </tr>
-                        </table>
-                        <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                    </div>
-                </div>
-                 Vehicle 7 data end 
-
-                 Vehicle 8 data start 
-                <div class="vehicle-data" id="vehicle-8">
-                    <div class="col-md-6" data-wow-offset="200">
-                        <div class="vehicle-img">
-                            <img class="img-responsive" src="img/vehicle3.jpg" alt="Vehicle">
-                        </div>
-                    </div>
-                    <div class="col-md-3" data-wow-offset="200">
-                        <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                        <table class="table vehicle-features">
-                            <tr>
-                                <td>Model</td>
-                                <td>Limousine</td>
-                            </tr>
-                            <tr>
-                                <td>Doors</td>
-                                <td>4</td>
-                            </tr>
-                            <tr>
-                                <td>Seats</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>Luggage</td>
-                                <td>2 Suitcases / 2 Bags</td>
-                            </tr>
-                            <tr>
-                                <td>Transmission</td>
-                                <td>Automatic</td>
-                            </tr>
-                            <tr>
-                                <td>Air conditioning</td>
-                                <td>Yes</td>
-                            </tr>
-                            <tr>
-                                <td>Minimum age</td>
-                                <td>25 years</td>
-                            </tr>
-                        </table>
-                        <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                    </div>
-                </div>
-                 Vehicle 8 data end 
-
-                 Vehicle 9 data start 
-                <div class="vehicle-data" id="vehicle-9">
-                    <div class="col-md-6" data-wow-offset="200">
-                        <div class="vehicle-img">
-                            <img class="img-responsive" src="img/vehicle4.jpg" alt="Vehicle">
-                        </div>
-                    </div>
-                    <div class="col-md-3" data-wow-offset="200">
-                        <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                        <table class="table vehicle-features">
-                            <tr>
-                                <td>Model</td>
-                                <td>Limousine</td>
-                            </tr>
-                            <tr>
-                                <td>Doors</td>
-                                <td>4</td>
-                            </tr>
-                            <tr>
-                                <td>Seats</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>Luggage</td>
-                                <td>2 Suitcases / 2 Bags</td>
-                            </tr>
-                            <tr>
-                                <td>Transmission</td>
-                                <td>Automatic</td>
-                            </tr>
-                            <tr>
-                                <td>Air conditioning</td>
-                                <td>Yes</td>
-                            </tr>
-                            <tr>
-                                <td>Minimum age</td>
-                                <td>25 years</td>
-                            </tr>
-                        </table>
-                        <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                    </div>
-                </div>
-                 Vehicle 9 data end 
-
-                 Vehicle 10 data start 
-                <div class="vehicle-data" id="vehicle-10">
-                    <div class="col-md-6" data-wow-offset="200">
-                        <div class="vehicle-img">
-                            <img class="img-responsive" src="img/vehicle5.jpg" alt="Vehicle">
-                        </div>
-                    </div>
-                    <div class="col-md-3" data-wow-offset="200">
-                        <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                        <table class="table vehicle-features">
-                            <tr>
-                                <td>Model</td>
-                                <td>Limousine</td>
-                            </tr>
-                            <tr>
-                                <td>Doors</td>
-                                <td>4</td>
-                            </tr>
-                            <tr>
-                                <td>Seats</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>Luggage</td>
-                                <td>2 Suitcases / 2 Bags</td>
-                            </tr>
-                            <tr>
-                                <td>Transmission</td>
-                                <td>Automatic</td>
-                            </tr>
-                            <tr>
-                                <td>Air conditioning</td>
-                                <td>Yes</td>
-                            </tr>
-                            <tr>
-                                <td>Minimum age</td>
-                                <td>25 years</td>
-                            </tr>
-                        </table>
-                        <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                    </div>
-                </div>
-                 Vehicle 10 data end 
-
-                 Vehicle 11 data start 
-                <div class="vehicle-data" id="vehicle-11">
-                    <div class="col-md-6" data-wow-offset="200">
-                        <div class="vehicle-img">
-                            <img class="img-responsive" src="img/vehicle6.jpg" alt="Vehicle">
-                        </div>
-                    </div>
-                    <div class="col-md-3" data-wow-offset="200">
-                        <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
-                        <table class="table vehicle-features">
-                            <tr>
-                                <td>Model</td>
-                                <td>Limousine</td>
-                            </tr>
-                            <tr>
-                                <td>Doors</td>
-                                <td>4</td>
-                            </tr>
-                            <tr>
-                                <td>Seats</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>Luggage</td>
-                                <td>2 Suitcases / 2 Bags</td>
-                            </tr>
-                            <tr>
-                                <td>Transmission</td>
-                                <td>Automatic</td>
-                            </tr>
-                            <tr>
-                                <td>Air conditioning</td>
-                                <td>Yes</td>
-                            </tr>
-                            <tr>
-                                <td>Minimum age</td>
-                                <td>25 years</td>
-                            </tr>
-                        </table>
-                        <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
-                    </div>
-                </div>
-                 Vehicle 11 data end 
-
             </div>
-          </section>-->
-          <!-- Vehicles end -->
+            <div class="col-md-3" data-wow-offset="200">
+                <div class="vehicle-price">$ 70.40 <span class="info">rent per day</span></div>
+                <table class="table vehicle-features">
+                    <tr>
+                        <td>Model</td>
+                        <td>Limousine</td>
+                    </tr>
+                    <tr>
+                        <td>Doors</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Seats</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Luggage</td>
+                        <td>2 Suitcases / 2 Bags</td>
+                    </tr>
+                    <tr>
+                        <td>Transmission</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>Air conditioning</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum age</td>
+                        <td>25 years</td>
+                    </tr>
+                </table>
+                <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+            </div>
+        </div>
+<!--                 Vehicle 7 data end -->
 
+<!--                 Vehicle 8 data start -->
+        <div class="vehicle-data" id="vehicle-8">
+            <div class="col-md-6" data-wow-offset="200">
+                <div class="vehicle-img">
+                    <img class="img-responsive" src="img/vehicle3.jpg" alt="Vehicle">
+                </div>
+            </div>
+            <div class="col-md-3" data-wow-offset="200">
+                <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+                <table class="table vehicle-features">
+                    <tr>
+                        <td>Model</td>
+                        <td>Limousine</td>
+                    </tr>
+                    <tr>
+                        <td>Doors</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Seats</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Luggage</td>
+                        <td>2 Suitcases / 2 Bags</td>
+                    </tr>
+                    <tr>
+                        <td>Transmission</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>Air conditioning</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum age</td>
+                        <td>25 years</td>
+                    </tr>
+                </table>
+                <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+            </div>
+        </div>
+<!--                 Vehicle 8 data end -->
 
+<!--                 Vehicle 9 data start -->
+        <div class="vehicle-data" id="vehicle-9">
+            <div class="col-md-6" data-wow-offset="200">
+                <div class="vehicle-img">
+                    <img class="img-responsive" src="img/vehicle4.jpg" alt="Vehicle">
+                </div>
+            </div>
+            <div class="col-md-3" data-wow-offset="200">
+                <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+                <table class="table vehicle-features">
+                    <tr>
+                        <td>Model</td>
+                        <td>Limousine</td>
+                    </tr>
+                    <tr>
+                        <td>Doors</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Seats</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Luggage</td>
+                        <td>2 Suitcases / 2 Bags</td>
+                    </tr>
+                    <tr>
+                        <td>Transmission</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>Air conditioning</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum age</td>
+                        <td>25 years</td>
+                    </tr>
+                </table>
+                <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+            </div>
+        </div>
+         <!-- Services start --> 
+
+<!--                 Vehicle 10 data start -->
+        <div class="vehicle-data" id="vehicle-10">
+            <div class="col-md-6" data-wow-offset="200">
+                <div class="vehicle-img">
+                    <img class="img-responsive" src="img/vehicle5.jpg" alt="Vehicle">
+                </div>
+            </div>
+            <div class="col-md-3" data-wow-offset="200">
+                <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+                <table class="table vehicle-features">
+                    <tr>
+                        <td>Model</td>
+                        <td>Limousine</td>
+                    </tr>
+                    <tr>
+                        <td>Doors</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Seats</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Luggage</td>
+                        <td>2 Suitcases / 2 Bags</td>
+                    </tr>
+                    <tr>
+                        <td>Transmission</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>Air conditioning</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum age</td>
+                        <td>25 years</td>
+                    </tr>
+                </table>
+                <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+            </div>
+        </div>
+<!--                 Vehicle 10 data end -->
+
+<!--                 Vehicle 11 data start -->
+        <div class="vehicle-data" id="vehicle-11">
+            <div class="col-md-6" data-wow-offset="200">
+                <div class="vehicle-img">
+                    <img class="img-responsive" src="img/vehicle6.jpg" alt="Vehicle">
+                </div>
+            </div>
+            <div class="col-md-3" data-wow-offset="200">
+                <div class="vehicle-price">$ 100.40 <span class="info">rent per day</span></div>
+                <table class="table vehicle-features">
+                    <tr>
+                        <td>Model</td>
+                        <td>Limousine</td>
+                    </tr>
+                    <tr>
+                        <td>Doors</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Seats</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Luggage</td>
+                        <td>2 Suitcases / 2 Bags</td>
+                    </tr>
+                    <tr>
+                        <td>Transmission</td>
+                        <td>Automatic</td>
+                    </tr>
+                    <tr>
+                        <td>Air conditioning</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum age</td>
+                        <td>25 years</td>
+                    </tr>
+                </table>
+                <a href="#teaser" class="reserve-button scroll-to"><span class="glyphicon glyphicon-calendar"></span> Reserve now</a>
+            </div>
+        </div>
+         Vehicle 11 data end 
+
+    </div>
+  </section>
+  <!-- Vehicles end -->
 
           
-
-
-
+          
+<!-- PriceList start --> 
+<section  class="container">
+            <div class="row">  
+                
+                <h2 class="title wow fadeInDown" data-wow-offset="200">Our price list $USA:</h2>
               
 
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
 
 
-        
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">low season</td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white">high season</td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white">1-6 days</td>
+<td class="bg-info text-white">7-29 days</td>
+<td class="bg-info text-white">30+ days</td>
+<td class="bg-danger text-white">1-6 days</td>
+<td class="bg-danger text-white">7-29 days</td>
+<td class="bg-danger text-white">30+ days</td>
+</tr>
+
+<tr>
+<td>U PWAR</td>
+<td><strong>Mazda 5, Nissan Kashkay</strong> or an equivalent vehicle in the same car category, 7 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>64</td>
+<td>60</td>
+<td>1220</td>
+<td>94</td>
+<td>90</td>
+<td>1520</td>
+</tr>
+<tr>
+<td>V MVAR</td>
+<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> or an equivalent vehicle in the same car category,  7 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>83</td>
+<td>77</td>
+<td>1550</td>
+<td>113</td>
+<td>107</td>
+<td>1850</td>
+</tr>
+<tr>
+<td>O MVAR</td>
+<td><strong>Toyota Highlander</strong> or an equivalent vehicle in the same car category, 7 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>211</td>
+<td>194</td>
+<td>4390</td>
+<td>241</td>
+<td>224</td>
+<td>4690</td>
+</tr>
+
+<tr>
+<td>S PVMR</td>
+<td><strong>Hyundai i800</strong> or an equivalent vehicle in the same car category, 8 seats (M)
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>111</td>
+<td>104</td>
+<td>1760</td>
+<td>141</td>
+<td>134</td>
+<td>2060</td>
+</tr>
+<tr>
+<td>V8 SVAR</td>
+<td><strong>Toyota Sienna LE, Kia Carnival</strong> or an equivalent vehicle in the same car category, 8 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>128</td>
+<td>120</td>
+<td>1870</td>
+<td>158</td>
+<td>150</td>
+<td>2170</td>
+</tr>
+
+
+<tr>
+<td>Y PVMR</td>
+<td><strong>Renault Traffic, Hyundai i800</strong> or an equivalent vehicle in the same car category, 9 seats (M)
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>100</td>
+<td>94</td>
+<td>1600</td>
+<td>130</td>
+<td>124</td>
+<td>1900</td>
+</tr>
+<tr>
+<td>Z PVAR</td>
+<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> or an equivalent vehicle in the same car category, 9 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>140</td>
+<td>161</td>
+<td>2120</td>
+<td>170</td>
+<td>191</td>
+<td>2420</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+
+<tr>
+<td>P XDAR</td>
+<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> or an equivalent vehicle in the same car category
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>124</td>
+<td>116</td>
+<td>2170</td>
+<td>154</td>
+<td>146</td>
+<td>2410</td>
+</tr>
+
+<tr>
+<td>K SXAR</td>
+<td><strong>BMW i318</strong> or an equivalent vehicle in the same car category
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>91</td>
+<td>84</td>
+<td>1590</td>
+<td>106</td>
+<td>99</td>
+<td>1770</td>
+</tr>
+<tr>
+<td>W WXAR</td>
+<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> or an equivalent vehicle in the same car category
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>167</td>
+<td>155</td>
+<td>2690</td>
+<td>197</td>
+<td>185</td>
+<td>2930</td>
+</tr>
+
+<tr>
+<td>O MVAR</td>
+<td><strong>Toyota Highlander</strong> or an equivalent vehicle in the same car category, 7 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>211</td>
+<td>194</td>
+<td>4390</td>
+<td>241</td>
+<td>224</td>
+<td>4690</td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
 
 
 
-       
 
 
+
+
+<tr>
+<td>B EBMR</td>
+<td>
+<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> or an equivalent vehicle in the same car category, 4 seats (M)
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>25</td>
+<td>24</td>
+<td>610</td>
+<td>37</td>
+<td>36</td>
+<td>790</td>
+
+</tr>
+
+<tr>
+<td>T CVMR</td>
+<td>
+<strong>FIAT DOBLO ACTIVE</strong> or an equivalent vehicle in the same car category, 5 seats (M)
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>64</td>
+<td>60 </td>
+<td>1050</td>
+<td>94</td>
+<td>90 </td>
+<td>1290 </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+<tr>
+<td>
+<p>Q MBAR</p>
+</td>
+<td>
+<strong>FIAT 500</strong> or an equivalent vehicle in the same car category,  4 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, 
+Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>25</td>
+<td>24</td>
+<td>610</td>
+<td>38</td>
+<td>37</td>
+<td>800</td>
+
+</tr>
+<tr>
+<td>
+<p>C ECAR</p>
+</td>
+<td><strong>Toyota Aygo</strong> or an equivalent vehicle in the same car category, 4 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td> 26</td>
+<td>25</td>
+<td>620</td>
+<td>38</td>
+<td>37</td>
+<td>800</td>
+
+</tr>
+<tr>
+<td>
+<p>D CCAR</p>
+</td>
+<td>
+<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> or an equivalent vehicle in the same car category,  4 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>27</td>
+<td>26</td>
+<td>630</td>
+<td>39</td>
+<td>38</td>
+<td>810</td>
+
+</tr>
+<tr>
+<td>
+<p>E CDAR</p>
+</td>
+<td>
+<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> or an equivalent vehicle in the same car category,  5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>28</td>
+<td>27</td>
+<td>645</td>
+<td>40</td>
+<td>39</td>
+<td>825</td>
+
+</tr>
+<tr>
+<td>F IDAR</td>
+<td>
+<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>32</td>
+<td>30</td>
+<td>750</td>
+<td>44</td>
+<td>42</td>
+<td>930</td>
+
+</tr>
+<tr>
+<td>I SDAR</td>
+<td>
+<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Beer Sheva, Bnei Brak, <br>
+Nes Tziona, Rehovot, Tiberias, Herzliya, Afula, Petach Tikva, <br>
+Beit Shemesh, Holon, Kiryat Shmone, Rishon LeTsiyon
+</td>
+<td>34</td>
+<td>32</td>
+<td>790</td>
+<td>46</td>
+<td>44</td>
+<td>970  </td>
+
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-info text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+<td class="bg-danger text-white"></td>
+</tr>
+
+<tr>
+<td>H FDAR</td>
+<td>
+<strong>HONDA CIVIC</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>40</td>
+<td>38</td>
+<td>960</td>
+<td>52</td>
+<td>50</td>
+<td>1140</td>
+
+</tr>
+
+<tr>
+<td>J IFAR</td>
+<td><strong>KIA SPORTAGE</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, 
+Eilat, Jerusalem, <br>
+Kfar Saba, 
+Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon</td>
+<td>67</td>
+<td>63</td>
+<td>1240</td>
+<td>97</td>
+<td>93</td>
+<td>1480</td>
+
+</tr>
+
+<tr>
+<td>
+<p>M PDAR</p>
+</td>
+<td>
+<strong>MAZDA 6</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>50</td>
+<td>47</td>
+<td>1050</td>
+<td>65</td>
+<td>62</td>
+<td>1230 </td>
+
+</tr>
+<tr>
+<td>
+<p>MH SXAH</p>
+</td>
+<td>
+<strong>HONDA ACCORD HYBRID</strong> or an equivalent vehicle in the same car category, 5 seats
+<hr /><strong>Available for rent in following branches in Israel:</strong> <br>
+Ben Gurion Int'l Airport, Tel Aviv, Eilat, Jerusalem, <br>
+Kfar Saba, Natanya, Ashdod, Bnei Brak, <br>
+Rehovot, Herzliya, Petach Tikva, <br>
+Holon, Rishon LeTsiyon
+</td>
+<td>61</td>
+<td>57</td>
+<td>1450</td>
+<td>76</td>
+<td>72</td>
+<td>1630</td>
+
+</tr>
+
+</tbody>
+</table> 
+    </div>
+</div>
+</section>
+<!-- PriceList end -->
+
+
+<!-- Branches start --> 
+<section  class="container">
+            <div class="row">  
+                
+                <h2 class="title wow fadeInDown" data-wow-offset="200">OUR RENTAL CAR BRANCHES IN ISRAEL:</h2>
+
+<div class="table-responsive">     
+<table class="table table-bordered">
+<tbody>
+<tr>
+<td>
+<p><strong>City</strong></p>
+</td>
+<td>
+<p><strong>Address</strong></p>
+</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Ashdod</strong> - local car rental branch in Israel</p>
+</td>
+<td>7 Haorgim Street, Ashdod</td>
+</tr>
+<tr>
+<td>
+<p><strong>Ben Gurion Int'l Airport</strong> - central car rental branch in Israel</p>
+</td>
+<td>Terminal 3</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Afula</strong> - local car rental branch in Israel</p>
+</td>
+<td>71 Menachem Begin Street, Afula</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Beer Sheva</strong> - local car rental branch in Israel</p>
+</td>
+<td>18 Itzhak Nafha Street, Beer Sheva</td>
+
+</tr>
+<tr>
+<td><strong>Bnei Brak</strong> - local car rental branch in Israel</td>
+<td>106 Kahanman Street, Bnei Brak</td>
+
+</tr>
+<tr>
+<td><strong>Bnei Brak</strong> - local car rental branch in Israel</td>
+<td>64 Mivtza Kadesh Street, Bnei Brak</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Herzliya</strong> - local car rental branch in Israel</p>
+</td>
+<td>8 Aba Even Street, Herzeliya</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Jerusalem</strong> - local car rental branch in Israel</p>
+</td><td>
+19 King David Street, Jerusalem
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Kiryat Shmone</strong> - local car rental branch in Israel</p>
+</td>
+<td>1 Hayarden Street, Kiryat Shmone</td>
+</tr>
+<tr>
+<td>
+<p><strong>Netania</strong> - local car rental branch in Israel</p>
+</td>
+<td>1 Ussishkin Street, Natanya</td>
+</tr>
+<tr>
+<td>
+<p><strong>Beit Shemesh</strong> - local car rental branch in Israel</p>
+</td>
+<td>10 Nahal Zohar Street, Beit Shemesh</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Petach Tikva</strong> - local car rental branch in Israel</p>
+</td>
+<td>82 Jabotinski Street, Petach Tikva</td>
+</tr>
+<tr>
+<td>
+<p><strong>Nes Tziona</strong> - local car rental branch in Israel</p>
+</td>
+<td>10 Hapatish Street, Nes Tziona</td>
+</tr>
+<tr>
+<td>
+<p><strong>Rishon LeTsiyon</strong> - local car rental branch in Israel</p>
+</td>
+<td>14 David Saharov Street, Rishon LeTsiyon</td>
+</tr>
+
+<tr>
+<td>
+<p><strong>Rehovot</strong> - local car rental branch in Israel</p>
+</td>
+<td>96 Herzl Street, Rehovot</td>
+</tr>
+<tr>
+<td><strong>Holon</strong> - local car rental branch in Israel</td>
+<td>73 Hamerkava Street, Holon</td>
+</tr>
+<tr>
+<td>
+<p><strong>Tel Aviv</strong> - central car rental branch in Israel</p>
+</td>
+<td>80 Hayarkon Street, Tel Aviv</td>
+
+</tr>
+<tr>
+<td><strong>Tel Aviv</strong> - central car rental branch in Israel</td>
+<td>9 Hamasger Street, Tel Aviv</td>
+</tr>
+<tr>
+<td>
+<p><strong>Tiberias</strong> - local car rental branch in Israel</p>
+</td>
+<td>71 Hayarden Street, Tiberias</td>
+</tr>
+<tr>
+<td>
+<p><strong>Kfar Saba</strong> - local car rental branch in Israel</p>
+</td>
+<td>17 Ha'Taas Street, Kfar Saba</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Haifa</strong> - local car rental branch in Israel</p>
+</td>
+<td>88 Hahistadrut Street, Haifa</td>
+
+</tr>
+<tr>
+<td>
+<p><strong>Eilat</strong> - local car rental branch in Israel</p>
+</td>
+<td>3 Sheshet Hayamim Street, Eilat</td>
+
+</tr>
+</tbody>
+</table>
+</div>
+                </div>
+    </section>
+<!-- Branches end --> 
+
+          
+          
 
         <!-- Contact start -->
 <!--        <section id="contact" class="container wow bounceInUp" data-wow-offset="50">
@@ -1305,7 +1953,6 @@ $message .= "</body></html>";
             </div>
           </footer>-->
           <!-- Footer end -->
-
 
 
           <!-- Checkout Modal Start -->
