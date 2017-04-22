@@ -143,7 +143,14 @@ $message .= "</body></html>";
           <div class="col-md-5">
               <!-- Logo start -->
               <div class="brand">
-                  <h1><a class="scroll-to" href="#top"><img class="img-responsive" src="img/logo-red.gif" alt="Car|Rental"></a></h1>
+                  <h1>
+<!--                      <a class="scroll-to" href="#top"><img class="img-responsive" src=".img/logo-red.gif" alt="Car|Rental"></a>-->
+                      Car Rental Israel
+                  </h1>
+                  by Vastama Ltd 
+                    <br>+44 7978204454(English, phone only)
+                    <br>+7-499-1123-995(Russian, phone only) 
+                    <br>+972-58-771-0101(WhatsApp/Viber, chat only)
               </div>
               <!-- Logo end -->
           </div>
@@ -264,6 +271,7 @@ $message .= "</body></html>";
                         <img src="img/mercedes.jpg" class="img-responsive" alt="car1">
                       </div>
                     </div>
+                  
                   Contact Us: 
 <br>+44 7978204454(English, phone only)
 <br>+7-499-1123-995(Russian, phone only)
