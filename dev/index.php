@@ -286,6 +286,50 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                       <strong>Note:</strong> All fields required!
                     </div>
+                      
+                      
+                       
+                    <!--renter info start -->  
+                    <div class="text pull-left">
+                        <input type="text" name="First_name" required class="form-control" placeholder="First Name">  
+                    </div>
+                    <div class="text pull-right">
+                        <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  
+                    </div> 
+                    <div class="text pull-left">
+                        <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
+                    </div>
+                    <div class="text pull-right">
+                        <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
+                    </div>
+<!--                        <input type="text" name="country" class="form-control" placeholder="country">  -->
+                        <input type="text" name="message" class="form-control" placeholder="message">  
+                        
+                        <div >Driver's age:                         
+                       <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="23+">23+</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="25+">25+</label>
+                       <label class="radio-inline"><input type="radio" name="age" value="28+">28+</label>
+                       </div>
+                        <div>Drivers License years: 
+                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="1-2">1-2</label>
+                       <label class="radio-inline"><input type="radio" name="DriverExperience" value="3+">3+</label>							  
+                      </div>
+                        Reduce responsibility to Zero in case of: <br>
+                        <label><input type="checkbox" name="SuperCDW" value="V">damage to the vehicle</label>
+                        <label><input type="checkbox" name="SuperTP" value="V">theft of the rental vehicle</label>
+              
+                <div class="checkbox">
+                        <label><input type="checkbox" name="addDriver" value="V">Additional Driver</label>
+                </div>
+                <div class="checkbox">
+                        <label><input type="checkbox" name="childseat" value="V">Child Seat</label>
+                </div>
+                <div class="checkbox">
+                        <label><input type="checkbox" name="tour" value="V">interesting in private tour</label>
+                </div>
+                       <!--renter info stop -->
+                      
 
                     <!-- Car select start -->
                     <div class="styled-select-car">
@@ -324,9 +368,9 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                     <span class="input-group-addon">
                         <span class="glyphicon glyphicon-map-marker"></span> Pick-up
                     </span>
-                    <div class="location">
+                    <div class="styled-select-car">
                       <select name="pick-up-location" id="pick-up-location">
-                          <option value="">Select Location/Branch</option>
+                          
                             <option value="Ben Gurion Airport">Ben Gurion Airport</option>
                             <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
                             <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
@@ -352,139 +396,11 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                                 			
                       </select>
                     </div>
-                    
-                    
-                    <span class="input-group-addon">
-                        <span class="glyphicon glyphicon-map-marker"></span> Drop-Off
-                    </span>
-                    <div class="location">
-                      <select name="drop-off-location" id="drop-off-location">
-                          <option value="">Select Location/Branch</option>
-                            <option value="Ben Gurion Airport">Ben Gurion Airport</option>
-                            <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
-                            <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
-                            <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
-                            <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
-                            <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
-                            <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
-                            <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
-                            <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
-                            <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
-                            <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
-                            <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
-                            <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
-                            <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
-                            <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
-                            <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
-                            <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
-                            <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
-                            <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
-                            <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
-                            <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
-                            <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
-                                			
-                      </select>
-                    </div>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <!-- Pick-up location start -->
-                    <div class="location">
-                      <div class="input-group pick-up">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Pick-up</span>
-<!--                        <input type="text" name="pick-up-location" id="pick-up-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">-->
-                        <select name="pick-up-location" id="pick-up-location">
-                        <option value="">pickup-location</option>
-                                        <option value="Ben Gurion Airport">Ben Gurion Airport</option>
-                                        <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
-                                        <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
-                                        <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
-                                        <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
-                                        <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
-                                        <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
-                                        <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
-                                        <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
-                                        <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
-                                        <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
-                                        <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
-                                        <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
-                                        <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
-                                        <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
-                                        <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
-                                        <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
-                                        <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
-                                        <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
-                                        <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
-                                        <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
-                                        <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
-                                </select>
-                      </div>
-                      <!-- Pick-up location end -->
-
-                      <a class="different-drop-off" href="#">Need a different drop-off location?</a>
-
-                      <!-- Drop-off location start -->
-                      <div class="input-group drop-off">
-                        <span class="input-group-addon"><span class="glyphicon glyphicon-map-marker"></span> Drop-off</span>
-                        <input type="text" name="drop-off-location" id="drop-off-location" class="form-control autocomplete-location" placeholder="Enter a City or Airport">
-                      </div>
-                    </div>
-                    <!-- Drop-off location end -->
-
                     <!-- Pick-up date/time start -->
                     <div class="datetime pick-up">
                       <div class="date pull-left">
                         <div class="input-group">
-                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Pick-up</span>
+<!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Pick-up</span>-->
                           <input type="text" name="pick-up-date" id="pick-up-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
@@ -545,12 +461,47 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                       <div class="clearfix"></div>
                     </div>
                     <!-- Pick-up date/time end -->
+                    
+                    <hr />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-map-marker"></span> Drop-Off
+                    </span>
+                    <div class="styled-select-car">
+                      <select name="drop-off-location" id="drop-off-location">
+                          
+                            <option value="Ben Gurion Airport">Ben Gurion Airport</option>
+                            <option value="80 Hayarkon Street, Tel Aviv">80 Hayarkon Street, Tel Aviv</option>
+                            <option value="9 Hamasger Street, Tel Aviv">9 Hamasger Street, Tel Aviv</option>
+                            <option value="19 King David Street, Jerusalem">19 King David Street, Jerusalem</option>
+                            <option value="88 Hahistadrut Street, Haifa">88 Hahistadrut Street, Haifa</option>
+                            <option value="1 Ussishkin Street, Natanya">1 Ussishkin Street, Natanya</option>
+                            <option value="71 Hayarden Street, Tiberias">71 Hayarden Street, Tiberias</option>
+                            <option value="3 Sheshet Hayamim Street, Eilat">3 Sheshet Hayamim Street, Eilat</option>								
+                            <option value="71 Menachem Begin Street, Afula">71 Menachem Begin Street, Afula</option>
+                            <option value="7 Haorgim Street, Ashdod">7 Haorgim Street, Ashdod</option>
+                            <option value="18 Itzhak Nafha Street, Beer Sheva">18 Itzhak Nafha Street, Beer Sheva</option>
+                            <option value="10 Nahal Zohar Street, Beit Shemesh">10 Nahal Zohar Street, Beit Shemesh</option>
+                            <option value="106 Kahanman Street, Bnei Brak">106 Kahanman Street, Bnei Brak</option>
+                            <option value="64 Mivtza Kadesh Street, Bnei Brak">64 Mivtza Kadesh Street, Bnei Brak</option>
+                            <option value="8 Aba Even Street, Herzeliya">8 Aba Even Street, Herzeliya</option>
+                            <option value="73 Hamerkava Street, Holon">73 Hamerkava Street, Holon</option>
+                            <option value="17 Ha'Taas Street, Kfar Saba">17 Ha'Taas Street, Kfar Saba</option>								
+                            <option value="1 Hayarden Street, Kiryat Shmone">1 Hayarden Street, Kiryat Shmone</option>
+                            <option value="10 Hapatish Street, Nes Tziona">10 Hapatish Street, Nes Tziona</option>
+                            <option value="82 Jabotinski Street, Petach Tikva">82 Jabotinski Street, Petach Tikva</option>
+                            <option value="96 Herzl Street, Rehovot">96 Herzl Street, Rehovot</option>
+                            <option value="14 David Saharov Street, Rishon LeTsiyon">14 David Saharov Street, Rishon LeTsiyon</option>
+                                			
+                      </select>
+                    </div>
+                    
+                      
 
                     <!-- Drop-off date/time start -->
                     <div class="datetime drop-off">
                       <div class="date pull-left">
                         <div class="input-group">
-                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Drop-off</span>
+<!--                          <span class="input-group-addon pixelfix"><span class="glyphicon glyphicon-calendar"></span> Drop-off</span>-->
                           <input type="text" name="drop-off-date" id="drop-off-date" class="form-control datepicker" placeholder="mm/dd/yyyy">
                         </div>
                       </div>
@@ -608,9 +559,20 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                           </select>
                         </div>
                       </div>
+                        
+                        
+                     
+                        
+                        
+                        
+                        
+                        
                       <div class="clearfix"></div>
                     </div>
                     <!-- Drop-off date/time end -->
+                    
+                    
+                    
 
                     <input type="submit" class="submit" name="submit" value="continue car reservation" id="checkoutModalLabel">
                   </form>
@@ -621,6 +583,7 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
             </div>
           </div>
         </section>
+     
 <!--        <div class="arrow-down"></div>-->
         <!-- Teaser end -->
 
