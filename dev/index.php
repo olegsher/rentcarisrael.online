@@ -264,12 +264,13 @@ header('Location: http://www.rentcarisrael.online/thankyou.php');
                         <img src="img/mercedes.jpg" class="img-responsive" alt="car1">
                       </div>
                     </div>
-                  </div>
-              Contact Us: 
+                  Contact Us: 
 <br>+44 7978204454(English, phone only)
 <br>+7-499-1123-995(Russian, phone only)
 <br>+972-58-771-0101(WhatsApp/Viber, chat only)
-        <div class="clearfix"></div>
+                  </div>
+              
+        
                   <!-- Wrapper for slides end -->
 
                   <!-- Slider Controls start -->
