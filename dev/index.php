@@ -594,7 +594,7 @@ $message .= "</body></html>";
 
 
 <?php include("_services.html"); ?>
-<?php include("vehicles.html"); ?> 
+<?php include("_vehicles.html"); ?> 
 <?php include("pricelist.html"); ?>
 <?php include("branches.html"); ?>
 
