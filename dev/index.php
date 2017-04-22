@@ -161,12 +161,11 @@ $message .= "</body></html>";
                       <!-- Language Switch start -->
                       <div class="language-switch pull-right">
                           <div class="dropdown">
-   <!--                            <a data-toggle="dropdown" href="#" id="language-switch-dropdown">Select your language </a> 
+                              <a data-toggle="dropdown" href="#" id="language-switch-dropdown">Select your language </a> 
                                <ul class="dropdown-menu" role="menu" aria-labelledby="language-switch-dropdown">
-                                  <li><a href="#"><img src="img/flags/United-States.png" alt="usa"> English</a></li>
-                                  <li><a href="#"><img src="img/flags/Germany.png" alt="germany"> German</a></li>
-                                  <li><a href="#"><img src="img/flags/France.png" alt="france"> French</a></li>
-                              </ul> -->
+                                  <li><a href="http://www.rentcarisrael.online/ru/">Russian</a></li>
+                                  
+                              </ul> 
                           </div>
                       </div>
                       <!-- Language Switch end -->
