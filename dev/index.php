@@ -243,6 +243,27 @@ $message .= "</body></html>";
                       </div>
                     </div>
                     <div class="item">
+                    <h1 class="title">Miles without limit
+                      <span class="subtitle">for rent 3-29 days</span></h1>
+                      <div class="car-img">                         
+                        <img src="img/no_limit_km.png" class="img-responsive" alt="car1">
+                      </div>
+                    </div>
+                    <div class="item">
+                    <h1 class="title">Special prices for long term rent
+                      <span class="subtitle">for rent 30+ days</span></h1>
+                      <div class="car-img">                         
+                        <img src="img/long_time.png" class="img-responsive" alt="car1">
+                      </div>
+                    </div>
+                    <div class="item">
+                    <h1 class="title">Special prices for שומרי שבת
+                      <span class="subtitle">just ask for religios prices</span></h1>
+                      <div class="car-img">                         
+                        <img src="img/religios.png" class="img-responsive" alt="car1">
+                      </div>
+                    </div>
+                    <div class="item">
                     <h1 class="title">Get 15% off your rental
                       <span class="subtitle">Plan your trip now</span></h1>
                       <div class="car-img">
