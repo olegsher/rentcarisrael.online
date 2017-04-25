@@ -131,7 +131,7 @@ $message .= "</body></html>";
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="img/ico/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="img/ico/favicon.png">
+    <link rel="shortcut icon" href="favicon.ico">
 
   </head>
   <body id="top" data-spy="scroll" data-target=".navbar" data-offset="260">
@@ -178,15 +178,16 @@ $message .= "</body></html>";
               <nav class="navbar navbar-default" role="navigation">
                   <div class="container-fluid">
                       <!-- Toggle get grouped for better mobile display -->
-                      <div class="navbar-header">
+                      <!-- <div class="navbar-header">
                           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                               <span class="sr-only">Toggle navigation</span>
                               <span class="icon-bar"></span>
                               <span class="icon-bar"></span>
                               <span class="icon-bar"></span>
                           </button>
-                          <a class="navbar-brand scroll-to" href="#top"><img class="img-responsive"  src="img/logo-red.gif" alt="Car|Rental"></a>
-                      </div>
+                          <a class="navbar-brand scroll-to" href="#top"><img class="img-responsive"  src="img/logo-red.gif" alt="Car|Rental"></a> 
+                          
+                      </div> -->
                       <!-- Collect the nav links, for toggling -->
                       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <!-- Nav-Links start -->
