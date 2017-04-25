@@ -156,7 +156,7 @@ $message .= "</body></html>";
           <div class="col-md-7">
               <div class="pull-right">
                   <div class="header-info pull-right">
-                      <div class="contact pull-left">+44 7978204454(English, phone only)<br> +7-499-1123-995(Russian, phone only) <br>+972-58-771-0101(WhatsApp/Viber, chat only)</div>
+                      <div class="contact pull-left">+44 7978204454(English,Hebrew,Russian phone only)<br> +7-499-1123-995(Russian, phone only) <br>+972-58-771-0101(WhatsApp/Viber, chat only)</div>
                       
                       <!-- Language Switch start -->
                       <div class="language-switch pull-right">
@@ -231,7 +231,7 @@ $message .= "</body></html>";
                   <h1 class="title">Luxury car from from $2228 day
                     <span class="subtitle">Treat yourself in USA</span></h1>
                     <div class="car-img">
-                      <img src="img/mazda3.png" class="img-responsive" alt="car1">
+                      <img src="img/catZ.jpg" class="img-responsive" alt="car1">
                     </div>
                   </div>
                   <div class="item">
@@ -292,10 +292,9 @@ $message .= "</body></html>";
                       </div>
                     </div>
                   
-                  Contact Us: 
-<br>+44 7978204454(English, phone only)
-<br>+7-499-1123-995(Russian, phone only)
-<br>+972-58-771-0101(WhatsApp/Viber, chat only)
+                  Call us for additional information by phones: 
+<br>+44 7978204454(English, Hebrew, Russian phone only) or +7-499-1123-995(Russian, phone only) or leave a message
++972-58-771-0101(WhatsApp/Viber, chat only)
                   </div>
               
         
