@@ -137,6 +137,7 @@ $message .= "</body></html>";
   <body id="top" data-spy="scroll" data-target=".navbar" data-offset="260">
     <?php include("header.html"); ?>
     <?php include("teaser.html"); ?>
+      
     <?php include("_services.html"); ?>
     <?php include("_vehicles.html"); ?> 
     <?php include("pricelist.html"); ?>
