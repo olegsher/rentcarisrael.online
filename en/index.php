@@ -93,7 +93,7 @@ $message .= "</body></html>";
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
-<meta  name="description"  content="" />
+<meta  name="description"  content="car rental israel" />
 <meta property="fb:app_id" content="1322511981092474" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en" />
@@ -102,7 +102,7 @@ $message .= "</body></html>";
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="640" />
 <meta property="og:image:height" content="320" />
-<meta property="og:title" content="" />
+<meta property="og:title" content="car rental israel" />
 <meta property="og:description" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
   <title>Car Rental Israel by Vastama Ltd</title>
 
@@ -143,6 +143,22 @@ $message .= "</body></html>";
 
   </head>
   <body id="top" data-spy="scroll" data-target=".navbar" data-offset="260">
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "TravelAgency", 
+"name":"Vastama Ltd",
+"url":"http://www.rentcarisrael.online",
+"email":"admin@vastama.com",
+"telephone":"972587710101",
+"openingHours": [ 
+"Su-Sa 09:00-18:00"], 
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue":"5",
+"reviewCount":"5"},
+"priceRange":"2",
+"paymentAccepted":"Visa, Master Card, Amex"
+} </script>
     <?php include("header.html"); ?>
     <?php include("teaser.html"); ?>
       
