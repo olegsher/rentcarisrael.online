@@ -92,6 +92,18 @@ $message .= "</body></html>";
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel" />
+<meta  name="description"  content="" />
+<meta property="fb:app_id" content="1322511981092474" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en" />
+<meta property="og:url" content="http://www.rentcarisrael.online/en" />
+<meta property="og:image" content="http://www.rentcarisrael.online/images/thankyoucar.png"/>
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="320" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="car rental israel,car hire israel,cheap car rental israel,car rental israel cheap,hire car israel,car hire israel compare,luxury car rental israel"/>
   <title>Car Rental Israel by Vastama Ltd</title>
 
 
@@ -126,11 +138,7 @@ $message .= "</body></html>";
     <![endif]-->
 
 
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../img/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../img/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../img/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../img/ico/apple-touch-icon-57-precomposed.png">
+    
     <link rel="shortcut icon" href="favicon.ico">
 
   </head>
