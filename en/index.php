@@ -158,6 +158,7 @@ $message .= "</body></html>";
 <!--                    <li><a class="scroll-to" href="#vehicles">Vehicle Models</a></li>-->
                     <li><a class="scroll-to" href="#pricelist">Our Pricelist</a></li>
                     <li><a class="scroll-to" href="#locations">Locations</a></li>
+                    <li><a href="#rentalconditions" class="scroll-to">Rental Conditions</a></li>
 <!--                    <li><a class="scroll-to" href="#contact">Contact</a></li>-->
                   </ul>
                   <div class="clearfix"></div>
