@@ -119,7 +119,7 @@ $message .= "</body></html>";
   <link rel="stylesheet" href="css/font-awesome.min.css">
 
   <!-- Plugin Styles -->
-  <link href="css/datepicker.css" rel="stylesheet">
+  <link href="../css/datepicker.css" rel="stylesheet">
 
 
   <!-- Main Styles -->
