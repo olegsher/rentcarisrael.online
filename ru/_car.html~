@@ -10,7 +10,7 @@
       <h3>Аренда микроавтобуса минивэна в Израиле</h3>
       <br>
           Минимальный возраст водителя для аренды минивэна в Израиле составляет 25 лет + водительский стаж минимум 2 года, 
-          <a  href="http://www.rentcarisrael.online/terms.php" > ознакомиться с условиями аренды</a>
+          <a  href="http://www.rentcarisrael.online/ru/terms.php" > ознакомиться с условиями аренды</a>
           <hr />Если вы незнакомы с дорогами Израиля и спецификой вождения в нашей стране то мы рекомендуем вам также приобрести
           полису по отмене личного участия <a  href="http://www.rentcarisrael.online/ru/insurance.php" >в случае повреждения машины</a>
           или <a  href="http://www.rentcarisrael.online/ru/insurance.php" >угона</a>.
@@ -65,7 +65,7 @@
       <div  class="clearfix"></div>
       <hr />
       <div  class="col-md-7 bann-info wow fadeInRight animated"  data-wow-delay=".5s">
-        <img  src="images/catV.jpg"  alt="машина прокат, машина прокат Израиле, аренда минивэны Израиль"
+        <img  src="../images/catV.jpg"  alt="машина прокат, машина прокат Израиле, аренда минивэны Израиль"
 
            class="img-responsive"> <br>
         <h2>Минивэн 7 мест</h2>
@@ -89,7 +89,7 @@
       <div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/creditcards.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
 				<h3>Принимаем основные кредитные карты</h3>
@@ -100,7 +100,7 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/car.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			
 			</div>
 			<div class="rup-rgt">
@@ -112,11 +112,11 @@
 		</div>
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<div class="rup-left">
-				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
+				<img src="../images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="tours.php">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="tours.php">от лицензированного гида</a></h4>
+				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
+				<h4><a href="http://www.israeltour.online/">от лицензированного гида</a></h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
 				<div class="clearfix"></div>

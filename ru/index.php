@@ -45,7 +45,7 @@ $reqemail = "rentcargroup@privateisrael.com";
             $message .= '<hr />';
             $message .= 'Бронирование автомобиля в Израиле на http://www.rentcarisrael.online +972-58-7710101';
             $message .= '<hr />';
-$message .= '<img src="http://www.rentcarisrael.online/images/Thrifty-Israel.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
+$message .= '<img src="http://www.rentalcarsisrael.com/images/europcar_Z.jpg" alt="Бронирование автомобиля в Израиле +972-58-7710101" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>First Name:</strong> </td><td>" . strip_tags($_POST['First_name']) . "</td></tr>";
 $message .= "<tr style='background: #eee;'><td><strong>Last Name:</strong> </td><td>" . strip_tags($_POST['Last_name']) . "</td></tr>";
