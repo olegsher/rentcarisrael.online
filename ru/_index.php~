@@ -553,10 +553,10 @@
 
 <tr>
 <td>Z PVAR</td>
-<td><strong><a href="catZ_Ford_Tranzit_9seats_automatic.php">Ford Transit</a>,         
-        <a href="catZ_VW_Transporter_9seats_automatic.php">VW Transporter,</a>         
-        <a href="catZ_Citroen_Jumpy_9seats_automatic.php">Citroen Jumpy,</a>        
-        <a href="catZ_Hyundai_i800_9seats_automatic.php">Hyundai i800 H1</a>
+<td><strong><a href="http://www.rentalcarsisrael.com/ru/catZ_Ford_Tranzit_9seats_automatic.php">Ford Transit</a>,         
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_VW_Transporter_9seats_automatic.php">VW Transporter,</a>         
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_Citroen_Jumpy_9seats_automatic.php">Citroen Jumpy,</a>        
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_Hyundai_i800_9seats_automatic.php">Hyundai i800 H1</a>
     </strong> 
     или похожие в данной категории проката, 9 мест
     
@@ -820,11 +820,11 @@
 <td>
 <p>C ECAR</p>
 </td>
-<td><strong><a href="catC_Hyundai_i10_4seats_automatic.php">Hyundai_i10</a>,
-                    <a href="catC_Kia_Picanto_4seats_automatic.php">Kia_Picanto</a>,
-                    <a href="catC_Peugeot_107_4seats_automatic.php">Peugeot_107</a>,
-                    <a href="catC_Skoda_Citigo_4seats_automatic.php">Skoda_Citigo</a>,
-                    <a href="catC_Toyota_Aygo_4seats_automatic.php">Toyota_Aygo</a></strong> или похожие в данной категории проката, 4 мест
+<td><strong><a href="http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php">Hyundai_i10</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Kia_Picanto_4seats_automatic.php">Kia_Picanto</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Peugeot_107_4seats_automatic.php">Peugeot_107</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Skoda_Citigo_4seats_automatic.php">Skoda_Citigo</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Toyota_Aygo_4seats_automatic.php">Toyota_Aygo</a></strong> или похожие в данной категории проката, 4 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
 <a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
 <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
@@ -1075,6 +1075,8 @@
 <hr />
 <h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
 <br>
+
+<?php include("http://www.rentalcarsisrael.com/ru/__branches.html"); ?>
 
 <div class="table-responsive">     
 <table class="table table-bordered">

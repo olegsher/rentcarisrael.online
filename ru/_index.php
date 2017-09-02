@@ -1076,6 +1076,8 @@
 <h4>ОТДЕЛЕНИЯ ПО АРЕНДЕ ПРОКАТУ АВТОМОБИЛЕЙ В ИЗРАИЛЕ:</h4>
 <br>
 
+<?php include("__branches.html"); ?>
+
 <div class="table-responsive">     
 <table class="table table-bordered">
 <tbody>
