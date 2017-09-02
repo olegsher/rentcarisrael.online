@@ -425,7 +425,7 @@
     </div>
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-<img src="images/catJ.png" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
+<img src="http://www.rentalcarsisrael.com/images/europcar_Z.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 <!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
 <script type="text/javascript">
         var flashvars = {};
@@ -552,11 +552,54 @@
 </tr>
 
 <tr>
-<td>U PWAR</td>
-<td><strong>Mazda 5, Nissan Kashkay</strong> или похожие в данной категории проката, 7 мест
+<td>Z PVAR</td>
+<td><strong><a href="http://www.rentalcarsisrael.com/ru/catZ_Ford_Tranzit_9seats_automatic.php">Ford Transit</a>,         
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_VW_Transporter_9seats_automatic.php">VW Transporter,</a>         
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_Citroen_Jumpy_9seats_automatic.php">Citroen Jumpy,</a>        
+        <a href="http://www.rentalcarsisrael.com/ru/catZ_Hyundai_i800_9seats_automatic.php">Hyundai i800 H1</a>
+    </strong> 
+    или похожие в данной категории проката, 9 мест
+    
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион</td>
+<td>140</td>
+<td>161</td>
+<td>2120</td>
+<td>170</td>
+<td>191</td>
+<td>2420</td>
+</tr>
+
+<tr>
+<td>Y PVMR</td>
+<td><strong>Renault Traffic Man, Hyundai i800 H1 Man</strong> или похожие в данной категории проката, 9 мест (M)
+<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+Реховот, Герцлия, Петах Тиква, <br>
+Холон, Ришон Ле-Цион
+</td>
+<td>100</td>
+<td>94</td>
+<td>1600</td>
+<td>130</td>
+<td>124</td>
+<td>1900</td>
+</tr>
+
+
+
+
+
+<tr>
+<td>U PWAR</td>
+<td><strong>Opel Zafira Aut, Mazda 5 Aut, Citroen C4 Picasso, Nissan Qashqai+2 Aut, Toyota Prius Plus Aut</strong> или похожие в данной категории проката, 7 мест
+<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>64</td>
@@ -568,10 +611,10 @@
 </tr>
 <tr>
 <td>V MVAR</td>
-<td><strong>Ford Galaxy, Ssangyong Rodius, Kia Sorento,<br> Seat Alambra, Mitsubishi Outlander</strong> или похожие в данной категории проката,  7 мест
+<td><strong>Mitsubishi Outlander Aut, Ssangyong Rodius Aut, Kia Sorento Aut, Seat Alambra Aut</strong> или похожие в данной категории проката,  7 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>83</td>
@@ -583,10 +626,10 @@
 </tr>
 <tr>
 <td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 мест
+<td><strong>Ford Edge Aut, Toyota Highlander Aut</strong> или похожие в данной категории проката, 7 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>211</td>
@@ -597,27 +640,13 @@
 <td>4690</td>
 </tr>
 
-<tr>
-<td>S PVMR</td>
-<td><strong>Hyundai i800</strong> или похожие в данной категории проката, 8 мест (M)
-<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
-Реховот, Герцлия, Петах Тиква, <br>
-Холон, Ришон Ле-Цион</td>
-<td>111</td>
-<td>104</td>
-<td>1760</td>
-<td>141</td>
-<td>134</td>
-<td>2060</td>
-</tr>
+
 <tr>
 <td>V8 SVAR</td>
 <td><strong>Toyota Sienna LE, Kia Carnival</strong> или похожие в данной категории проката, 8 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
 </td>
@@ -630,37 +659,8 @@
 </tr>
 
 
-<tr>
-<td>Y PVMR</td>
-<td><strong>Renault Traffic, Hyundai i800</strong> или похожие в данной категории проката, 9 мест (M)
-<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
-Реховот, Герцлия, Петах Тиква, <br>
-Холон, Ришон Ле-Цион
-</td>
-<td>100</td>
-<td>94</td>
-<td>1600</td>
-<td>130</td>
-<td>124</td>
-<td>1900</td>
-</tr>
-<tr>
-<td>Z PVAR</td>
-<td><strong>VW Transporter, Citroen Jumpy, Hyundai i800</strong> или похожие в данной категории проката, 9 мест
-<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
-Реховот, Герцлия, Петах Тиква, <br>
-Холон, Ришон Ле-Цион</td>
-<td>140</td>
-<td>161</td>
-<td>2120</td>
-<td>170</td>
-<td>191</td>
-<td>2420</td>
-</tr>
+
+
 
 <tr>
 <td></td>
@@ -676,10 +676,10 @@
 
 <tr>
 <td>P XDAR</td>
-<td><strong>Buick LaCrosse, BMW 318, Audi A4</strong> или похожие в данной категории проката
+<td><strong>Nissan Maxima, Buick LaCrosse, BMW I520, Audi A4, Volvo S-80, Chevrolet Impala</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>124</td>
@@ -694,8 +694,8 @@
 <td>K SXAR</td>
 <td><strong>BMW i318</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, <a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>91</td>
@@ -707,11 +707,11 @@
 </tr>
 <tr>
 <td>W WXAR</td>
-<td><strong>BMW i535, Mercedes E-200, Cadillac CTS, <br>Audi A6, Lexus GS-250</strong> или похожие в данной категории проката
+<td><strong>Audi A6, BMW i535, Mercedes E-200, Audi A7, Infiniti Q-70 Hybrid, Cadillac CTS, Lexus GS-250</strong> или похожие в данной категории проката
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
 </td>
@@ -723,23 +723,7 @@
 <td>2930</td>
 </tr>
 
-<tr>
-<td>O MVAR</td>
-<td><strong>Toyota Highlander</strong> или похожие в данной категории проката, 7 мест
-<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
-Реховот, Герцлия, Петах Тиква, <br>
-Холон, Ришон Ле-Цион
-</td>
-<td>211</td>
-<td>194</td>
-<td>4390</td>
-<td>241</td>
-<td>224</td>
-<td>4690</td>
-</tr>
+
 
 
 <tr>
@@ -762,11 +746,11 @@
 <tr>
 <td>B EBMR</td>
 <td>
-<strong>Suzuki Alto,Peugeot 107, Skoda Citigo, <br>Hyundai i10, Kia Picanto</strong> или похожие в данной категории проката, 4 мест (M)
+<strong>Suzuki Alto</strong> или похожие в данной категории проката, 4 мест (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -782,11 +766,11 @@
 <tr>
 <td>T CVMR</td>
 <td>
-<strong>FIAT DOBLO ACTIVE</strong> или похожие в данной категории проката, 5 мест (M)
+<strong>Fiat Doblo Man, Renault Kangoo Man, Peugaut Partner Man, Citroen Berlingo Man</strong> или похожие в данной категории проката, 5 мест (M)
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -815,12 +799,12 @@
 <p>Q MBAR</p>
 </td>
 <td>
-<strong>FIAT 500</strong> или похожие в данной категории проката,  4 мест
+<strong>FIAT 500</strong> или похожие в данной категории проката, 2 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, 
-<a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -836,11 +820,15 @@
 <td>
 <p>C ECAR</p>
 </td>
-<td><strong>Toyota Aygo</strong> или похожие в данной категории проката, 4 мест
+<td><strong><a href="http://www.rentalcarsisrael.com/ru/catC_Hyundai_i10_4seats_automatic.php">Hyundai_i10</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Kia_Picanto_4seats_automatic.php">Kia_Picanto</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Peugeot_107_4seats_automatic.php">Peugeot_107</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Skoda_Citigo_4seats_automatic.php">Skoda_Citigo</a>,
+                    <a href="http://www.rentalcarsisrael.com/ru/catC_Toyota_Aygo_4seats_automatic.php">Toyota_Aygo</a></strong> или похожие в данной категории проката, 4 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -857,11 +845,11 @@
 <p>D CCAR</p>
 </td>
 <td>
-<strong>Hyundai i20, Toyota Yaris, Mitsubishi Space Star, <br>Nissan Micra, Toyota Verso, Suzuki Splash</strong> или похожие в данной категории проката,  4 мест
+<strong>Hyundai i20, Toyota Yaris Hybrid, Mitsubishi Space Star, Nissan Micra, Toyota Verso</strong> или похожие в данной категории проката,  4 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -878,11 +866,11 @@
 <p>E CDAR</p>
 </td>
 <td>
-<strong>Ford Fiesta, Mazda 2, Renault Clio, Kia Rio, <br>Hyundai i25, Mitsubishi Attrage</strong> или похожие в данной категории проката,  5 мест
+<strong>Ford Fiesta, Mazda 2, Opel Corsa, Renault Clio/SW, Kia Rio Hatchback, Mitsubishi Attrage</strong> или похожие в данной категории проката,  5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -897,11 +885,11 @@
 <tr>
 <td>F IDAR</td>
 <td>
-<strong>Kia Forte, Mitsubishi Lancer, Hyundai i30, <br>Kia Ceed, Citroen C-Elysee</strong> или похожие в данной категории проката, 5 мест
+<strong>Hyundai i25, Kia Rio Sedan, Mitsubishi Lancer, Kia Ceed Hatchback, Citroen C-Elysee</strong> или похожие в данной категории проката, 5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -913,14 +901,41 @@
 <td>930</td>
 
 </tr>
+
+<tr>
+<td>FX ESAR</td>
+<td><strong>Renault Megane Coupe, Honda Civic Coupe</strong> или похожие в данной категории проката, 5 мест
+<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
+</td>
+<td>33</td>
+<td>31</td>
+<td>760</td>
+<td>45</td>
+<td>43</td>
+<td>940</td>
+</tr>
+
+
+
+
+
+
+
+
 <tr>
 <td>I SDAR</td>
 <td>
-<strong>Mazda 3, Hyundai i35, Subaru Impreza, Renault Megan, <br>Skoda Roomster, Toyota Corolla, Ford Focus</strong> или похожие в данной категории проката, 5 мест
+<strong><a href="catI_mazda3.php">Mazda 3</a>, Hyundai Elantra, Subaru Impreza, Fiat Tipo, Toyota Corolla, Ford Focus, Kia Forte</strong> или похожие в данной категории проката, 5 мест
+
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
 Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
 Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион
 </td>
@@ -930,8 +945,28 @@
 <td>46</td>
 <td>44</td>
 <td>970  </td>
-
 </tr>
+
+<tr>
+<td>IW IWAR</td>
+<td><strong>Ford Focus SW, Seat Leon Sw, Kia Seed SW, Renault Megane SW, Hyundai i30 SW</strong> или похожие в данной категории проката, 5 мест
+<hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Беэр Шева, Бней Брак, <br>
+Нес-Циона, Реховот, Тверия, Герцлия, Афула, Петах Тиква, <br>
+Бейт Шемеш, Холон, Кирьят Шмона, Ришон Ле-Цион</td>
+<td>36</td>
+<td>34</td>
+<td>820</td>
+<td>48</td>
+<td>46</td>
+<td>1000</td>
+</tr>
+
+
+
+
 
 <tr>
 <td></td>
@@ -947,11 +982,11 @@
 <tr>
 <td>H FDAR</td>
 <td>
-<strong>HONDA CIVIC</strong> или похожие в данной категории проката, 5 мест
+<strong>Honda Civic, VW Jetta, Reanult Fluence, Fiat 500X</strong> или похожие в данной категории проката, 5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
 </td>
@@ -966,12 +1001,12 @@
 
 <tr>
 <td>J IFAR</td>
-<td><strong>KIA SPORTAGE</strong> или похожие в данной категории проката, 5 мест
+<td><strong>Hyundai Toucson Aut, Kia Sportage Aut, Nissan Qashqai Aut, Mazda CX-5 Aut, Subaru XV Aut</strong> или похожие в данной категории проката, 5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, 
-<a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион</td>
 <td>67</td>
@@ -988,11 +1023,11 @@
 <p>M PDAR</p>
 </td>
 <td>
-<strong>MAZDA 6</strong> или похожие в данной категории проката, 5 мест
+<strong>Mazda 6/SW, Toyota Avensis, Ford Mondeo, Subaru B-4, Honda Accord</strong> или похожие в данной категории проката, 5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
-Кфар Саба, <a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
+Кфар Саба, <a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
 </td>
@@ -1009,12 +1044,12 @@
 <p>MH SXAH</p>
 </td>
 <td>
-<strong>HONDA ACCORD HYBRID</strong> или похожие в данной категории проката, 5 мест
+<strong>Hyundai Sonata Hybrid, Honda Accord Hybrid, Toyota Camry Hybrid</strong> или похожие в данной категории проката, 5 мест
 <hr /><strong>Для аренды в городских отделениях проката автомобилей в Израиле:</strong> <br>
-<a href="http://www.rentcarisrael.online/ru/benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
-<a href="http://www.rentcarisrael.online/ru/Eilat.php">Эйлат</a>, Иерусалим, <br>
+<a href="benGurion.php">Аэропорт Бен Гурион</a>, Тель-Авив, 
+<a href="Eilat.php">Эйлат</a>, Иерусалим, <br>
 Кфар Саба, 
-<a href="http://www.rentcarisrael.online/ru/Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
+<a href="Netanya.php">Нетания</a>, Ашдод, Бней Брак, <br>
 Реховот, Герцлия, Петах Тиква, <br>
 Холон, Ришон Ле-Цион
 </td>
@@ -1028,7 +1063,7 @@
 </tr>
 
 </tbody>
-</table>    
+</table>     
 
 
 
