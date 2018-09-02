@@ -411,11 +411,11 @@
                         <span class="glyphicon glyphicon-user"></span> Renter info
                     </span>
                     
-                    <input type="text" name="First_name" required class="form-control" placeholder="First and Last Name">  
+                    <input type="text" name="First_name" pattern="[A-Za-z]{1,32}" required class="form-control" placeholder="Name">  
 <!--                     <input type="text" name="Last_name" required class="form-control" placeholder="Last Name">  -->
                     <input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" required id="email" class="form-control" placeholder="Email address">  
-                      <input type="text" name="phone" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
-                      <input type="text" name="message" class="form-control" placeholder="message">  
+                      <input type="text" name="phone" pattern="/(+/1/2/3/4/5/6/7|8|9)\d{9}/" required class="form-control" placeholder="Phone/WhatsApp/Viber" >  
+                      <input type="text" name="message" pattern="[A-Za-z]{1,132}" class="form-control" placeholder="message">  
                         
                         <div >Driver's age:                         
                        <label class="radio-inline"><input type="radio" name="age" value="21-22">21-22</label>
