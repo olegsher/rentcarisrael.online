@@ -11,7 +11,7 @@
 
 
 
-<div class="container pt-5">
+<div class="container pt-5" id="app">
     <div class="row mb-3">
         <div class="col">
             <h1>car rental</h1>
@@ -20,14 +20,20 @@
     <div class="row">
         <div class="col-md-4">
             <div class="form-group">
-                test1
+                <ul class="list-group">
+                    <li
+                            v-for="car in cars"
+                    >
+                    {{ car.name }}
+                    </li>
+                </ul>
             </div>
         </div>
 
     <div class="col-md-8 pt-3">
         <div class="row">
             <div class="col-md-5">
-                <h2>testq </h2>
+               <h5>car </h5>
                 <img src="images/catB.jpg" class="rounded-circle">
             </div>
 
@@ -38,6 +44,7 @@
                     <li>car 1</li>
                     <li>car 2</li>
                 </ul>
+                <button class="btn-primary">Rent</button>
             </div>
 
     </div>
