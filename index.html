@@ -21,14 +21,13 @@
         <div class="col-md-4">
             <div class="form-group">
                 <ul class="list-group">
-                    <li
-                            v-for="car in cars"
-                    >
-                    {{ car.name }}
+                    <li v-for = "car of cars">
+                    {{ car.type }}
                     </li>
                 </ul>
             </div>
         </div>
+
 
     <div class="col-md-8 pt-3">
         <div class="row">
