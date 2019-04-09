@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /js/
-Disallow: /fonts/
-Disallow: /css/
-Sitemap: http://www.rentcarisrael.online/sitemap.xml
