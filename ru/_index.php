@@ -4,22 +4,12 @@
 <i> <img src="http://www.rentalcarsisrael.com/images/europcar_W.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" /></i>
 		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
-<<<<<<< HEAD
 
-	 <hr />
-=======
-                    
-    <!-- <hr /><a  href="minivan.php">Прокат минивэнов - наш бизнес</a>
-    <hr /><a  href="http://www.israeltour.online/ru/">Акция для клиентов - Частный гид за 250$</a> -->
-    <!-- <hr /><a  href="http://www.rentcarisrael.online/transfer.php">Частный трансфер из аэропорта Бен Гурион начиная от 60$</a> -->
-	 <hr /><a href="http://www.israeltour.online"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="20" height="20" />
- Индивидуальные экскурсии по Израилю с частным гидом 250$</span></a>    
->>>>>>> origin/old
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
-    <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней      
-	 <br><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
+    <br><img src="images/blue_star_20px" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
+    <br><img src="images/blue_star_20px" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
+    <br><img src="images/blue_star_20px" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
+    <br><img src="images/blue_star_20px" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней
+	 <br><img src="himages/blue_star_20px" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
                 
                 
 	</div>
@@ -368,14 +358,13 @@
 <!--                        
                         <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
                         <br />
-                        <input type="submit" name="submit" value="ЗАКАЗАТЬ">
+                        <input type="submit" name="submit" value="ЗАКАЗАТЬ"> или <img src="images/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
                         
 
                         
   </form>
                 
- <h5><a href="http://www.israeltour.online/ru/"><span><img src="http://www.privateisrael.com/wp-content/uploads/2017/03/flashing.gif" alt="лучшие цены privateisrael.com" width="40" height="40" />
- добавить индивидуальную экскурсию по Израилю с частным гидом</span></a></h5>
+ <h5>добавить индивидуальную экскурсию по Израилю с частным гидом</span></a></h5>
 
 
 	</div>
