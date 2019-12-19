@@ -5,11 +5,11 @@
 		<h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
                 
 
-    <br><img src="images/blue_star_20px" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
-    <br><img src="images/blue_star_20px" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
-    <br><img src="images/blue_star_20px" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
-    <br><img src="images/blue_star_20px" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней
-	 <br><img src="himages/blue_star_20px" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
+    <br><img src="images/blue_star_20px.png" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
+    <br><img src="images/blue_star_20px.png" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
+    <br><img src="images/blue_star_20px.png" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
+    <br><img src="images/blue_star_20px.png" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней
+	 <br><img src="images/blue_star_20px.png" alt="Консультация и помощь по бронированию автомобиля в Израиле на русском языке" width="20" height="20" />Консультации и помощь по бронированию автомобиля в Израиле на русском языке.
                 
                 
 	</div>
@@ -408,8 +408,8 @@
 				<img src="images/guide.png" alt="Позвоните Vastama по аренде атомобиля в Израиле" class="img-responsive" />
 			</div>
 			<div class="rup-rgt">
-				<h3><a href="http://www.israeltour.online/">Экскурсия на машине клиента всего 250$</a></h3>
-				<h4><a href="http://www.israeltour.online/">от лицензированного гида</a></h4>
+				<h3>Экскурсия на машине клиента всего 250$</h3>
+				<h4>от лицензированного гида</h4>
 				<p>при заказе аренды машины на нашем сайте</p>
 			</div>
 				<div class="clearfix"></div>
@@ -420,24 +420,7 @@
 
 <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
 <img src="http://www.rentalcarsisrael.com/images/europcar_Z.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
-<!--<script type="text/javascript" src="https://zadarma.com/swfobject.js"></script>
-<script type="text/javascript">
-        var flashvars = {};
-        flashvars.phone="61919";
-        flashvars.img1="https://zadarma.com/images/but/call3_green_ru_free.png";
-        flashvars.img2="https://zadarma.com/images/but/call2_green_ru_connecting.png";
-        flashvars.img3="https://zadarma.com/images/but/call2_green_ru_reset.png";
-        flashvars.img4="https://zadarma.com/images/but/call2_green_ru_error.png";
-        var params = {};
-        params.wmode="transparent";
-        var attributes = {};
-        swfobject.embedSWF("js/pbutton.swf", "myAlternativeContent", "215", "138", "9.0.0", false, flashvars, params, attributes);
-</script>
-<div id="myAlternativeContent">
-    <a href="http://www.adobe.com/go/getflashplayer">
-        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
-    </a>
-</div>-->
+
     <br /><h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
 </div> 
 <br />Хотите уточнить нужно ли вам детское кресло?
