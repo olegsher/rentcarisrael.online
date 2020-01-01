@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,35 @@
       </console-settings>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="rentcarisrael" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rentcarisrael.online" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rentcarisrael.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rentcarisrael" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -62,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577898635485</updated>
-      <workItem from="1577898639626" duration="11306000" />
+      <workItem from="1577898639626" duration="12370000" />
     </task>
     <servers />
   </component>
@@ -71,5 +100,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="143" key="#rentcarisrael" timestamp="1577918309011">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state x="667" y="143" key="#rentcarisrael/0.0.1920.1000@0.0.1920.1000" timestamp="1577918309011" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1577918320853">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1000@0.0.1920.1000" timestamp="1577918320853" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1577918320852">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1000@0.0.1920.1000" timestamp="1577918320852" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1577918320851">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1000@0.0.1920.1000" timestamp="1577918320851" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1577918320853">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1000@0.0.1920.1000" timestamp="1577918320853" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rentcarisrael_online$rentcarisrael.coverage" NAME="rentcarisrael Coverage Results" MODIFIED="1577918309021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

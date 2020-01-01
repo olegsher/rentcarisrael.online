@@ -208,11 +208,10 @@ def terms():
 def faq():
     return render_template('faq.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
+
 @app.route('/ru/about')
 def about():
     return render_template('about.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
-
-
 
 
 @app.route('/ru/request_car', methods=["POST"])
@@ -234,8 +233,8 @@ def request_car():
     addDriver = request.form.get("addDriver")
     tour = request.form.get("tour")
 
-    subject = 'rentcarisrael.online RU | {} rent from {} till {} {} {}'.format(car, date_rent, date_return, First_name, Last_name )
-    body = 'rentcarisrael.online RU |  Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
+    subject = '{} rent from {} till {} {} {}'.format(car, date_rent, date_return, First_name, Last_name )
+    body = 'Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
         .format(car, First_name, Last_name, email, date_rent, date_return, phone, message, SuperCDW, SuperTP, age, DriverExperience, addDriver, childseat, tour)
     msg = Message(subject=subject,
         sender=app.config.get("MAIL_USERNAME"),
