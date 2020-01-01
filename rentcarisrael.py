@@ -234,8 +234,8 @@ def request_car():
     addDriver = request.form.get("addDriver")
     tour = request.form.get("tour")
 
-    subject = '{} rent from {} till {} {} {}'.format(car, date_rent, date_return, First_name, Last_name )
-    body = 'Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
+    subject = 'rentcarisrael.online RU | {} rent from {} till {} {} {}'.format(car, date_rent, date_return, First_name, Last_name )
+    body = 'rentcarisrael.online RU |  Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
         .format(car, First_name, Last_name, email, date_rent, date_return, phone, message, SuperCDW, SuperTP, age, DriverExperience, addDriver, childseat, tour)
     msg = Message(subject=subject,
         sender=app.config.get("MAIL_USERNAME"),
