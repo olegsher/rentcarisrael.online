@@ -54,7 +54,7 @@
 <div class="header">
     <div class="container">
         <div class="logo wow fadeInDown animated" data-wow-delay=".5s">
-            <a href="http://www.rentcarisrael.online/">Аренда автомобиля в <span>Израиле</span></a>
+            <a href="/ru/">Аренда автомобиля в <span>Израиле</span></a>
         </div>
         <div class="lock fadeInDown animated" data-wow-delay=".5s">
             <div class="securetxt">ДЕШЕВО БЫСТРО И УДОБНО</div>
@@ -82,19 +82,13 @@
                 <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
                     <nav class="cl-effect-1">
                         <ul class="nav navbar-nav">
-                            <li><a href="index"> <img src="../static/img/eurocar-logo.png"  alt="прокат аренда авто израиль" class="img-responsive" /></a></li>
-                            <li><a href="minivan">МИНИВЭНЫ</a></li>
-                            <!-- <li><a href="lux.php">Lux&Premium</a></li> -->
-                            <li><a href="branches">ОТДЕЛЕНИЯ</a></li>
-
-                            <li><a href="insurance">СТРАХОВКИ</a></li>
-                            <li><a href="terms">УСЛОВИЯ АРЕНДЫ</a></li>
-                            <li><a href="faq">ЧаВо</a></li>
-                            <li><a href="about">О КОМПАНИИ</a></li>
-                            <!--                      <li><a href="../en"><img src="../img/flags/United-States.png" alt="..." class="pull-right">English</a></li> -->
-
-                            <!--  <li><a href="tours.php">ЭКСКУРСИИ</a></li> -->
-                            <!--                                                        <div class="clearfix"></div>-->
+                            <li><a href="/ru/"> <img src="../static/img/eurocar-logo.png"  alt="прокат аренда авто израиль" class="img-responsive" /></a></li>
+                            <li><a href="/ru/minivans">МИНИВЭНЫ</a></li>
+                            <li><a href="/ru/branches">ОТДЕЛЕНИЯ</a></li>
+                            <li><a href="/ru/insurance">СТРАХОВКИ</a></li>
+                            <li><a href="/ru/terms">УСЛОВИЯ АРЕНДЫ</a></li>
+                            <li><a href="/ru/faq">ЧаВо</a></li>
+                            <li><a href="/ru/about">О КОМПАНИИ</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -127,37 +121,15 @@
         <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены.
             <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
         <br />
-        <form id="contactform" method="post">
+        <form action="request_car" method="POST">
             <div class="ban-top">
                 <div class="bnr-left">
-                    <label  for="car-select">Выбирайте класс автомобиля</label>
-
-
-                    <select class="form-control" name="car-select" id="car-select" required >
-                        <option value="" >Категории автомобилей</option>
-                        <option value="Category Q" >Fiat 500(два места) или похожая в категории Q - от 24$ в сутки(франшиза - 475$)</option>
-                        <option value="Category B" >Suzuki Alto(механика) или похожая в категории B - от 24$ в сутки(франшиза - 475$)</option>
-                        <option value="Category C" >Kia Picanto(робот) или похожая в категории C - от 25$ в сутки(франшиза - 475$)</option>
-                        <option value="Category D" >Hyundai i20(автомат) или похожая в категории D - от 26$ в сутки(франшиза - 475$)</option>
-                        <option value="Category E" >Ford Fiesta(автомат) или похожая в категории E - от 27$ в сутки(франшиза - 475$)</option>
-                        <option value="Category F" >Hyundai i25(автомат) или похожая в категории F - от 30$ в сутки(франшиза - 475$)</option>
-                        <option value="Category FX" >Renault Megane Coupe(автомат) или похожая в категории FX - от 31$ в сутки(франшиза - 475$)</option>
-                        <option value="Category I" >Mazda 3(автомат) или похожая в категории I - от 32$ сутки(франшиза - 475$)</option>
-                        <option value="Category IW" >Ford Focus SW(автомат) или похожая в категории IW - от 34$ сутки(франшиза - 475$)</option>
-                        <option value="Category H" >Honda Civic(автомат) или похожая в категории H - от 41$ в сутки(франшиза - 715$)</option>
-                        <option value="Category M" >Mazda 6(автомат) или похожая в категории M - от 47$ в сутки(франшиза - 715$)</option>
-                        <option value="Category MH" >Hyundai Sonata(автомат) или похожая в категории MH - от 57$ в сутки(франшиза - 715$)</option>
-                        <option value="Category T" >Fiat Doblo(механика, 5 мест) или похожая в категории T - от 60$ в сутки(франшиза - 475$)</option>
-                        <option value="Category J" >Hyundai Tucson(автомат, 5 мест) или похожая в категории J - от 63$ в сутки(франшиза - 715$)</option>
-                        <option value="Category U" >Opel Zafira(автомат, 7 мест) или похожая в категории U - от 60$ в сутки(франшиза - 715$)</option>
-                        <option value="Category V" >Mitsubishi Outlander(автомат, 7 мест) или похожая в категории V - от 77$ в сутки(франшиза - 960$)</option>
-                        <option value="Category V8" >Kia Carnival(автомат, 8 мест) или похожая в категории V8 - от 120$ в сутки(франшиза - 960$)</option>
-                        <option value="Category Y" >Citroen Jumpy(механика, 9 мест)или похожая в категории Y - от 94$ в сутки(франшиза - 960$)</option>
-                        <option value="Category Z" >Ford Transit(автомат, 9 мест) или похожая в категории Z - от 131$ в сутки(франшиза - 960$)</option>
-                        <option value="Category P" >Nissan Maxima(автомат) или похожая в категории P - от 116$ в сутки(франшиза - 960$)</option>
-                        <option value="Category K" >BMW 318i(автомат) или похожая в категории K - от 84$ в сутки(франшиза - 960$)</option>
-                        <option value="Category W" >Audi A6(автомат) или похожая в категории W - от 155$ в сутки(франшиза - 960$)</option>
-                        <option value="Category O" >Ford Edge(автомат) или похожая в категории O - от 174$ в сутки(франшиза - 960$)</option>
+                    <label  for="car">Выбирайте класс автомобиля</label>
+                    <select class="" name="car" id="car" required>
+                        <option value="">Выбирайте категорию автомобиля</option>
+                        {% for i in range(1,25) %}
+                        <option value="Category {{Albar_my_low_price[i][2]}}">{{Albar_my_low_price[i][3]}} мест {{Albar_my_low_price[i][7]}} - от {{Albar_my_low_price[i][18]}}$ в сутки</option>
+                        {% endfor %}
                     </select>
                     <br />
                 </div>
@@ -170,30 +142,11 @@
 
                     <select class="form-control" name="pickup-location" id="pickup-location" required>
                         <option value="">Отделение</option>
-                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
-                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
-                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>
-                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
-                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>
-                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
+                        {% for i in range(1,27) %}
+                        <option value="{{Albar_branches[i][3]}}">{{Albar_branches[i][3]}}, {{Albar_branches[i][4]}} - +{{Albar_branches[i][5]}}</option>
+                        {% endfor %}
                     </select>
-                    <input name="pickup-date" type="date"  min="2016-10-02" required = "required">
+                    <input name="date_rent" type="date"  min="2020-01-01" required = "required">
                     <!-- <input type="time" name="pickup-time" id="pickup-time"  required = "required" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'hh:mm';}"> -->
                     <label for="pickup-time"></label>
                     <select class="form-control" name="pickup-time" id="pickup-time" required>
@@ -256,30 +209,11 @@
 
                     <select class="form-control" name="dropoff-location" id="dropoff-location" required>
                         <option value="">Отделение</option>
-                        <option value="Аэропорт Бен Гурион">Аэропорт Бен Гурион</option>
-                        <option value="Тель Авив, ул. ха-Яркон, 80">Тель Авив, ул. ха-Яркон, 80</option>
-                        <option value="Тель Авив, ул. ха-Масгер, 9">Тель Авив, ул. ха-Масгер, 9</option>
-                        <option value="Иерусалим, ул. Кинг Давид, 19">Иерусалим, ул. Кинг Давид, 19</option>
-                        <option value="Хайфа, шдерот ха-Гистадрут, 88">Хайфа, шдерот ха-Гистадрут, 88</option>
-                        <option value="Нетания, ул. Усишкин, 1">Нетания, ул. Усишкин, 1</option>
-                        <option value="Тверия, ул. ха-Ярден, 71">Тверия, ул. ха-Ярден, 71</option>
-                        <option value="Эйлат, ул. Шешет ха-Ямим, 3">Эйлат, ул. Шешет ха-Ямим, 3</option>
-                        <option value="Афула, ул. Менахем Бегин, 70">Афула, ул. Менахем Бегин, 70</option>
-                        <option value="Ашдод, ул. ха-Оргим, 7">Ашдод, ул. ха-Оргим, 7</option>
-                        <option value="Беэр Шева, дерех Хеврон, 129">Беэр Шева, дерех Хеврон, 129</option>
-                        <option value="Бейт Шемеш, ул. Нахалат Зоар, 10">Бейт Шемеш, ул. Нахалат Зоар, 10</option>
-                        <option value="Бней Брак, ул. Каханман, 106">Бней Брак, ул. Каханман, 106</option>
-                        <option value="Бней Брак, ул. Мивца Кадош, 64">Бней Брак, ул. Мивца Кадош, 64</option>
-                        <option value="Герцелия, ул. Аба Евен, 8">Герцелия, ул. Аба Евен, 8</option>
-                        <option value="Холон, ул. ха-Меркава, 73">Холон, ул. ха-Меркава, 73</option>
-                        <option value="Кфар Саба, ул. ха-Таяс, 17">Кфар Саба, ул. ха-Таяс, 17</option>
-                        <option value="Кирьят Шмона, ул. ха-Ярден, 1">Кирьят Шмона, ул. ха-Ярден, 1</option>
-                        <option value="Нес Циона, ул. ха-Патиш, 10">Нес Циона, ул. ха-Патиш, 10</option>
-                        <option value="Петах Тиква, ул. Жаботински, 82">Петах Тиква, ул. Жаботински, 82</option>
-                        <option value="Реховот, ул. Герцль, 96">Реховот, ул. Герцль, 96</option>
-                        <option value="Ришон ле-Цион, ул. Сахаров, 14">Ришон ле-Цион, ул. Сахаров, 14</option>
+                        {% for i in range(1,27) %}
+                        <option value="{{Albar_branches[i][3]}}">{{Albar_branches[i][3]}}, {{Albar_branches[i][4]}} - +{{Albar_branches[i][5]}}</option>
+                        {% endfor %}
                     </select>
-                    <input name="dropoff-date" type="date"  min="2016-10-02" required = "required">
+                    <input name="date_return" type="date"  min="2020-01-01" required = "required">
 
 
 
@@ -465,7 +399,7 @@
             <!--
                                     <div class="g-recaptcha" data-sitekey="6LcVRQgUAAAAALqre7PqN_m3eNet_RK1XrRoj6Hz"></div>-->
             <br />
-            <input type="submit" name="submit" value="ЗАКАЗАТЬ"> или <img src="../static/img/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
+            <input type="submit" value="ОТПРАВИТЬ ЗАПРОС" > или <img src="../static/img/whatsapp.png" height="20" width="20" alt="Whatsapp"/><a href="https://wa.me/972587710101?text=Я%20заинтересован%20в%20аренде%20авто%20в%20Израиле"/> +972-58-771-0101</a>
 
 
 
