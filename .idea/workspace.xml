@@ -2,11 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-easing/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom 2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery-ui-1.12.1.custom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vendor/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index_ru.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout_ru.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577898635485</updated>
-      <workItem from="1577898639626" duration="4939000" />
+      <workItem from="1577898639626" duration="5878000" />
     </task>
     <servers />
   </component>
