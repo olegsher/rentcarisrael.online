@@ -106,7 +106,6 @@
         <h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
 
 
-        <br><img src="../static/img/blue_star_20px.png" alt="Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона" width="20" height="20" />Аренда прокат всех категорий машин на Майские праздники по цене низкого сезона
         <br><img src="../static/img/blue_star_20px.png" alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20" />Отделения по аренде прокату автомобилей во всех крупных городах Израиля
         <br><img src="../static/img/blue_star_20px.png" alt="Неограниченный километраж при заказе 3-29 дней" width="20" height="20" />Неограниченный километраж при заказе 3-29 дней
         <br><img src="../static/img/blue_star_20px.png" alt="Огромные скидки при бронирование автомобиля на 30+ дней" width="20" height="20" />Огромные скидки при бронирование автомобиля на 30+ дней
@@ -118,7 +117,7 @@
 
     <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
         <h1>Заполните форму и получите ваучер на почту</h1>
-        <p style="color:red;" >Нет скрытых платежей, обязательные страховки включены.
+        <p style="color:red;" >Нет скрытых платежей
             <br />Нет предоплаты, нет платы за изменение или отмену заказа </p>
         <br />
         <form action="request_car" method="POST">
@@ -543,7 +542,45 @@
     <h4>РАСЦЕНКИ НА АРЕНДУ ПРОКАТ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА СУТКИ В $USA:</h4>
     <br>
 
-    <div class="table-responsive">
+
+    <div class="container">
+
+
+    {% for i in range(1,25) %}
+    {% if Albar_my_low_price[i][3] !=  0  %}
+
+<hr />
+    <div class="card mb-3" >
+        <div class="row no-gutters">
+            <div class="col-xs-9 col-md-7">
+                <img src="{{Albar_my_low_price[i][6]}}" class="card-img" alt="...">
+                <br>Для аренды в городских отделениях проката автомобилей в Израиле:
+                Аэропорт Бен Гурион, Тель-Авив, Эйлат, Иерусалим,
+                Кфар Саба, Нетания, Ашдод, Бней Брак,
+                Реховот, Герцлия, Петах Тиква,
+                Холон, Ришон Ле-Цион
+            </div>
+            <div class="col-xs-7 col-md-5">
+                <div class="card-body">
+                    <h5 class="card-title">{{Albar_my_low_price[i][3]}}</h5>
+                    <p class="card-text">в категории {{Albar_my_low_price[i][2]}} <br>Мест - {{Albar_my_low_price[i][7]}} <br>Мал.сумок - {{Albar_my_low_price[i][8]}} <br>Бол.сумок - {{Albar_my_low_price[i][9]}} <br>Цена за доп километр - {{Albar_my_low_price[i][16]}} <br>Момeнт. подтверждение - {{Albar_my_low_price[i][22]}}</p>
+                    <p class="card-text">Низкий Сезон: НАША ЦЕНА ОТ {{Albar_my_low_price[i][18]}}$/сутки вместо <small class="text-muted">от {{Albar_reg_low_price[i][18]}} на сайте прокатчика</small></p>
+                    <p class="card-text">Высокий Сезон: НАША ЦЕНА ОТ {{Albar_my_high_price[i][18]}}$/сутки вместо <small class="text-muted">от {{Albar_reg_high_price[i][18]}} на сайте прокатчика</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    {% endif %}
+    {% endfor %}
+    </div>
+
+
+
+   <!-- <div class="table-responsive">
         <table class="table table-bordered">
             <tbody>
 
@@ -1098,7 +1135,7 @@
 
 
 
-    </div>
+    </div>-->
 
 </div>
 

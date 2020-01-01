@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/branches.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/insurance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/minivans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/terms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577898635485</updated>
-      <workItem from="1577898639626" duration="9174000" />
+      <workItem from="1577898639626" duration="11306000" />
     </task>
     <servers />
   </component>
