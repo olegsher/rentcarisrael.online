@@ -190,158 +190,32 @@
     </div>
     <div class="clearfix"></div>
 
+
     <div class="table-responsive">
         <table class="table table-bordered">
             <tbody>
             <tr>
-                <td>
-                    <p><strong>Город</strong></p>
-                </td>
-                <td>
-                    <p><strong>Адрес</strong></p>
-                </td>
-
+                <td><p><strong>Отделение проката</strong></p></td>
+                <td><p><strong>Адрес</strong></p></td>
+                <td><p><strong>Телефон в отделении</strong></p></td>
+                <td><p><strong>Часы работы</strong></p></td>
+                {% for i in range(1,27) %}
             </tr>
             <tr>
-                <td>
-                    <p><strong>Ашдод</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>7 Haorgim Street , Ashdod</td>
+                <td><p><strong>{{Albar_branches[i][3]}}</strong> - городское отделение аренды проката автомобилей в Израиле</p></td>
+                <td>{{Albar_branches[i][4]}} , {{Albar_branches[i][3]}}</td>
+                <td>+{{Albar_branches[i][5]}}</td>
+                <td>{{Albar_branches[i][9]}}</td>
             </tr>
-            <tr>
-                <td>
-                    <p><strong>Ben Gurion Int'l Airport</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>Terminal 3</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Афула</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>71 Menachem Begin Street , Afula</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Беэр Шева</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>18 Itzhak Nafha Street , Beer Sheva</td>
-
-            </tr>
-            <tr>
-                <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-                <td>106 Kahanman Street , Bnei Brak</td>
-
-            </tr>
-            <tr>
-                <td><strong>Бней Брак</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-                <td>64 Mivtza Kadesh Street , Bnei Brak</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Герцлия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>8 Aba Even Street , Herzeliya</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Иерусалим</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td><td>
-                19 King David Street , Jerusalem
-            </td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Кирьят Шмоне</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>1 Hayarden Street , Kiryat Shmone</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Нетания</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>1 Ussishkin Street , Natanya</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Бейт Шемеш</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>10 Nahal Zohar Street , Beit Shemesh</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Петах Тиква</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>82 Jabotinski Street , Petach Tikva</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Nes Tziona</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>10 Hapatish Street , Nes Tziona</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Ришон Лецио</strong>н - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>14 David Saharov Street , Rishon LeTsiyon</td>
-            </tr>
-
-            <tr>
-                <td>
-                    <p><strong>Реховот</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>96 Herzl Street , Rehovot</td>
-            </tr>
-            <tr>
-                <td><strong>Холон</strong> - городское отделение аренды проката автомобилей в Израиле</td>
-                <td>73 Hamerkava Street , Holon</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Тель Авив, набережная</strong> - центральное отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>80 Hayarkon Street , Tel Aviv</td>
-
-            </tr>
-            <tr>
-                <td><strong>Тель Авив</strong> - центральное отделение аренды проката автомобилей в Израиле</td>
-                <td>9 Hamasger Street , Tel Aviv</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Тверия</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>71 Hayarden Street , Tiberias</td>
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Кфар Саба</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>17 Ha'Taas Street , Kfar Saba</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Хайфа</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>88 Hahistadrut Street , Haifa</td>
-
-            </tr>
-            <tr>
-                <td>
-                    <p><strong>Эйлат</strong> - городское отделение аренды проката автомобилей в Израиле</p>
-                </td>
-                <td>3 Sheshet Hayamim Street , Eilat</td>
-
-            </tr>
+            {% endfor %}
             </tbody>
         </table>
-    </div>
+
+
+
+
+
+
 </div>
 </div>
 <!--copy-right -->
@@ -357,7 +231,7 @@
                 <!--				<li><a class="dribbble" href="#"><span>Dribbble</span></a></li>-->
             </ul>
         </div>
-        <p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">&copy; 2014-<?php echo date("Y") ?> Vastama Ltd . All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+        <p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">&copy; 2014-2020 Vastama Ltd . All Rights Reserved </p>
     </div>
 </div>
 <!-- /copy-right -->
