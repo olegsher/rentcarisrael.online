@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
       <updated>1577898635485</updated>
       <workItem from="1577898639626" duration="15898000" />
       <workItem from="1578040848763" duration="8631000" />
-      <workItem from="1578078077753" duration="1827000" />
+      <workItem from="1578078077753" duration="3319000" />
     </task>
     <servers />
   </component>
@@ -106,6 +106,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="537" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578082682185">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state x="537" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1000@0.0.1920.1000" timestamp="1578082682185" />
     <state x="667" y="143" key="#rentcarisrael" timestamp="1577918309011">
       <screen x="0" y="0" width="1920" height="1000" />
     </state>

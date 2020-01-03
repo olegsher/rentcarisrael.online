@@ -166,6 +166,7 @@ Albar_branches = [
     ["2","323","Tiberias  HFAE01 ","Tiberias","71 Hayarden Street","972 4 6666123","972 4 6944383","32.787906","35.537311","Sun-Thu 08:00-18:00 Fri 08:00-13:00","Tiberias"]
 ]
 
+
 # Russian site
 @app.route('/sitemap.xml')
 def sitemap(): return render_template('sitemap.xml')
