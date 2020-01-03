@@ -4,7 +4,6 @@
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/branches.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/branches.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +35,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -94,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577898635485</updated>
       <workItem from="1577898639626" duration="15898000" />
-      <workItem from="1578040848763" duration="6729000" />
+      <workItem from="1578040848763" duration="8631000" />
+      <workItem from="1578078077753" duration="1827000" />
     </task>
     <servers />
   </component>
@@ -109,6 +110,10 @@
       <screen x="0" y="0" width="1920" height="1000" />
     </state>
     <state x="667" y="143" key="#rentcarisrael/0.0.1920.1000@0.0.1920.1000" timestamp="1577918309011" />
+    <state x="708" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578079921463">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state x="708" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1000@0.0.1920.1000" timestamp="1578079921463" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1578013105210">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
