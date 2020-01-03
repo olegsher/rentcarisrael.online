@@ -9,7 +9,7 @@
     <meta property="fb:app_id" content="1322511981092474"/>
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="ru_RU"/>
-    <meta property="og:url" content="http://www.rentcarisrael.online"/>
+    <meta property="og:url" content="https://www.rentcarisrael.online"/>
     <meta property="og:image" content="http://www.rentcarisrael.online/images/thankyoucar.png"/>
     <meta property="og:image:type" content="image/png"/>
     <meta property="og:image:width" content="640"/>
@@ -121,7 +121,7 @@
             <a href="/ru/">Аренда автомобиля в <span>Израиле</span></a>
         </div>
         <div class="lock fadeInDown animated" data-wow-delay=".5s">
-            <div class="securetxt">ДЕШЕВО БЫСТРО И УДОБНО</div>
+            <div class="securetxt text-uppercase">дешево быстро и удобно</div>
             <!-- <div class="securetxt">Тел в России 7-499-1123-995</div> -->
             <div class="clearfix"></div>
         </div>
@@ -170,10 +170,12 @@
         <!--		<i class="fa fa-columns"></i>-->
         <i> <img src="http://www.rentalcarsisrael.com/images/europcar_W.jpg"
                  alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive"/></i>
-        <h3>БРОНИРОВАНИЕ АВТОМОБИЛЯ В ИЗРАИЛЕ ЗА ОДИН ШАГ</h3>
+        <h2 class="text-uppercase" >Бронирование автомобиля в Израиле за один шаг</h2>
+<hr/>
 
-
-        <p class="text-left"><img src="../static/img/blue_star_20px.png"
+        <p class="text-left"><img src="../static/img/blue_star_20px.png" alt="Нет скрытых платежей. Нет предоплаты, нет платы за изменение или отмену заказа" width="20"
+             height="20"/>Нет скрытых платежей. Нет предоплаты, нет платы за изменение или отмену заказа
+            <br><img src="../static/img/blue_star_20px.png"
                  alt="Отделения по аренде прокату автомобилей во всех крупных городах Израиля" width="20" height="20"/><a href="/ru/branches">Отделения
             по аренде прокату автомобилей</a> во всех крупных городах Израиля
         <br><img src="../static/img/blue_star_20px.png" alt="Неограниченный километраж при заказе 3-29 дней" width="20"
@@ -189,9 +191,9 @@
 
 
     <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
-        <h1>Заполните форму и наш сотрудник свяжется с вами для оформления аренды</h1>
-        <p style="color:red;">Нет скрытых платежей
-            <br/>Нет предоплаты, нет платы за изменение или отмену заказа </p>
+        <h1 class="text-uppercase">Аренда автомобиля в <span>Израиле</span></h1>
+        <h5 class="text-uppercase">Заполните форму и наш сотрудник свяжется с вами для оформления аренды</h5>
+
         <br/>
         <form action="request_car" method="POST">
             <div class="ban-top">
@@ -493,7 +495,7 @@
     ** Указанные цены НЕ ВКЛЮЧАЮТ обязательные страховки <br/>
     *** Указанные цены НЕ ВКЛЮЧАЮТ НДС(от НДС освобождены только туристы имеющие в пасторте визу В2\В3 - обязательно
     предоставить при получении машины) <br/>
-    Часы работы отделений - <a href="/ru/benGurion">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13
+    Часы работы отделений - <a href="/ru/branches">Аэропорт Бен Гурион</a> 24\7, остальные отделения 8-18, пятница 8-13
     <br/>
     <!-- Минимальный возраст водителя 21 год. Водитель 21-23 года - дополнительная оплата "молодой водитель" - 10$ в день <br /> -->
     Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль
@@ -557,8 +559,9 @@
              class="img-responsive"/>
 
         <br/>
-        <h2>ЕСТЬ ВОПРОСЫ ПО АРЕНДЕ?</h2>
+
     </div>
+    <h3 class="text-uppercase">есть вопросы по аренде автомобиля в Израиле?</h3>
     <br/>Хотите уточнить нужно ли вам детское кресло?
     <br/>Какой залог будет закрыт на вашей кредитной карточке?
     <br/>Будет ли добавлен НДС к вашему заказу?
@@ -580,7 +583,7 @@
     <!-- <div class="fb-like" data-href="https://www.facebook.com/vastama.israel/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div> -->
 
 
-    <h4>Последние отзывы наших клиентов: </h4>
+    <h3 class="text-uppercase">Последние отзывы наших клиентов: </h3>
     <br><a href="https://www.facebook.com/pg/vastama.israel/reviews/"> <img src="../static/img/facebook-icon-small.png"
                                                                             alt="отзывы наших клиентов пять звезд"
                                                                             height="20"/>
@@ -626,7 +629,7 @@
 
     <hr/>
 
-    <h4>Последние заказы на сайте: </h4>
+    <h3 class="text-uppercase">Последние заказы на сайте: </h3>
     <br><img src="../static/img/blue_star_20px.png" alt="заказы на сайте"/> Александр категория Mazda3, отделение аренды
     проката - Тель Авив, Яркон
     <br><img src="../static/img/blue_star_20px.png" alt="заказы на сайте"/> Татьяна категория Ford Fiesta, ‎отделение
@@ -650,12 +653,13 @@
 
         {% for i in range(1,24) %}
         <img src="{{ Albar_my_low_price[i][6] }}" class="card-img" alt="...">
-        <br>Категория - {{Albar_my_low_price[i][2]}}
+        <br>Категория - {{Albar_my_low_price[i][2]}} {{Albar_my_low_price[i][3]}}
+           <br><small>Модели автомобилей представлены исключительно для примера и при выдаче компания имеет право предоставить автомобиль того же класса, но другой марки.</small>
         <br>Мест - {{Albar_my_low_price[i][7]}}
         <br>Мал.сумок - {{Albar_my_low_price[i][8]}} || Бол.сумок - {{Albar_my_low_price[i][9]}}
 
         <br>
-        <img src="../static/img/snoflake.gif" height="20"/> сезон: НАША ЦЕНА ОТ {{Albar_my_low_price[i][18]}}$/сутки
+        НАША ЦЕНА ОТ {{Albar_my_low_price[i][18]}}$/сутки <small>(Указанные цены НЕ ВКЛЮЧАЮТ обязательные страховки и НДС)</small>
         <hr/>
         {% endfor %}
 
