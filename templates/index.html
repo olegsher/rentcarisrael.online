@@ -494,8 +494,11 @@
     </div>
     <hr />
 
-    <h4>Новости компании: </h4>
-    <br><img src="../static/img/action_winter_2020_Albar.jpg" class="img-responsive" alt="Новости компании - аренда прокат автомобилей в Израиле" />
+    <!--<h4>Новости компании: </h4>
+    <br><img src="../static/img/action_winter_2020_Albar.jpg" class="img-responsive" alt="Новости компании - аренда прокат автомобилей в Израиле" />-->
+
+
+
     <div class="col-md-7 bann-info wow fadeInRight animated" data-wow-delay=".5s">
         <img src="../static/img/europcar_Z.jpg" alt="машина прокат, машина прокат Израиле, аренда машины Израиль" class="img-responsive" />
 
@@ -572,7 +575,7 @@
     <br>
 
 
-    <div class="container">
+<!--    <div class="container">
 
 
     {% for i in range(1,25) %}
@@ -605,8 +608,57 @@
 
     {% endif %}
     {% endfor %}
+    </div>-->
+
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <tbody>
+            <tr>
+                <td><p><strong></strong></p></td>
+                <td><p><strong></strong></p></td>
+                <td><p><strong></strong></p></td>
+                {% for i in range(1,25) %}
+            </tr>
+            <tr>
+                <td><img src="{{ Albar_my_low_price[i][6] }}" class="card-img" alt="...">
+                    <hr />Мест - {{Albar_my_low_price[i][7]}}
+                    <br>Мал.сумок - {{Albar_my_low_price[i][8]}}
+                    Бол.сумок - {{Albar_my_low_price[i][9]}}</td>
+                <td>{{Albar_my_low_price[i][2]}}<br>
+                    {{Albar_my_low_price[i][3]}}<br>
+                    {{Albar_my_low_price[i][40]}}</td>
+                <td>
+                    <img src="../static/img/snoflake.gif" height="20"/> сезон: НАША ЦЕНА ОТ {{Albar_my_low_price[i][18]}}$/сутки( <small class="text-muted"> на сайте прокатчика Europcar от {{Albar_reg_low_price[i][18]}}</small>)<br>
+                    <img src="../static/img/fire.gif" height="20"/> сезон: НАША ЦЕНА ОТ {{Albar_my_high_price[i][18]}}$/сутки(  <small class="text-muted"> на сайте прокатчика Europcar от {{Albar_reg_high_price[i][18]}}</small>)</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
     </div>
 
+    <h4>Отдееления проката аренды автомобилей в Израиле</h4>
+    <br>
+
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <tbody>
+            <tr>
+                <td><p><strong>Отделение проката</strong></p></td>
+                <td><p><strong>Адрес</strong></p></td>
+                <td><p><strong>Телефон в отделении</strong></p></td>
+                <td><p><strong>Часы работы</strong></p></td>
+                {% for i in range(1,27) %}
+            </tr>
+            <tr>
+                <td><p><strong>{{Albar_branches[i][3]}}</strong> - городское отделение аренды проката автомобилей в Израиле</p></td>
+                <td>{{Albar_branches[i][4]}} , {{Albar_branches[i][3]}}</td>
+                <td>+{{Albar_branches[i][5]}}</td>
+                <td>{{Albar_branches[i][9]}}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
 
 
    <!-- <div class="table-responsive">
