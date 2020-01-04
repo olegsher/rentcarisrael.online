@@ -210,6 +210,7 @@ def about():
     return render_template('about.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
+
 @app.route('/ru/request_car', methods=["POST"])
 def request_car():
     title = "Спасибо за обращение к нам"
