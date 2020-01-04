@@ -4,6 +4,7 @@
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/success-send-email-ru.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/success-send-email-ru.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <updated>1577898635485</updated>
       <workItem from="1577898639626" duration="15898000" />
       <workItem from="1578040848763" duration="8631000" />
-      <workItem from="1578078077753" duration="8938000" />
+      <workItem from="1578078077753" duration="13721000" />
     </task>
     <servers />
   </component>
@@ -137,6 +138,10 @@
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1000@0.0.1920.1000" timestamp="1577918320853" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1578013105210" />
+    <state x="589" y="244" key="NewModule_or_Project.wizard" timestamp="1578091797678">
+      <screen x="0" y="0" width="1920" height="1000" />
+    </state>
+    <state x="589" y="244" key="NewModule_or_Project.wizard/0.0.1920.1000@0.0.1920.1000" timestamp="1578091797678" />
     <state x="623" y="193" width="673" height="693" key="find.popup" timestamp="1578047139452">
       <screen x="0" y="0" width="1920" height="1000" />
     </state>
