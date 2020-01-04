@@ -16,10 +16,11 @@ mail_settings = {
 app.config.update(mail_settings)
 mail = Mail(app)
 
-title = "Недорогая прокат аренда автомобиля в Израиле | rentcarisrael.online"
-title_ru = "Недорогая прокат аренда автомобиля в Израиле | rentcarisrael.online"
-description = "rentcarisrael.online Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
-description_minivan_ru = "rentcarisrael.online Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
+site = "RentCarIsrael.online"
+title = "Недорогая прокат аренда автомобиля в Израиле | " + site
+title_ru = "Недорогая прокат аренда автомобиля в Израиле | " + site
+description = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
+description_minivan_ru = site + " Недорогая прокат аренда автомобиля в Израиле, бронирование онлайн, нет предоплаты, безлимитный километраж, нет скрытых платежей, говорим по русски, отделения в Бен Гурион, Тель Авив, Хайфа, Эйлат, Нетания, Ашдод, эконом семейные и люкс автомобили, минивэны"
 
 insurance_text_ru_CDW = """Дополнительная страховка (Super CDW) <br/>не обязательная и снижает ответственность арендатора до Нуля в случае ущерба автомобилю (т.е отменяет франшизу).
 Приобрести данный вид страхования возможно только в дополнение к базовому полису(CDW/LDW & TP).
@@ -230,9 +231,9 @@ def request_car():
     addDriver = request.form.get("addDriver")
     tour = request.form.get("tour")
 
-    subject = '{} rent from {} till {} {} {}'.format(car, date_rent, date_return, First_name, Last_name )
-    body = 'Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
-        .format(car, First_name, Last_name, email, date_rent, date_return, phone, message, SuperCDW, SuperTP, age, DriverExperience, addDriver, childseat, tour)
+    subject = '{}: {} rent from {} till {} {} {}'.format(site, car, date_rent, date_return, First_name, Last_name )
+    body = '{}: Запрос на аренду категория {} от {} {} email: {}  c {} до {}  Тел - {};  Сообщение:  {};  SuperCDW - {}; SuperTP - {}; Возраст водителя - {}; Опыт вождения - {}; Доп.Водитель - {}; Детское сидение - {}; Заинтересован в экскурсии - {}'\
+        .format(site, car, First_name, Last_name, email, date_rent, date_return, phone, message, SuperCDW, SuperTP, age, DriverExperience, addDriver, childseat, tour)
     msg = Message(subject=subject,
         sender=app.config.get("MAIL_USERNAME"),
         recipients=[email],
