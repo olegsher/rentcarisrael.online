@@ -173,8 +173,8 @@ Albar_branches = [
 @app.route('/sitemap.xml')
 def sitemap(): return render_template('sitemap.xml')
 
-@app.route('/robot.txt')
-def robot(): return render_template('robot.txt')
+@app.route('/robots.txt')
+def robots(): return render_template('robots.txt')
 
 @app.route('/')
 def index():
