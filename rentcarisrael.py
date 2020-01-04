@@ -168,6 +168,7 @@ Albar_branches = [
 ]
 
 
+
 # Russian site
 @app.route('/sitemap.xml')
 def sitemap(): return render_template('sitemap.xml')
