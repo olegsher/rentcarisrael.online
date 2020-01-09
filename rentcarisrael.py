@@ -270,6 +270,3 @@ def request_car():
         body=body)
     mail.send(msg)
     return render_template('success-send-email-ru.html', title=title)
-
-
-
