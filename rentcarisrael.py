@@ -10,8 +10,7 @@ mail_settings = {
     "MAIL_USE_TLS": False,
     "MAIL_USE_SSL": True,
     "MAIL_USERNAME": os.environ['EMAIL_USER'],
-    "MAIL_PASSWORD": os.environ['EMAIL_PASSWORD'],
-    "MAIL_TO": 'rentcargroup@privateisrael.com'
+    "MAIL_PASSWORD": os.environ['EMAIL_PASSWORD']
 }
 
 app.config.update(mail_settings)
@@ -253,6 +252,7 @@ def request_car():
     date_rent = request.form.get("date_rent")
     date_return = request.form.get("date_return")
     email = request.form.get("email")
+    to_email = request.form.get("to_email")
     DriverExperience = request.form.get("DriverExperience")
     age = request.form.get("age")
     SuperCDW = request.form.get("SuperCDW")
@@ -266,7 +266,7 @@ def request_car():
         .format(site, car, First_name, Last_name, email, date_rent, date_return, phone, message, SuperCDW, SuperTP, age, DriverExperience, addDriver, childseat, tour)
     msg = Message(subject=subject,
         sender=app.config.get("MAIL_USERNAME"),
-        recipients=app.config.get("MAIL_TO"),
+        recipients=[to_email],
         body=body)
     mail.send(msg)
     return render_template('success-send-email-ru.html', title=title)
