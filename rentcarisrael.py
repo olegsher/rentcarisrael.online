@@ -273,6 +273,3 @@ def request_car():
 
 
 
-
-
-
