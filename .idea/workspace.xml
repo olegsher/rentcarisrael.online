@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcbf7414-e0b2-4e84-876b-fa39aab7b078" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/Eilat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Netanya.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/benGurion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentcarisrael.py" beforeDir="false" afterPath="$PROJECT_DIR$/rentcarisrael.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +104,8 @@
       <workItem from="1578040848763" duration="8631000" />
       <workItem from="1578078077753" duration="18412000" />
       <workItem from="1578230395536" duration="642000" />
-      <workItem from="1578602791404" duration="3171000" />
+      <workItem from="1578602791404" duration="3519000" />
+      <workItem from="1578692015891" duration="1463000" />
     </task>
     <servers />
   </component>

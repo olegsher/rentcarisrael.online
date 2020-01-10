@@ -214,23 +214,28 @@ def index_ru():
 
 
 @app.route('/ru/minivans')
+@app.route('/minivan.php')
 def minivans():
     return render_template('minivans.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/branches')
+@app.route('/branches.php')
 def branches():
     return render_template('branches.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/insurance')
+@app.route('/insurance.php')
 def insurance():
     return render_template('insurance.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_branches=Albar_branches, description=description)
 
 @app.route('/ru/terms')
+@app.route('/terms.php')
 def terms():
     return render_template('terms.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115,Albar_branches=Albar_branches, description=description)
 
 
 @app.route('/ru/faq')
+@app.route('/faq.php')
 def faq():
     return render_template('faq.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20200115, Albar_branches=Albar_branches, description=description)
 
@@ -239,6 +244,19 @@ def faq():
 def about():
     return render_template('about.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
+@app.route('/Eilat.php')
+def eilat():
+    return render_template('Eilat.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+
+
+@app.route('/Netanya.php')
+def netanya():
+    return render_template('Netanya.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
+
+
+@app.route('/benGurion.php')
+def benGurion():
+    return render_template('benGurion.html', title=title_ru, Albar_my_low_price = Albar_my_low_price_20191229, Albar_my_high_price = Albar_my_high_price_20191229, Albar_reg_low_price = Albar_reg_low_price_20191229, Albar_reg_high_price = Albar_reg_high_price_20191229,Albar_branches=Albar_branches, description=description)
 
 
 @app.route('/ru/request_car', methods=["POST"])
